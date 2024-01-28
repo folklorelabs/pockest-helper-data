@@ -10,6 +10,7 @@ permissions:
 
 env:
   GC_AUTH_KEY: ${{ secrets.GC_AUTH_KEY }}
+  GOOGLE_APPLICATION_CREDENTIALS: "./.gc.key.json"
 
 jobs:
   Production:
