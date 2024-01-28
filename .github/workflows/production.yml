@@ -26,7 +26,7 @@ jobs:
         id: create-json
         uses: jsdaniell/create-json@v1.2.2
         with:
-          name: "$GOOGLE_APPLICATION_CREDENTIALS"
+          name: "gc-credentials.json"
           json: ${{ secrets.GC_KEY_JSON }}
       # - name: GC Key
       #   run: |
