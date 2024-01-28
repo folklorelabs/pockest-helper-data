@@ -25,6 +25,8 @@ jobs:
       #   run: |
       #     touch .env
       #     echo DISCORD_WEBHOOK=\"${{ secrets.DISCORD_WEBHOOK }}\" >> .env
+      - name: Dependencies
+        run: npm ci
       - name: Fetch Sheet Data
         run: npm run fetch
       - name: Git push
