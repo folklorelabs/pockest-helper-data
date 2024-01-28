@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-tags: true
+          ref: 'gh-pages'
       - name: dependencies
         run: npm ci
       - name: auth key
@@ -29,10 +29,6 @@ jobs:
         with:
           name: "gc-credentials.json"
           json: ${{ secrets.GC_KEY_JSON }}
-      # - name: GC Key
-      #   run: |
-      #     touch .gc.key.json
-      #     echo \'${{ secrets.GC_KEY_JSON }}\' >> .gc.key.json
       - name: fetch sheet data
         run: npm run fetch
       - name: git config
