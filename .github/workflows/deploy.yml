@@ -1,9 +1,11 @@
-name: Production
+name: Deploy
 
 on:
   push:
     branches:
       - main
+  schedule:
+    - cron:  '0 * * * *'
 
 permissions:
   contents: write
@@ -14,9 +16,8 @@ env:
   GOOGLE_APPLICATION_CREDENTIALS: "gc-credentials.json"
 
 jobs:
-  Production:
+  Deploy:
     runs-on: ubuntu-latest
-    environment: production
     steps:
       - uses: actions/checkout@v4
         with:
