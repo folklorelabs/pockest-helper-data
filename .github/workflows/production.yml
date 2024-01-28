@@ -8,7 +8,7 @@ on:
 permissions:
   contents: write
 
-env:
+# env:
   # DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
 
 jobs:
