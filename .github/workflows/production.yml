@@ -8,8 +8,8 @@ on:
 permissions:
   contents: write
 
-# env:
-  # DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+env:
+  GC_AUTH_KEY: ${{ secrets.GC_AUTH_KEY }}
 
 jobs:
   Production:
@@ -21,10 +21,10 @@ jobs:
           fetch-tags: true
       - name: Git config
         uses: ./.github/actions/git-config
-      # - name: Dotenv config
-      #   run: |
-      #     touch .env
-      #     echo DISCORD_WEBHOOK=\"${{ secrets.DISCORD_WEBHOOK }}\" >> .env
+      - name: GC Auth Key
+        run: |
+          touch .gc.key.json
+          echo \"${{ secrets.GC_AUTH_KEY }}\" >> .gc.key.json
       - name: Dependencies
         run: npm ci
       - name: Fetch Sheet Data
