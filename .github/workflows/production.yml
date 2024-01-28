@@ -26,7 +26,7 @@ jobs:
         id: create-json
         uses: jsdaniell/create-json@v1.2.2
         with:
-          name: "credentials.json"
+          name: ".gc.key.json"
           json: ${{ secrets.MY_JSON }}
       # - name: GC Key
       #   run: |
