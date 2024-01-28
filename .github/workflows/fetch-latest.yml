@@ -1,4 +1,4 @@
-name: Deploy
+name: fetch-latest
 
 on:
   push:
@@ -16,7 +16,7 @@ env:
   GOOGLE_APPLICATION_CREDENTIALS: "gc-credentials.key.json"
 
 jobs:
-  Deploy:
+  fetch-latest:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
