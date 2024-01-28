@@ -10,7 +10,7 @@ permissions:
 
 env:
   GC_KEY_JSON: ${{ secrets.GC_KEY_JSON }}
-  GOOGLE_APPLICATION_CREDENTIALS: "./.gc.key.json"
+  GOOGLE_APPLICATION_CREDENTIALS: "gc-credentials.json"
 
 jobs:
   Production:
@@ -26,7 +26,7 @@ jobs:
         id: create-json
         uses: jsdaniell/create-json@v1.2.2
         with:
-          name: $GOOGLE_APPLICATION_CREDENTIALS
+          name: "$GOOGLE_APPLICATION_CREDENTIALS"
           json: ${{ secrets.GC_KEY_JSON }}
       # - name: GC Key
       #   run: |
