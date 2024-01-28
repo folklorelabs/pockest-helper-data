@@ -13,7 +13,7 @@ permissions:
 env:
   SHEET_ID: ${{ secrets.SHEET_ID }}
   GC_KEY_JSON: ${{ secrets.GC_KEY_JSON }}
-  GOOGLE_APPLICATION_CREDENTIALS: "gc-credentials.json"
+  GOOGLE_APPLICATION_CREDENTIALS: "gc-credentials.key.json"
 
 jobs:
   Deploy:
@@ -28,7 +28,7 @@ jobs:
         id: create-json
         uses: jsdaniell/create-json@v1.2.2
         with:
-          name: "gc-credentials.json"
+          name: "gc-credentials.key.json"
           json: ${{ secrets.GC_KEY_JSON }}
       - name: fetch sheet data
         run: npm run fetch
