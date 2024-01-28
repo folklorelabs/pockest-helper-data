@@ -25,7 +25,7 @@ jobs:
       - name: GC Auth Key
         run: |
           touch .gc.key.json
-          echo \"${{ secrets.GC_KEY_JSON }}\" >> .gc.key.json
+          echo \'${{ secrets.GC_KEY_JSON }}\' >> .gc.key.json
       - name: Dependencies
         run: npm ci
       - name: Fetch Sheet Data
