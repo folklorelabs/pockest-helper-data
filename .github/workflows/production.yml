@@ -20,17 +20,23 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-tags: true
-      - name: Git config
-        uses: ./.github/actions/git-config
-      - name: GC Auth Key
-        run: |
-          touch .gc.key.json
-          echo \'${{ secrets.GC_KEY_JSON }}\' >> .gc.key.json
-      - name: Dependencies
+      - name: dependencies
         run: npm ci
-      - name: Fetch Sheet Data
+      - name: auth key
+        id: create-json
+        uses: jsdaniell/create-json@v1.2.2
+        with:
+          name: "credentials.json"
+          json: ${{ secrets.MY_JSON }}
+      # - name: GC Key
+      #   run: |
+      #     touch .gc.key.json
+      #     echo \'${{ secrets.GC_KEY_JSON }}\' >> .gc.key.json
+      - name: fetch sheet data
         run: npm run fetch
-      - name: Git push
+      - name: git config
+        uses: ./.github/actions/git-config
+      - name: ghpages deploy
         run: |
           git add -A
           git commit -m 'Automated data fetch'
