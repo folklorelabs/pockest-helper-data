@@ -9,6 +9,7 @@ permissions:
   contents: write
 
 env:
+  SHEET_ID: ${{ secrets.SHEET_ID }}
   GC_KEY_JSON: ${{ secrets.GC_KEY_JSON }}
   GOOGLE_APPLICATION_CREDENTIALS: "gc-credentials.json"
 
