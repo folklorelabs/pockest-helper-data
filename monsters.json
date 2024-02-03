@@ -2559,23 +2559,5 @@
             4054,
             4094
         ]
-    },
-    {
-        "monster_id": 5001,
-        "name_en": "R5CRT PPSSTT",
-        "plan": "R5CRT",
-        "statPlan": "PPSSTT"
-    },
-    {
-        "monster_id": 5002,
-        "name_en": "R5CRT PSTTTT",
-        "plan": "R5CRT",
-        "statPlan": "PSTTTT"
-    },
-    {
-        "monster_id": 5003,
-        "name_en": "R5CRT TTTPST",
-        "plan": "R5CRT",
-        "statPlan": "TTTPST"
     }
 ]
