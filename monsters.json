@@ -1826,6 +1826,7 @@
         "name_en": "Maki",
         "plan": "R5ARP",
         "matchFever": [
+            4124,
             4121
         ],
         "matchSusFever": [],
@@ -1833,7 +1834,6 @@
         "matchUnknown": [
             4006,
             4079,
-            4124,
             4015,
             4085,
             4004,
