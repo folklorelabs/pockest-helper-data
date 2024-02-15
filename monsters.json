@@ -22,10 +22,10 @@
         "name_en": "Necalli",
         "plan": "W5ALP",
         "matchFever": [
-            4015
+            4015,
+            4074
         ],
         "matchSusFever": [
-            4074,
             4092
         ],
         "matchSusNormal": [
