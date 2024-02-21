@@ -1506,7 +1506,8 @@
         "name_en": "Joe",
         "plan": "B5CRP",
         "matchFever": [
-            4079
+            4079,
+            4007
         ],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -1528,7 +1529,6 @@
             4015,
             4065,
             4087,
-            4007,
             4010,
             4121,
             4008,
