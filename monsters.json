@@ -1739,11 +1739,11 @@
         "plan": "R5ARP",
         "matchFever": [
             4124,
-            4121
+            4121,
+            4076
         ],
         "matchSusFever": [],
-        "matchSusNormal": [],
-        "matchUnknown": [
+        "matchSusNormal": [
             4079,
             4015,
             4085,
@@ -1777,11 +1777,11 @@
             4056,
             4077,
             4099,
-            4076,
             4039,
             4054,
             4094
-        ]
+        ],
+        "matchUnknown": []
     },
     {
         "monster_id": 4077,
@@ -1795,7 +1795,6 @@
         "matchSusNormal": [],
         "matchUnknown": [
             4006,
-            4015,
             4000,
             4086,
             4040,
