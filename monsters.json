@@ -1521,7 +1521,9 @@
         "monster_id": 4034,
         "name_en": "Haggar",
         "plan": "R5ALT",
-        "matchFever": [],
+        "matchFever": [
+            4094
+        ],
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [
@@ -1562,8 +1564,7 @@
             4036,
             4076,
             4039,
-            4054,
-            4094
+            4054
         ]
     },
     {
