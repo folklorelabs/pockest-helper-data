@@ -1039,7 +1039,9 @@
         "matchFever": [
             4084
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4042
+        ],
         "matchSusNormal": [
             4034,
             4056,
@@ -1067,8 +1069,7 @@
             4090,
             4092,
             4035,
-            4002,
-            4042
+            4002
         ]
     },
     {
@@ -1397,7 +1398,9 @@
         "matchFever": [
             4049
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4115
+        ],
         "matchSusNormal": [
             4034,
             4039,
@@ -1409,7 +1412,6 @@
             4010,
             4029,
             4092,
-            4115,
             4002,
             4042,
             4119
@@ -1423,7 +1425,9 @@
             4079,
             4007
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4119
+        ],
         "matchSusNormal": [
             4034,
             4056,
@@ -1451,8 +1455,7 @@
             4035,
             4088,
             4002,
-            4042,
-            4119
+            4042
         ]
     },
     {
@@ -1682,7 +1685,6 @@
             4096,
             4009,
             4121,
-            4013,
             4029,
             4084,
             4049,
@@ -1770,7 +1772,9 @@
             4065,
             4002
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4056
+        ],
         "matchSusNormal": [],
         "matchUnknown": [
             4074,
@@ -1786,7 +1790,6 @@
             4042,
             4119,
             4034,
-            4056,
             4039,
             4054,
             4094
@@ -1881,7 +1884,9 @@
         "matchFever": [
             4087
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4101
+        ],
         "matchSusNormal": [],
         "matchUnknown": [
             4006,
@@ -1910,7 +1915,6 @@
             4082,
             4034,
             4056,
-            4101,
             4036,
             4039,
             4054,
@@ -1959,7 +1963,9 @@
         "plan": "R5CRT",
         "statPlan": "PPSSTT",
         "matchFever": [],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4099
+        ],
         "matchSusNormal": [],
         "matchUnknown": [
             4079,
@@ -1994,7 +2000,6 @@
             4119,
             4056,
             4077,
-            4099,
             4048,
             4039,
             4054,
