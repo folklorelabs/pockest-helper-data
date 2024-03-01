@@ -545,5 +545,44 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": []
+    },
+    {
+        "monster_id": 4072
+    },
+    {
+        "monster_id": 4110,
+        "name_en": "Huitzil"
+    },
+    {
+        "monster_id": 4068
+    },
+    {
+        "monster_id": 4020
+    },
+    {
+        "monster_id": 4046
+    },
+    {
+        "monster_id": 4059
+    },
+    {
+        "monster_id": 4075
+    },
+    {
+        "monster_id": 4037
+    },
+    {
+        "monster_id": 4041
+    },
+    {
+        "monster_id": 4001,
+        "name_en": "Evil Ryu"
+    },
+    {
+        "monster_id": 4070
+    },
+    {
+        "monster_id": 4095,
+        "name_en": "Monitor Cyborg"
     }
 ]
