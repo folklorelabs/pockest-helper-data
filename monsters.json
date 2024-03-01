@@ -547,51 +547,51 @@
         "matchUnknown": []
     },
     {
-        "monster_id": 4072,
-        "name_en": "(DO NOT USE)"
+        "name_en": "O5ALP",
+        "plan": "O5ALP"
     },
     {
-        "monster_id": 4110,
-        "name_en": "Huitzil (DO NOT USE)"
+        "name_en": "O5ALS",
+        "plan": "O5ALS"
     },
     {
-        "monster_id": 4068,
-        "name_en": "(DO NOT USE)"
+        "name_en": "O5ALT",
+        "plan": "O5ALT"
     },
     {
-        "monster_id": 4020,
-        "name_en": "(DO NOT USE)"
+        "name_en": "O5ARP",
+        "plan": "O5ARP"
     },
     {
-        "monster_id": 4046,
-        "name_en": "(DO NOT USE)"
+        "name_en": "O5ARS",
+        "plan": "O5ARS"
     },
     {
-        "monster_id": 4059,
-        "name_en": "(DO NOT USE)"
+        "name_en": "O5ART",
+        "plan": "O5ART"
     },
     {
-        "monster_id": 4075,
-        "name_en": "(DO NOT USE)"
+        "name_en": "O5BRP",
+        "plan": "O5BRP"
     },
     {
-        "monster_id": 4037,
-        "name_en": "(DO NOT USE)"
+        "name_en": "O5BRS",
+        "plan": "O5BRS"
     },
     {
-        "monster_id": 4041,
-        "name_en": "(DO NOT USE)"
+        "name_en": "O5BRT",
+        "plan": "O5BRT"
     },
     {
-        "monster_id": 4001,
-        "name_en": "Evil Ryu (DO NOT USE)"
+        "name_en": "O5CRP",
+        "plan": "O5CRP"
     },
     {
-        "monster_id": 4070,
-        "name_en": "(DO NOT USE)"
+        "name_en": "O5CRS",
+        "plan": "O5CRS"
     },
     {
-        "monster_id": 4095,
-        "name_en": "Monitor Cyborg (DO NOT USE)"
+        "name_en": "O5CRT",
+        "plan": "O5CRT"
     }
 ]
