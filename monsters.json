@@ -37,7 +37,6 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [
-            4044,
             4096,
             4115,
             4057,
@@ -660,12 +659,11 @@
         "name_en": "Cammy",
         "plan": "G5BRS",
         "matchFever": [
+            4086,
             4016,
             4092
         ],
-        "matchSusFever": [
-            4086
-        ],
+        "matchSusFever": [],
         "matchSusNormal": [
             4087,
             4029,
@@ -727,10 +725,10 @@
         "name_en": "Luke",
         "plan": "G5BRP",
         "matchFever": [
+            4044,
             4040
         ],
         "matchSusFever": [
-            4044,
             4049
         ],
         "matchSusNormal": [
@@ -739,7 +737,6 @@
             4089,
             4014,
             4096,
-            4010,
             4121,
             4090,
             4092,
@@ -750,8 +747,6 @@
             4119,
             4034,
             4056,
-            4099,
-            4076,
             4039,
             4054,
             4094,
