@@ -200,7 +200,6 @@
             4037,
             4041,
             4075,
-            4001,
             4070,
             4095
         ],
@@ -270,7 +269,6 @@
             4068,
             4072,
             4110,
-            4020,
             4046,
             4059,
             4037,
@@ -663,7 +661,6 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [
-            4087,
             4029,
             4049,
             4120,
@@ -733,10 +730,8 @@
             4086,
             4074,
             4089,
-            4014,
             4096,
             4121,
-            4090,
             4092,
             4035,
             4115,
@@ -3128,7 +3123,6 @@
             4076,
             4107,
             4039,
-            4054,
             4094,
             4068,
             4072,
@@ -3146,7 +3140,7 @@
     },
     {
         "monster_id": 4037,
-        "name_en": "DO NOT USE",
+        "name_en": "Orange #7 (DO NOT USE)",
         "plan": "O5BRS",
         "matchFever": [],
         "matchSusFever": [],
@@ -3227,7 +3221,7 @@
     },
     {
         "monster_id": 4041,
-        "name_en": "DO NOT USE",
+        "name_en": "Orange #8 (DO NOT USE)",
         "plan": "O5BRT",
         "matchFever": [
             4015
@@ -3310,7 +3304,7 @@
     },
     {
         "monster_id": 4075,
-        "name_en": "DO NOT USE",
+        "name_en": "Orange #9 (DO NOT USE)",
         "plan": "O5BRP",
         "matchFever": [],
         "matchSusFever": [],
