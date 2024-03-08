@@ -740,7 +740,6 @@
             4020,
             4046,
             4059,
-            4037,
             4041,
             4075,
             4001,
@@ -3035,8 +3034,8 @@
     },
     {
         "monster_id": 4037,
-        "name_en": "Orange #7 (DO NOT USE)",
-        "plan": "O5BRS",
+        "name_en": "Poison",
+        "plan": "O5BRP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3110,8 +3109,8 @@
     },
     {
         "monster_id": 4041,
-        "name_en": "Orange #8 (DO NOT USE)",
-        "plan": "O5BRT",
+        "name_en": "Abigail",
+        "plan": "O5BRS",
         "matchFever": [
             4015
         ],
@@ -3190,8 +3189,8 @@
     },
     {
         "monster_id": 4075,
-        "name_en": "Orange #9 (DO NOT USE)",
-        "plan": "O5BRP",
+        "name_en": "Rufus",
+        "plan": "O5BRT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
