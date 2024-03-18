@@ -667,11 +667,10 @@
         "plan": "G5CRP",
         "matchFever": [
             4079,
+            4074,
             4084
         ],
-        "matchSusFever": [
-            4074
-        ],
+        "matchSusFever": [],
         "matchSusNormal": [
             4044,
             4009,
@@ -683,10 +682,7 @@
             4119,
             4054,
             4094,
-            4072,
-            4046,
             4059,
-            4070,
             4095
         ],
         "matchUnknown": []
