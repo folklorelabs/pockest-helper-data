@@ -1620,12 +1620,16 @@
         "name_en": "Violent Ken",
         "plan": "B5CRT",
         "matchFever": [
+            4029,
             4049
         ],
         "matchSusFever": [
             4115
         ],
         "matchSusNormal": [
+            4014,
+            4010,
+            4092,
             4002,
             4034,
             4094,
@@ -1638,10 +1642,6 @@
             4095
         ],
         "matchUnknown": [
-            4014,
-            4010,
-            4029,
-            4092,
             4042,
             4119
         ]
