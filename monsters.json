@@ -570,8 +570,7 @@
             4120,
             4042,
             4119,
-            4070,
-            4095
+            4070
         ],
         "matchUnknown": []
     },
@@ -1233,7 +1232,6 @@
             4041,
             4075,
             4001,
-            4070,
             4095
         ],
         "matchUnknown": []
@@ -2332,9 +2330,7 @@
             4041
         ],
         "matchSusFever": [],
-        "matchSusNormal": [
-            4059
-        ],
+        "matchSusNormal": [],
         "matchUnknown": [
             4044,
             4065,
