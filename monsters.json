@@ -2364,6 +2364,7 @@
         "monster_id": 4045,
         "name_en": "Geki",
         "plan": "L5ALT",
+        "requiredMemento": 9999,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
