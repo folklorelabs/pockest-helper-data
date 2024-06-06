@@ -3400,7 +3400,9 @@
         "name_en": "Oni",
         "plan": "L5CRT",
         "requiredMemento": 9999,
-        "matchFever": [],
+        "matchFever": [
+            4012
+        ],
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [
@@ -3419,7 +3421,6 @@
             4026,
             4040,
             4087,
-            4012,
             4074,
             4005,
             4016,
