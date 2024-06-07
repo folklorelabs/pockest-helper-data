@@ -529,7 +529,6 @@
             4052,
             4053,
             4106,
-            4112,
             4019,
             4093,
             4122
@@ -2398,7 +2397,7 @@
     {
         "monster_id": 4045,
         "name_en": "Geki",
-        "plan": "L5ALT",
+        "plan": "L6ALT",
         "requiredMemento": 9999,
         "matchFever": [],
         "matchSusFever": [],
@@ -2489,7 +2488,7 @@
     {
         "monster_id": 4062,
         "name_en": "Twelve",
-        "plan": "L5ALP",
+        "plan": "L6ALP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -2576,7 +2575,7 @@
     {
         "monster_id": 4102,
         "name_en": "Felicia",
-        "plan": "L5ALS",
+        "plan": "L6ALS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -2663,7 +2662,7 @@
     {
         "monster_id": 4017,
         "name_en": "T. Hawk",
-        "plan": "L5ARP",
+        "plan": "L6ARP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -2671,7 +2670,6 @@
         ],
         "matchUnknown": [
             4006,
-            4079,
             4124,
             4015,
             4030,
@@ -2751,7 +2749,7 @@
     {
         "monster_id": 4052,
         "name_en": "Elena",
-        "plan": "L5ARS",
+        "plan": "L6ARS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -2830,7 +2828,7 @@
     {
         "monster_id": 4053,
         "name_en": "Ibuki",
-        "plan": "L5ART",
+        "plan": "L6ART",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -2921,7 +2919,7 @@
     {
         "monster_id": 4080,
         "name_en": "Laura",
-        "plan": "L5BRP",
+        "plan": "L6BRP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3011,7 +3009,7 @@
     {
         "monster_id": 4106,
         "name_en": "Bishamon",
-        "plan": "L5BRS",
+        "plan": "L6BRS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -3093,7 +3091,7 @@
     {
         "monster_id": 4112,
         "name_en": "Hsien-Ko",
-        "plan": "L5BRT",
+        "plan": "L6BRT",
         "matchFever": [
             4062
         ],
@@ -3181,7 +3179,7 @@
     {
         "monster_id": 4019,
         "name_en": "Dan",
-        "plan": "L5CRP",
+        "plan": "L6CRP",
         "requiredMemento": 9999,
         "matchFever": [],
         "matchSusFever": [],
@@ -3277,7 +3275,7 @@
     {
         "monster_id": 4093,
         "name_en": "Shadaloo Soldier",
-        "plan": "L5CRS",
+        "plan": "L6CRS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3364,7 +3362,7 @@
     {
         "monster_id": 4122,
         "name_en": "Oni",
-        "plan": "L5CRT",
+        "plan": "L6CRT",
         "requiredMemento": 4001,
         "matchFever": [
             4012
