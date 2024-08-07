@@ -22,7 +22,7 @@ async function fetchFromSheet(sheetRange) {
   const data = rows.slice(1, rows.length)
     .map((row) => row.reduce((rowObj, cellStr, index) => {
       const key = keys[index];
-      const value = cellStr.includes('[') || /^\d+$/.test(cellStr) ? JSON.parse(cellStr) : cellStr;
+      const value = cellStr.includes('[') || /^[-]?\d+$/.test(cellStr) ? JSON.parse(cellStr) : cellStr;
       if (!value) return rowObj;
       return {
         ...rowObj,
