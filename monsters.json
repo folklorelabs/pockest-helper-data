@@ -2978,7 +2978,7 @@
         ]
     },
     {
-        "monster_id": "-1",
+        "monster_id": -1,
         "name_en": "8ALT6",
         "planId": "8ALT6",
         "matchFever": [],
@@ -2986,7 +2986,7 @@
         "matchSusNormal": []
     },
     {
-        "monster_id": "-1",
+        "monster_id": -1,
         "name_en": "8ALP6",
         "planId": "8ALP6",
         "matchFever": [],
@@ -2994,7 +2994,7 @@
         "matchSusNormal": []
     },
     {
-        "monster_id": "-1",
+        "monster_id": -1,
         "name_en": "8ALS6",
         "planId": "8ALS6",
         "matchFever": [],
@@ -3002,7 +3002,7 @@
         "matchSusNormal": []
     },
     {
-        "monster_id": "-1",
+        "monster_id": -1,
         "name_en": "8ARP6",
         "planId": "8ARP6",
         "matchFever": [],
@@ -3010,7 +3010,7 @@
         "matchSusNormal": []
     },
     {
-        "monster_id": "-1",
+        "monster_id": -1,
         "name_en": "8ARS6",
         "planId": "8ARS6",
         "matchFever": [],
@@ -3018,7 +3018,7 @@
         "matchSusNormal": []
     },
     {
-        "monster_id": "-1",
+        "monster_id": -1,
         "name_en": "8ART6",
         "planId": "8ART6",
         "matchFever": [],
@@ -3050,7 +3050,7 @@
         "matchSusNormal": []
     },
     {
-        "monster_id": "-1",
+        "monster_id": -1,
         "name_en": "8CRP6",
         "planId": "8CRP6",
         "matchFever": [],
@@ -3058,7 +3058,7 @@
         "matchSusNormal": []
     },
     {
-        "monster_id": "-1",
+        "monster_id": -1,
         "name_en": "8CRS6",
         "planId": "8CRS6",
         "matchFever": [],
@@ -3066,7 +3066,7 @@
         "matchSusNormal": []
     },
     {
-        "monster_id": "-1",
+        "monster_id": -1,
         "name_en": "8CRT6",
         "planId": "8CRT6",
         "matchFever": [],
