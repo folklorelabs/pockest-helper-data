@@ -18,4 +18,8 @@ const HASHES_RANGE = 'LiveHashes!A:B';
   await fs.writeFileSync(`${DATA_DIR}/${MONSTER_FILE}.min.json`, JSON.stringify(monsters));
   await fs.writeFileSync(`${DATA_DIR}/${HASHES_FILE}.json`, JSON.stringify(hashes, null, 4));
   await fs.writeFileSync(`${DATA_DIR}/${HASHES_FILE}.min.json`, JSON.stringify(hashes));
+
+  // also ensure we manually update v1 hashes for now to reduce reporting
+  await fs.writeFileSync(`./${HASHES_FILE}.json`, JSON.stringify(hashes, null, 4));
+  await fs.writeFileSync(`./${HASHES_FILE}.min.json`, JSON.stringify(hashes));
 })();
