@@ -4,9 +4,9 @@ const fetchFromSheet = require('./syncMonsterSheetData/fetchFromSheet');
 
 const DATA_DIR = './v2';
 const MONSTER_FILE = 'monsters';
-const MONSTER_RANGE = 'Live!A:I';
+const MONSTER_RANGE = 'Live!A:Z';
 const HASHES_FILE = 'hashes';
-const HASHES_RANGE = 'LiveHashes!A:B';
+const HASHES_RANGE = 'LiveHashes!A:Z';
 
 (async () => {
   const monsters = await fetchFromSheet(MONSTER_RANGE);
