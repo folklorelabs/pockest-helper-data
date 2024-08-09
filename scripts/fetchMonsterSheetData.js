@@ -2,7 +2,7 @@ require('dotenv').config();
 const fs = require('fs');
 const fetchFromSheet = require('./syncMonsterSheetData/fetchFromSheet');
 
-const DATA_DIR = './';
+const DATA_DIR = './v2';
 const MONSTER_FILE = 'monsters';
 const MONSTER_RANGE = 'Live!A:I';
 const HASHES_FILE = 'hashes';
