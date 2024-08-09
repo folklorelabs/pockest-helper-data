@@ -3,6 +3,7 @@
         "monster_id": 4006,
         "name_en": "Guile",
         "planId": "1ALT6",
+        "confirmed": 1,
         "matchFever": [
             4085,
             4083,
@@ -28,6 +29,7 @@
         "monster_id": 4079,
         "name_en": "Necalli",
         "planId": "1ALP6",
+        "confirmed": 1,
         "matchFever": [
             4015,
             4074,
@@ -59,6 +61,7 @@
         "monster_id": 4124,
         "name_en": "Carlos Miyamoto",
         "planId": "1ALS6",
+        "confirmed": 1,
         "matchFever": [
             4006,
             4089,
@@ -94,6 +97,7 @@
         "monster_id": 4015,
         "name_en": "M. Bison",
         "planId": "1ART6",
+        "confirmed": 1,
         "matchFever": [
             4065,
             4096,
@@ -122,6 +126,7 @@
         "monster_id": 4030,
         "name_en": "Sodom",
         "planId": "1ARP6",
+        "confirmed": 1,
         "matchFever": [
             4044,
             4040,
@@ -154,6 +159,7 @@
         "monster_id": 4085,
         "name_en": "Kimberly",
         "planId": "1ARS6",
+        "confirmed": 1,
         "matchFever": [
             4003,
             4007,
@@ -192,6 +198,7 @@
         "monster_id": 4000,
         "name_en": "Ryu",
         "planId": "1BRP6",
+        "confirmed": 1,
         "matchFever": [
             4030,
             4016,
@@ -224,6 +231,7 @@
         "monster_id": 4003,
         "name_en": "Ken",
         "planId": "1BRT6",
+        "confirmed": 1,
         "matchFever": [
             4004,
             4026,
@@ -258,6 +266,7 @@
         "monster_id": 4004,
         "name_en": "Chun-Li",
         "planId": "1BRS6",
+        "confirmed": 1,
         "matchFever": [
             4086,
             4014,
@@ -283,6 +292,7 @@
         "monster_id": 4044,
         "name_en": "Retsu",
         "planId": "1CRP6",
+        "confirmed": 1,
         "matchFever": [
             4079,
             4005,
@@ -318,6 +328,7 @@
         "monster_id": 4065,
         "name_en": "Juri",
         "planId": "1CRT6",
+        "confirmed": 1,
         "matchFever": [
             4000,
             4012,
@@ -345,6 +356,7 @@
         "monster_id": 4086,
         "name_en": "Manon",
         "planId": "1CRS6",
+        "confirmed": 1,
         "matchFever": [
             4124,
             4087,
@@ -372,6 +384,7 @@
         "monster_id": 4026,
         "name_en": "Juli",
         "planId": "2ALS6",
+        "confirmed": 1,
         "matchFever": [
             4030,
             4087,
@@ -404,6 +417,7 @@
         "monster_id": 4040,
         "name_en": "Edi. E",
         "planId": "2ALP6",
+        "confirmed": 1,
         "matchFever": [
             4000,
             4012,
@@ -438,6 +452,7 @@
         "monster_id": 4087,
         "name_en": "Marisa",
         "planId": "2ALT6",
+        "confirmed": 1,
         "matchFever": [
             4006,
             4014,
@@ -469,6 +484,7 @@
         "monster_id": 4012,
         "name_en": "Balrog",
         "planId": "2ARP6",
+        "confirmed": 1,
         "matchFever": [
             4004,
             4083,
@@ -502,6 +518,7 @@
         "name_en": "Crimson Viper",
         "planId": "2ART6",
         "statPlan": "SSPPTT",
+        "confirmed": 1,
         "matchFever": [
             4085,
             4089,
@@ -532,6 +549,7 @@
         "monster_id": 4089,
         "name_en": "Lily",
         "planId": "2ARS6",
+        "confirmed": 1,
         "matchFever": [
             4015,
             4007,
@@ -559,6 +577,7 @@
         "monster_id": 4005,
         "name_en": "Cammy",
         "planId": "2BRS6",
+        "confirmed": 1,
         "matchFever": [
             4086,
             4016,
@@ -589,6 +608,7 @@
         "monster_id": 4016,
         "name_en": "Dee Jay",
         "planId": "2BRT6",
+        "confirmed": 1,
         "matchFever": [
             4124,
             4005,
@@ -621,6 +641,7 @@
         "monster_id": 4083,
         "name_en": "Luke",
         "planId": "2BRP6",
+        "confirmed": 1,
         "matchFever": [
             4044,
             4040,
@@ -647,6 +668,7 @@
         "monster_id": 4007,
         "name_en": "Blanka",
         "planId": "2CRS6",
+        "confirmed": 1,
         "matchFever": [
             4065,
             4026,
@@ -678,6 +700,7 @@
         "monster_id": 4014,
         "name_en": "Sagat",
         "planId": "2CRP6",
+        "confirmed": 1,
         "matchFever": [
             4079,
             4074,
@@ -712,6 +735,7 @@
         "monster_id": 4096,
         "name_en": "Captain Commando",
         "planId": "2CRT6",
+        "confirmed": 1,
         "matchFever": [
             4003,
             4096,
@@ -744,6 +768,7 @@
         "monster_id": 4009,
         "name_en": "Zangief",
         "planId": "3ALP6",
+        "confirmed": 1,
         "matchFever": [
             4044,
             4007,
@@ -776,6 +801,7 @@
         "monster_id": 4010,
         "name_en": "E. Honda",
         "planId": "3ALT6",
+        "confirmed": 1,
         "matchFever": [
             4030,
             4005,
@@ -812,6 +838,7 @@
         "name_en": "Tessa",
         "planId": "3ALS6",
         "requiredMemento": 4040,
+        "confirmed": 1,
         "matchFever": [
             4065,
             4074,
@@ -854,6 +881,7 @@
         "monster_id": 4008,
         "name_en": "Dhalsim",
         "planId": "3ARS6",
+        "confirmed": 1,
         "matchFever": [
             4000,
             4014,
@@ -889,6 +917,7 @@
         "monster_id": 4013,
         "name_en": "Vega",
         "planId": "3ART6",
+        "confirmed": 1,
         "matchFever": [
             4124,
             4096,
@@ -918,6 +947,7 @@
         "name_en": "Rolento",
         "planId": "3ARP6",
         "requiredMemento": 4015,
+        "confirmed": 1,
         "matchFever": [
             4085,
             4087
@@ -959,6 +989,7 @@
         "monster_id": 4018,
         "name_en": "Fei Long",
         "planId": "3BRS6",
+        "confirmed": 1,
         "matchFever": [
             4086,
             4089,
@@ -992,6 +1023,7 @@
         "monster_id": 4022,
         "name_en": "R. Mika",
         "planId": "3BRP6",
+        "confirmed": 1,
         "matchFever": [
             4015,
             4026,
@@ -1023,6 +1055,7 @@
         "monster_id": 4084,
         "name_en": "Jamie",
         "planId": "3BRT6",
+        "confirmed": 1,
         "matchFever": [
             4004,
             4040,
@@ -1057,6 +1090,7 @@
         "monster_id": 4049,
         "name_en": "Dudley",
         "planId": "3CRP6",
+        "confirmed": 1,
         "matchFever": [
             4006,
             4083,
@@ -1094,6 +1128,7 @@
         "monster_id": 4090,
         "name_en": "JP",
         "planId": "3CRS6",
+        "confirmed": 1,
         "matchFever": [
             4003,
             4016,
@@ -1133,6 +1168,7 @@
         "planId": "3CRT6",
         "statPlan": "PSTTTT",
         "requiredMemento": 4006,
+        "confirmed": 1,
         "matchFever": [
             4079,
             4012,
@@ -1165,6 +1201,7 @@
         "monster_id": 4035,
         "name_en": "Guy",
         "planId": "4ALT6",
+        "confirmed": 1,
         "matchFever": [
             4014,
             4084,
@@ -1196,6 +1233,7 @@
         "monster_id": 4115,
         "name_en": "Lilith",
         "planId": "4ALS6",
+        "confirmed": 1,
         "matchFever": [
             4086,
             4090,
@@ -1233,6 +1271,7 @@
         "monster_id": 4120,
         "name_en": "Mai-Ling",
         "planId": "4ALP6",
+        "confirmed": 1,
         "matchFever": [
             4026,
             4005,
@@ -1272,6 +1311,7 @@
         "monster_id": 4033,
         "name_en": "Cody",
         "planId": "4ARP6",
+        "confirmed": 1,
         "matchFever": [
             4015,
             4008,
@@ -1307,6 +1347,7 @@
         "monster_id": 4057,
         "name_en": "Urien",
         "planId": "4ARS6",
+        "confirmed": 1,
         "matchFever": [
             4083,
             4014,
@@ -1349,6 +1390,7 @@
         "monster_id": 4067,
         "name_en": "Kolin",
         "planId": "4ART6",
+        "confirmed": 1,
         "matchFever": [
             4016,
             4049,
@@ -1386,6 +1428,7 @@
         "monster_id": 4051,
         "name_en": "Yang",
         "planId": "4BRS6",
+        "confirmed": 1,
         "matchFever": [
             4124,
             4012,
@@ -1423,6 +1466,7 @@
         "monster_id": 4082,
         "name_en": "Akira Kazama",
         "planId": "4BRT6",
+        "confirmed": 1,
         "matchFever": [
             4044,
             4121,
@@ -1454,6 +1498,7 @@
         "monster_id": 4088,
         "name_en": "Rashid",
         "planId": "4BRP6",
+        "confirmed": 1,
         "matchFever": [
             4004,
             4013,
@@ -1492,6 +1537,7 @@
         "monster_id": 4002,
         "name_en": "Violent Ken",
         "planId": "4CRT6",
+        "confirmed": 1,
         "matchFever": [
             4029,
             4049,
@@ -1527,6 +1573,7 @@
         "monster_id": 4042,
         "name_en": "Joe",
         "planId": "4CRP6",
+        "confirmed": 1,
         "matchFever": [
             4079,
             4007,
@@ -1568,6 +1615,7 @@
         "monster_id": 4119,
         "name_en": "Kenji",
         "planId": "4CRS6",
+        "confirmed": 1,
         "matchFever": [
             4089,
             4016,
@@ -1608,6 +1656,7 @@
         "monster_id": 4034,
         "name_en": "Haggar",
         "planId": "5ALT6",
+        "confirmed": 1,
         "matchFever": [
             4000,
             4057,
@@ -1647,6 +1696,7 @@
         "name_en": "Gill",
         "planId": "5ALS6",
         "statPlan": "PPPSSS",
+        "confirmed": 1,
         "matchFever": [
             4007,
             4090,
@@ -1686,6 +1736,7 @@
         "monster_id": 4101,
         "name_en": "Morrigan",
         "planId": "5ALP6",
+        "confirmed": 1,
         "matchFever": [
             4018,
             4090,
@@ -1717,6 +1768,7 @@
         "monster_id": 4036,
         "name_en": "Maki",
         "planId": "5ARP6",
+        "confirmed": 1,
         "matchFever": [
             4124,
             4121,
@@ -1747,6 +1799,7 @@
         "monster_id": 4077,
         "name_en": "Menat",
         "planId": "5ARS6",
+        "confirmed": 1,
         "matchFever": [
             4026,
             4096,
@@ -1782,6 +1835,7 @@
         "monster_id": 4099,
         "name_en": "Ginzu",
         "planId": "5ART6",
+        "confirmed": 1,
         "matchFever": [
             4015,
             4107
@@ -1820,6 +1874,7 @@
         "monster_id": 4048,
         "name_en": "Alex",
         "planId": "5BRP6",
+        "confirmed": 1,
         "matchFever": [
             4065,
             4002,
@@ -1854,6 +1909,7 @@
         "monster_id": 4076,
         "name_en": "Abel",
         "planId": "5BRS6",
+        "confirmed": 1,
         "matchFever": [
             4033,
             4042,
@@ -1884,6 +1940,7 @@
         "monster_id": 4107,
         "name_en": "Victor",
         "planId": "5BRT6",
+        "confirmed": 1,
         "matchFever": [
             4085,
             4067,
@@ -1918,6 +1975,7 @@
         "monster_id": 4039,
         "name_en": "Damnd",
         "planId": "5CRP6",
+        "confirmed": 1,
         "matchFever": [
             4006,
             4087,
@@ -1963,6 +2021,7 @@
         "monster_id": 4054,
         "name_en": "Oro",
         "planId": "5CRS6",
+        "confirmed": 1,
         "matchFever": [
             4115,
             4120,
@@ -2005,6 +2064,7 @@
         "name_en": "Belger",
         "planId": "5CRT6",
         "statPlan": "PPSSTT",
+        "confirmed": 1,
         "matchFever": [
             4016,
             4042,
@@ -2045,6 +2105,7 @@
         "monster_id": 4068,
         "name_en": "Lucia",
         "planId": "6ALT6",
+        "confirmed": 1,
         "matchFever": [
             4026,
             4089,
@@ -2082,6 +2143,7 @@
         "monster_id": 4072,
         "name_en": "Gouken",
         "planId": "6ALP6",
+        "confirmed": 1,
         "matchFever": [
             4012,
             4115,
@@ -2116,6 +2178,7 @@
         "monster_id": 4110,
         "name_en": "Huitzil",
         "planId": "6ALS6",
+        "confirmed": 1,
         "matchFever": [
             4085,
             4000,
@@ -2170,6 +2233,7 @@
         "monster_id": 4020,
         "name_en": "Sakura",
         "planId": "6ARP6",
+        "confirmed": 1,
         "matchFever": [
             4084,
             4049,
@@ -2207,6 +2271,7 @@
         "monster_id": 4046,
         "name_en": "Lee",
         "planId": "6ARS6",
+        "confirmed": 1,
         "matchFever": [
             4030,
             4070
@@ -2245,6 +2310,7 @@
         "monster_id": 4059,
         "name_en": "Sean",
         "planId": "6ART6",
+        "confirmed": 1,
         "matchFever": [
             4121,
             4008,
@@ -2288,6 +2354,7 @@
         "monster_id": 4037,
         "name_en": "Poison",
         "planId": "6BRP6",
+        "confirmed": 1,
         "matchFever": [
             4051,
             4119,
@@ -2319,6 +2386,7 @@
         "monster_id": 4041,
         "name_en": "Abigail",
         "planId": "6BRS6",
+        "confirmed": 1,
         "matchFever": [
             4015,
             4026,
@@ -2354,6 +2422,7 @@
         "monster_id": 4075,
         "name_en": "Rufus",
         "planId": "6BRT6",
+        "confirmed": 1,
         "matchFever": [
             4082,
             4059
@@ -2391,6 +2460,7 @@
         "monster_id": 4001,
         "name_en": "Evil Ryu",
         "planId": "6CRP6",
+        "confirmed": 1,
         "matchFever": [
             4044,
             4068
@@ -2420,6 +2490,7 @@
         "monster_id": 4070,
         "name_en": "Seth",
         "planId": "6CRS6",
+        "confirmed": 1,
         "matchFever": [
             4121,
             4029,
@@ -2456,6 +2527,7 @@
         "monster_id": 4095,
         "name_en": "Cyborg",
         "planId": "6CRT6",
+        "confirmed": 1,
         "matchFever": [
             4016,
             4056,
@@ -2485,6 +2557,7 @@
         "name_en": "Geki",
         "planId": "7ALT6",
         "requiredMemento": 4119,
+        "confirmed": 1,
         "matchFever": [
             4010,
             4106
@@ -2561,6 +2634,7 @@
         "monster_id": 4062,
         "name_en": "Twelve",
         "planId": "7ALP6",
+        "confirmed": 1,
         "matchFever": [
             4088,
             4112
@@ -2608,6 +2682,7 @@
         "monster_id": 4102,
         "name_en": "Felicia",
         "planId": "7ALS6",
+        "confirmed": 1,
         "matchFever": [
             4030,
             4046,
@@ -2644,6 +2719,7 @@
         "monster_id": 4017,
         "name_en": "T. Hawk",
         "planId": "7ARP6",
+        "confirmed": 1,
         "matchFever": [
             4092,
             4039
@@ -2700,6 +2776,7 @@
         "monster_id": 4052,
         "name_en": "Elena",
         "planId": "7ARS6",
+        "confirmed": 1,
         "matchFever": [
             4004,
             4096,
@@ -2731,6 +2808,7 @@
         "monster_id": 4053,
         "name_en": "Ibuki",
         "planId": "7ART6",
+        "confirmed": 1,
         "matchFever": [
             4003
         ],
@@ -2777,6 +2855,7 @@
         "monster_id": 4080,
         "name_en": "Laura",
         "planId": "7BRP6",
+        "confirmed": 1,
         "matchFever": [
             4000,
             4065
@@ -2822,6 +2901,7 @@
         "monster_id": 4106,
         "name_en": "Bishamon",
         "planId": "7BRS6",
+        "confirmed": 1,
         "matchFever": [
             4119,
             4017
@@ -2872,6 +2952,7 @@
         "monster_id": 4112,
         "name_en": "Hsien-Ko",
         "planId": "7BRT6",
+        "confirmed": 1,
         "matchFever": [
             4086,
             4062
@@ -2908,7 +2989,6 @@
         "name_en": "Dan",
         "planId": "7CRP6",
         "requiredMemento": -1,
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [
             4080
@@ -3017,6 +3097,7 @@
         "monster_id": 4093,
         "name_en": "Shadaloo Soldier",
         "planId": "7CRS6",
+        "confirmed": 1,
         "matchFever": [
             4048,
             4076
@@ -3077,6 +3158,7 @@
         "name_en": "Oni",
         "planId": "7CRT6",
         "requiredMemento": 4001,
+        "confirmed": 1,
         "matchFever": [
             4012,
             4005,
@@ -3128,7 +3210,6 @@
         "name_en": "8ALT6",
         "planId": "8ALT6",
         "requiredMemento": -1,
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3237,7 +3318,6 @@
         "name_en": "8ALP6",
         "planId": "8ALP6",
         "requiredMemento": -1,
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3346,7 +3426,6 @@
         "name_en": "8ALS6",
         "planId": "8ALS6",
         "requiredMemento": -1,
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3456,7 +3535,6 @@
         "planId": "8ARP6",
         "statPlan": "SPPPPP",
         "requiredMemento": -1,
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3565,6 +3643,7 @@
         "name_en": "Falke",
         "planId": "8ART6",
         "statPlan": "PTTTTT",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3671,7 +3750,6 @@
         "planId": "8ARS6",
         "statPlan": "TSSSSS",
         "requiredMemento": -1,
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3779,7 +3857,6 @@
         "monster_id": 4047,
         "name_en": "Gen",
         "planId": "8BRP6",
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3882,7 +3959,6 @@
         "monster_id": 4104,
         "name_en": "Jon Talbain",
         "planId": "8BRS6",
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3978,7 +4054,6 @@
         "monster_id": 4109,
         "name_en": "Sasquatch",
         "planId": "8BRT6",
-        "unconfirmed": 1,
         "matchFever": [
             4028
         ],
@@ -4076,7 +4151,6 @@
         "name_en": "8CRP6",
         "planId": "8CRP6",
         "requiredMemento": -1,
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4185,7 +4259,6 @@
         "name_en": "8CRS6",
         "planId": "8CRS6",
         "requiredMemento": -1,
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4294,7 +4367,6 @@
         "name_en": "8CRT6",
         "planId": "8CRT6",
         "requiredMemento": -1,
-        "unconfirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
