@@ -3362,7 +3362,7 @@
         "name_en": "Adon",
         "planId": "8ARP6",
         "statPlan": "SPPPPP",
-        "requiredMemento": -1,
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3551,7 +3551,7 @@
         "name_en": "G",
         "planId": "8ARS6",
         "statPlan": "TSSSSS",
-        "requiredMemento": -1,
+        "confirmed": 1,
         "matchFever": [
             4057
         ],
@@ -3924,7 +3924,8 @@
     {
         "monster_id": 4025,
         "name_en": "Juni",
-        "planId": "8CRP6",
+        "planId": "8CRT6",
+        "statPlan": "TPSTPT",
         "requiredMemento": -1,
         "matchFever": [],
         "matchSusFever": [],
@@ -4033,6 +4034,7 @@
         "monster_id": 4058,
         "name_en": "Remy",
         "planId": "8CRS6",
+        "statPlan": "STPSTS",
         "requiredMemento": -1,
         "matchFever": [],
         "matchSusFever": [],
@@ -4140,7 +4142,8 @@
     {
         "monster_id": 4103,
         "name_en": "Lord Raptor",
-        "planId": "8CRT6",
+        "planId": "8CRP6",
+        "statPlan": "PSTPSP",
         "requiredMemento": -1,
         "matchFever": [],
         "matchSusFever": [],
