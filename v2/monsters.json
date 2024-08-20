@@ -3648,6 +3648,7 @@
         "monster_id": 4047,
         "name_en": "Gen",
         "planId": "8BRP6",
+        "confirmed": 1,
         "matchFever": [
             4106
         ],
@@ -3743,6 +3744,7 @@
         "monster_id": 4104,
         "name_en": "Jon Talbain",
         "planId": "8BRS6",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3834,6 +3836,7 @@
         "monster_id": 4109,
         "name_en": "Sasquatch",
         "planId": "8BRT6",
+        "confirmed": 1,
         "matchFever": [
             4028
         ],
