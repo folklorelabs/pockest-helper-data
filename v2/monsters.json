@@ -3012,7 +3012,7 @@
         "name_en": "Ingrid",
         "planId": "8ALP6",
         "statPlan": "PSTPSP",
-        "requiredMemento": -1,
+        "confirmed": 1,
         "matchFever": [
             4104
         ],
@@ -3118,7 +3118,7 @@
         "name_en": "Makoto",
         "planId": "8ALS6",
         "statPlan": "STPSTS",
-        "requiredMemento": -1,
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
