@@ -2998,7 +2998,7 @@
         "monster_id": 4027,
         "name_en": "Ingrid",
         "planId": "8ALP6",
-        "statPlan": "PSTPSP",
+        "statPlan": "TSSPPP",
         "confirmed": 1,
         "matchFever": [
             4104
@@ -3101,7 +3101,7 @@
         "monster_id": 4061,
         "name_en": "Makoto",
         "planId": "8ALS6",
-        "statPlan": "STPSTS",
+        "statPlan": "PTTSSS",
         "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
@@ -3829,8 +3829,8 @@
         "monster_id": 4025,
         "name_en": "Juni",
         "planId": "8CRT6",
-        "statPlan": "TPSTPT",
-        "requiredMemento": -1,
+        "statPlan": "SPPTTT",
+        "confirmed": 1,
         "matchFever": [
             4058
         ],
@@ -3936,8 +3936,8 @@
         "monster_id": 4058,
         "name_en": "Remy",
         "planId": "8CRS6",
-        "statPlan": "STPSTS",
-        "requiredMemento": -1,
+        "statPlan": "PTTSSS",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4041,7 +4041,7 @@
         "monster_id": 4103,
         "name_en": "Lord Raptor",
         "planId": "8CRP6",
-        "statPlan": "PSTPSP",
+        "statPlan": "TSSPPP",
         "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
