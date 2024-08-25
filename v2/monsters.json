@@ -3095,7 +3095,9 @@
         "planId": "8ALS6",
         "statPlan": "PTTSSS",
         "confirmed": 1,
-        "matchFever": [],
+        "matchFever": [
+            4010
+        ],
         "matchSusFever": [],
         "matchSusNormal": [
             4028,
@@ -3123,7 +3125,6 @@
             4014,
             4096,
             4009,
-            4010,
             4121,
             4008,
             4013,
