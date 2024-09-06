@@ -1031,10 +1031,14 @@
         "name_en": "Hammer"
     },
     {
-        "type": "char"
+        "id": "4114-EDCqHeuT",
+        "type": "char",
+        "name_en": "Donovan"
     },
     {
-        "type": "memento"
+        "id": "4114-OaITAqPH",
+        "type": "memento",
+        "name_en": "Dhylec"
     },
     {
         "id": "4028-YzWASXMf",
