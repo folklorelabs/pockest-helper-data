@@ -3387,7 +3387,7 @@
         "monster_id": 4025,
         "name_en": "Juni",
         "planId": "8CRT6",
-        "statPlan": "SPPTTT",
+        "statPlan": "PPTTTT",
         "confirmed": 1,
         "matchFever": [
             4018,
@@ -3464,7 +3464,7 @@
         "monster_id": 4058,
         "name_en": "Remy",
         "planId": "8CRS6",
-        "statPlan": "PTTSSS",
+        "statPlan": "TTSSSS",
         "confirmed": 1,
         "matchFever": [
             4003
