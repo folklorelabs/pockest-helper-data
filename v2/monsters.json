@@ -2020,7 +2020,6 @@
             4028,
             4066,
             4071,
-            4047,
             4104,
             4025,
             4058,
@@ -3442,7 +3441,7 @@
         "monster_id": 4103,
         "name_en": "Lord Raptor",
         "planId": "8CRP6",
-        "statPlan": "TSSPPP",
+        "statPlan": "SSPPPP",
         "confirmed": 1,
         "matchFever": [
             4047
@@ -3467,7 +3466,6 @@
             4007,
             4009,
             4010,
-            4121,
             4008,
             4013,
             4029,
