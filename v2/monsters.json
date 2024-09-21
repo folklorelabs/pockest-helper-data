@@ -3412,6 +3412,7 @@
         "statPlan": "SSPPPP",
         "confirmed": 1,
         "matchFever": [
+            4017,
             4047
         ],
         "matchSusFever": [],
@@ -3461,7 +3462,6 @@
             4070,
             4095,
             4062,
-            4017,
             4080,
             4112,
             4019,
