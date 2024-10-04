@@ -1192,11 +1192,14 @@
         "type": "memento"
     },
     {
+        "id": "4108-QHNWgThO",
         "type": "char",
         "name_en": "Rikuo"
     },
     {
-        "type": "memento"
+        "id": "4108-oJNgvmDY",
+        "type": "memento",
+        "name_en": "Water Jail"
     },
     {
         "id": "4038-whSexKQe",

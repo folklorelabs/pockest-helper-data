@@ -1753,7 +1753,6 @@
         "matchSusFever": [],
         "matchSusNormal": [
             4056,
-            4045,
             4102,
             4019,
             4027,
@@ -2998,7 +2997,6 @@
         "matchSusFever": [],
         "matchSusNormal": [
             4006,
-            4015,
             4065,
             4040,
             4087,
@@ -4100,7 +4098,6 @@
             4056,
             4036,
             4099,
-            4048,
             4076,
             4107,
             4039,
@@ -4448,6 +4445,7 @@
     {
         "monster_id": 4108,
         "name_en": "Rikuo",
+        "planId": "9BRS6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
