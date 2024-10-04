@@ -4528,6 +4528,8 @@
     {
         "monster_id": 4038,
         "name_en": "Hugo",
+        "planId": "9CRP6",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],

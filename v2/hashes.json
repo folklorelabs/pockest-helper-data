@@ -1136,73 +1136,88 @@
         "name_en": "Guitar of Despair"
     },
     {
-        "type": "char"
+        "type": "char",
+        "name_en": "Q"
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
+        "type": "char",
+        "name_en": "El Fuerte"
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
+        "type": "char",
+        "name_en": "Leo"
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
+        "type": "char",
+        "name_en": "Nash"
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
+        "type": "char",
+        "name_en": "Yun"
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
+        "type": "char",
+        "name_en": "Anakaris"
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
+        "type": "char",
+        "name_en": "Eagle"
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
+        "type": "char",
+        "name_en": "A.K.I."
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
+        "type": "char",
+        "name_en": "Rikuo"
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
+        "id": "4038-whSexKQe",
+        "type": "char",
+        "name_en": "Hugo"
+    },
+    {
+        "id": "4038-McBnExPb",
+        "type": "memento",
+        "name_en": "Tasty Tater"
+    },
+    {
+        "type": "char",
+        "name_en": "F.A.N.G"
     },
     {
         "type": "memento"
     },
     {
-        "type": "char"
-    },
-    {
-        "type": "memento"
-    },
-    {
-        "type": "char"
+        "type": "char",
+        "name_en": "Mack"
     },
     {
         "type": "memento"
