@@ -4363,6 +4363,7 @@
     {
         "monster_id": 4023,
         "name_en": "Nash",
+        "planId": "9ARP6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -4371,6 +4372,8 @@
     {
         "monster_id": 4050,
         "name_en": "Yun",
+        "planId": "9ARS6",
+        "statPlan": "STSPSP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -4379,6 +4382,8 @@
     {
         "monster_id": 4105,
         "name_en": "Anakaris",
+        "planId": "9ART6",
+        "statPlan": "PSTTTT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
