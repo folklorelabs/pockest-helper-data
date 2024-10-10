@@ -1162,7 +1162,9 @@
         "name_en": "Charlie"
     },
     {
-        "type": "memento"
+        "id": "4023-QcwmYspT",
+        "type": "memento",
+        "name_en": "Dog Tags of Devotion"
     },
     {
         "id": "4050-UlzhJbqq",
@@ -1170,7 +1172,9 @@
         "name_en": "Yun"
     },
     {
-        "type": "memento"
+        "id": "4050-UxWposuj",
+        "type": "memento",
+        "name_en": "White Dragon Skateboard"
     },
     {
         "id": "4105-RsPOezbW",
@@ -1178,7 +1182,9 @@
         "name_en": "Anakaris"
     },
     {
-        "type": "memento"
+        "id": "4105-feUMTAjA",
+        "type": "memento",
+        "name_en": "Royal Sarcophagus"
     },
     {
         "id": "4031-KQqsOsRD",
@@ -1196,7 +1202,9 @@
         "name_en": "A.K.I."
     },
     {
-        "type": "memento"
+        "id": "4091-XtkmqaSH",
+        "type": "memento",
+        "name_en": "Bottle of Poison"
     },
     {
         "id": "4108-QHNWgThO",
