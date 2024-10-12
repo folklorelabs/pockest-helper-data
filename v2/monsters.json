@@ -2297,6 +2297,7 @@
     {
         "monster_id": 4064,
         "name_en": "F.A.N.G",
+        "planId": "9CRS6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -2305,6 +2306,8 @@
     {
         "monster_id": 4098,
         "name_en": "Mack",
+        "planId": "9CRT6",
+        "statPlan": "SPPTTT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
