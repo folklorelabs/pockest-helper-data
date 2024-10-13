@@ -1150,11 +1150,14 @@
         "type": "memento"
     },
     {
+        "id": "4118-svcXbDQX",
         "type": "char",
         "name_en": "Leo"
     },
     {
-        "type": "memento"
+        "id": "4118-kXYLmFlJ",
+        "type": "memento",
+        "name_en": "Imperial Blade"
     },
     {
         "id": "4023-EPqLkEhh",
@@ -1234,8 +1237,9 @@
         "type": "memento"
     },
     {
+        "id": "4098-zGntYZiy",
         "type": "char",
-        "name_en": "Mack"
+        "name_en": "Mack the Knife"
     },
     {
         "type": "memento"

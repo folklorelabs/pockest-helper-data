@@ -2198,6 +2198,7 @@
     {
         "monster_id": 4060,
         "name_en": "Q",
+        "planId": "9ALP6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -2206,6 +2207,9 @@
     {
         "monster_id": 4073,
         "name_en": "El Fuerte",
+        "planId": "9ALT6",
+        "statPlan": "PPTTTT",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -2214,6 +2218,9 @@
     {
         "monster_id": 4118,
         "name_en": "Leo",
+        "planId": "9ALS6",
+        "statPlan": "TTSSSS",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -2303,7 +2310,7 @@
     },
     {
         "monster_id": 4098,
-        "name_en": "Mack",
+        "name_en": "Mack the Knife",
         "planId": "9CRT6",
         "statPlan": "SPPTTT",
         "matchFever": [],
