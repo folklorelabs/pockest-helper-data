@@ -983,7 +983,6 @@
             4067,
             4002,
             4119,
-            4099,
             4068
         ],
         "matchUnknown": []
@@ -1815,7 +1814,6 @@
         "matchSusNormal": [
             4086,
             4040,
-            4014,
             4010,
             4121,
             4049,
@@ -2105,7 +2103,6 @@
         "matchSusNormal": [
             4071,
             4109,
-            4025,
             4058
         ],
         "matchUnknown": [
@@ -2312,7 +2309,7 @@
         "monster_id": 4098,
         "name_en": "Mack the Knife",
         "planId": "9CRT6",
-        "statPlan": "SPPTTT",
+        "statPlan": "PPTTTT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
