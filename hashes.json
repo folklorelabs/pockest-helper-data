@@ -1143,11 +1143,14 @@
         "type": "memento"
     },
     {
+        "id": "4073-dgjfQztC",
         "type": "char",
         "name_en": "El Fuerte"
     },
     {
-        "type": "memento"
+        "id": "4073-POFVuOLJ",
+        "type": "memento",
+        "name_en": "Frying Pan of Passion"
     },
     {
         "id": "4118-svcXbDQX",
@@ -1242,6 +1245,8 @@
         "name_en": "Mack the Knife"
     },
     {
-        "type": "memento"
+        "id": "4098-cVkScRtb",
+        "type": "memento",
+        "name_en": "Orange Cap"
     }
 ]
