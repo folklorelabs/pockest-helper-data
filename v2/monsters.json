@@ -1135,14 +1135,14 @@
         "confirmed": 1,
         "matchFever": [
             4044,
+            4119,
             4068
         ],
         "matchSusFever": [],
-        "matchSusNormal": [],
-        "matchUnknown": [
-            4119,
+        "matchSusNormal": [
             4039
-        ]
+        ],
+        "matchUnknown": []
     },
     {
         "monster_id": 4070,
@@ -1558,7 +1558,6 @@
             4044,
             4087,
             4096,
-            4029,
             4049,
             4035,
             4115,
@@ -1822,11 +1821,10 @@
         "confirmed": 1,
         "matchFever": [
             4054,
-            4106
-        ],
-        "matchSusFever": [
+            4106,
             4071
         ],
+        "matchSusFever": [],
         "matchSusNormal": [
             4086,
             4026,
@@ -1943,7 +1941,6 @@
             4030,
             4044,
             4040,
-            4096,
             4010,
             4008,
             4013,
@@ -1959,7 +1956,6 @@
             4054,
             4094,
             4046,
-            4041,
             4001,
             4070,
             4095,
