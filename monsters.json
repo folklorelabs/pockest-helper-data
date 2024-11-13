@@ -2119,6 +2119,7 @@
         "monster_id": 4060,
         "name_en": "Q",
         "planId": "9ALP6",
+        "statPlan": "TSPTSP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
