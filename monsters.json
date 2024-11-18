@@ -2001,7 +2001,6 @@
             4034,
             4107,
             4039,
-            4094,
             4046,
             4070,
             4095,
@@ -3127,7 +3126,9 @@
         "planId": "9CRT6",
         "statPlan": "PPTTTT",
         "confirmed": 1,
-        "matchFever": [],
+        "matchFever": [
+            4033
+        ],
         "matchSusFever": [],
         "matchSusNormal": [
             4023,
@@ -3169,7 +3170,6 @@
             4035,
             4115,
             4120,
-            4033,
             4082,
             4002,
             4042,
