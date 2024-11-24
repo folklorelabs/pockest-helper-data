@@ -84,9 +84,7 @@
             4022
         ],
         "matchSusFever": [],
-        "matchSusNormal": [
-            4121
-        ],
+        "matchSusNormal": [],
         "matchUnknown": []
     },
     {
@@ -2661,7 +2659,6 @@
             4102,
             4017,
             4052,
-            4106,
             4019,
             4093,
             4122,
