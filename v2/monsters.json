@@ -1121,9 +1121,7 @@
             4068
         ],
         "matchSusFever": [],
-        "matchSusNormal": [
-            4039
-        ],
+        "matchSusNormal": [],
         "matchUnknown": []
     },
     {
@@ -2596,7 +2594,6 @@
             4118,
             4023,
             4050,
-            4105,
             4031
         ],
         "matchUnknown": []
