@@ -1494,11 +1494,10 @@
         "confirmed": 1,
         "matchFever": [
             4048,
-            4076
-        ],
-        "matchSusFever": [
+            4076,
             4122
         ],
+        "matchSusFever": [],
         "matchSusNormal": [
             4092,
             4002,
@@ -2014,7 +2013,6 @@
         ],
         "matchUnknown": [
             4000,
-            4004,
             4044,
             4040,
             4089,
