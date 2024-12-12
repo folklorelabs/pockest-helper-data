@@ -1254,5 +1254,89 @@
         "id": "4098-cVkScRtb",
         "type": "memento",
         "name_en": "Orange Cap"
+    },
+    {
+        "type": "char",
+        "name_en": "Hakan"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "B.B. Hood"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Q-Bee"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Karin Kanzuki"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Rose"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Jedah"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Birdie"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Mike"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Zeku"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Akuma"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Pyron"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Kage"
+    },
+    {
+        "type": "memento"
     }
 ]
