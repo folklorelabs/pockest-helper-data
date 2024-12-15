@@ -3530,6 +3530,7 @@
     {
         "monster_id": 4032,
         "name_en": "Birdie",
+        "planId": "10BRT6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -3659,6 +3660,7 @@
     {
         "monster_id": 4043,
         "name_en": "Mike",
+        "planId": "10BRS6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -3788,6 +3790,7 @@
     {
         "monster_id": 4081,
         "name_en": "Zeku",
+        "planId": "10BRP6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
