@@ -45,6 +45,11 @@
         "name_en": "Purple Egg"
     },
     {
+        "id": "0010-QssFHmxr",
+        "type": "egg",
+        "name_en": "Yellow Egg"
+    },
+    {
         "id": "0001-TGxvUOrV",
         "type": "char",
         "name_en": "Squidge"
@@ -1277,6 +1282,7 @@
         "type": "memento"
     },
     {
+        "id": "4021-itoqJqgS",
         "type": "char",
         "name_en": "Karin"
     },
@@ -1298,11 +1304,14 @@
         "type": "memento"
     },
     {
+        "id": "4032-quUMplpk",
         "type": "char",
         "name_en": "Birdie"
     },
     {
-        "type": "memento"
+        "id": "4032-KovctmqW",
+        "type": "memento",
+        "name_en": "Mouthwatering Meat"
     },
     {
         "type": "char",
@@ -1312,6 +1321,7 @@
         "type": "memento"
     },
     {
+        "id": "4081-ewfrbGQA",
         "type": "char",
         "name_en": "Zeku"
     },

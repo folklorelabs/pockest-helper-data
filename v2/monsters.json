@@ -3055,6 +3055,7 @@
     {
         "monster_id": 4021,
         "name_en": "Karin",
+        "planId": "10ARP6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
