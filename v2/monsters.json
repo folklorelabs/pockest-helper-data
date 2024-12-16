@@ -3831,12 +3831,14 @@
     {
         "monster_id": 4011,
         "name_en": "Akuma",
+        "planId": "10CRP6",
+        "statPlan": "SSPPPP",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [
             4006,
-            4079,
             4124,
             4015,
             4030,
