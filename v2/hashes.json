@@ -1330,11 +1330,14 @@
         "type": "memento"
     },
     {
+        "id": "4011-fItHNFNv",
         "type": "char",
         "name_en": "Akuma"
     },
     {
-        "type": "memento"
+        "id": "4011-DLkNdxKi",
+        "type": "memento",
+        "name_en": "Demon Prayer Beads"
     },
     {
         "type": "char",
