@@ -1261,6 +1261,7 @@
         "name_en": "Orange Cap"
     },
     {
+        "id": "4063-",
         "type": "char",
         "name_en": "Hakan"
     },
@@ -1268,6 +1269,7 @@
         "type": "memento"
     },
     {
+        "id": "4116-",
         "type": "char",
         "name_en": "B.B. Hood"
     },
@@ -1275,6 +1277,7 @@
         "type": "memento"
     },
     {
+        "id": "4117-",
         "type": "char",
         "name_en": "Q-Bee"
     },
@@ -1300,6 +1303,7 @@
         "name_en": "Soul Tarot"
     },
     {
+        "id": "4113-",
         "type": "char",
         "name_en": "Jedah"
     },
@@ -1343,6 +1347,7 @@
         "name_en": "Demon Prayer Beads"
     },
     {
+        "id": "4111-",
         "type": "char",
         "name_en": "Pyron"
     },
@@ -1350,10 +1355,13 @@
         "type": "memento"
     },
     {
+        "id": "4123-ufSeiFfH",
         "type": "char",
         "name_en": "Kage"
     },
     {
-        "type": "memento"
+        "id": "4123-cpTZRZdJ",
+        "type": "memento",
+        "name_en": "Kernel of Darkness"
     }
 ]
