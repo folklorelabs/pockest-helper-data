@@ -1685,8 +1685,7 @@
         "matchSusFever": [],
         "matchSusNormal": [
             4028,
-            4058,
-            4103
+            4058
         ],
         "matchUnknown": [
             4044,
@@ -2333,7 +2332,6 @@
             4056,
             4101,
             4036,
-            4048,
             4110,
             4020,
             4001,
@@ -3126,6 +3124,7 @@
         "monster_id": 4021,
         "name_en": "Karin",
         "planId": "10ARP6",
+        "statPlan": "SPPPPP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -3255,6 +3254,8 @@
     {
         "monster_id": 4024,
         "name_en": "Rose",
+        "planId": "10ARS6",
+        "statPlan": "TSSSSS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -3384,6 +3385,7 @@
     {
         "monster_id": 4113,
         "name_en": "Jedah",
+        "planId": "10ART6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -3780,7 +3782,6 @@
         "matchSusNormal": [],
         "matchUnknown": [
             4006,
-            4079,
             4124,
             4015,
             4030,
