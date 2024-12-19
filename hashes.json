@@ -1261,25 +1261,34 @@
         "name_en": "Orange Cap"
     },
     {
+        "id": "4063-UGjqKwFi",
         "type": "char",
         "name_en": "Hakan"
     },
     {
-        "type": "memento"
+        "id": "4063-bwOFvpyl",
+        "type": "memento",
+        "name_en": "Hakan Oil"
     },
     {
+        "id": "4116-QfwhYAbZ",
         "type": "char",
-        "name_en": "B.B. Hood"
+        "name_en": "B. B. Hood"
     },
     {
-        "type": "memento"
+        "id": "4116-wREopcfV",
+        "type": "memento",
+        "name_en": "Lovely Little Machine Guns"
     },
     {
+        "id": "4117-GqhfDhxP",
         "type": "char",
         "name_en": "Q-Bee"
     },
     {
-        "type": "memento"
+        "id": "4117-rvtwhPZQ",
+        "type": "memento",
+        "name_en": "Soul Bee's Nest"
     },
     {
         "id": "4021-itoqJqgS",
@@ -1287,7 +1296,9 @@
         "name_en": "Karin"
     },
     {
-        "type": "memento"
+        "id": "4021-sDDcRzVB",
+        "type": "memento",
+        "name_en": "Zaibatsu Ribbon"
     },
     {
         "id": "4024-HhXNrYLp",
@@ -1300,11 +1311,14 @@
         "name_en": "Soul Tarot"
     },
     {
+        "id": " 4113-rUKzTUHy",
         "type": "char",
         "name_en": "Jedah"
     },
     {
-        "type": "memento"
+        "id": "4113-AAuIQVdj",
+        "type": "memento",
+        "name_en": "Terms of Service"
     },
     {
         "id": "4032-quUMplpk",
