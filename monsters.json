@@ -1586,7 +1586,6 @@
             4096,
             4049,
             4035,
-            4115,
             4042,
             4101,
             4054,
@@ -2163,7 +2162,6 @@
             4022,
             4049,
             4090,
-            4115,
             4120,
             4051,
             4088,
@@ -2816,7 +2814,9 @@
         "statPlan": "SSPPPP",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4081
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -2930,7 +2930,6 @@
             4113,
             4032,
             4043,
-            4081,
             4011,
             4111,
             4123
@@ -2943,7 +2942,9 @@
         "statPlan": "TTSSSS",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4081
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3057,7 +3058,6 @@
             4113,
             4032,
             4043,
-            4081,
             4011,
             4111,
             4123
@@ -3070,7 +3070,9 @@
         "statPlan": "SPPPPP",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4081
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3184,7 +3186,6 @@
             4113,
             4032,
             4043,
-            4081,
             4011,
             4111,
             4123
@@ -3320,9 +3321,21 @@
         "name_en": "Jedah",
         "planId": "10ART6",
         "statPlan": "PTTTTT",
-        "matchFever": [],
+        "matchFever": [
+            4081
+        ],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4063,
+            4116,
+            4117,
+            4024,
+            4113,
+            4032,
+            4011,
+            4111,
+            4123
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3428,17 +3441,7 @@
             4108,
             4038,
             4064,
-            4098,
-            4063,
-            4116,
-            4117,
-            4024,
-            4113,
-            4032,
-            4081,
-            4011,
-            4111,
-            4123
+            4098
         ]
     },
     {
@@ -3448,7 +3451,9 @@
         "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4081
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3559,7 +3564,6 @@
             4113,
             4032,
             4043,
-            4081,
             4111,
             4123
         ]
@@ -3570,7 +3574,9 @@
         "planId": "10BRS6",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4081
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3688,7 +3694,6 @@
             4113,
             4032,
             4043,
-            4081,
             4011,
             4111,
             4123
@@ -3703,7 +3708,9 @@
             4115
         ],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4081
+        ],
         "matchUnknown": [
             4006,
             4124,
@@ -3809,7 +3816,6 @@
             4113,
             4032,
             4043,
-            4081,
             4011,
             4111,
             4123
@@ -3828,7 +3834,6 @@
             4006,
             4124,
             4015,
-            4030,
             4004,
             4065,
             4026,
@@ -3857,7 +3862,6 @@
             4033,
             4057,
             4067,
-            4051,
             4082,
             4088,
             4002,
@@ -3911,7 +3915,6 @@
             4073,
             4118,
             4023,
-            4050,
             4105,
             4031,
             4091,
@@ -3936,7 +3939,9 @@
         "planId": "10CRT6",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4081
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4054,7 +4059,6 @@
             4113,
             4032,
             4043,
-            4081,
             4011,
             4111,
             4123
