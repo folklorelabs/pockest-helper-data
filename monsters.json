@@ -2685,6 +2685,7 @@
         "name_en": "Hakan",
         "planId": "10ALT6",
         "statPlan": "PPTTTT",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -2812,6 +2813,7 @@
         "name_en": "B. B. Hood",
         "planId": "10ALP6",
         "statPlan": "SSPPPP",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -2940,6 +2942,7 @@
         "name_en": "Q-Bee",
         "planId": "10ALS6",
         "statPlan": "TTSSSS",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3068,6 +3071,7 @@
         "name_en": "Karin",
         "planId": "10ARP6",
         "statPlan": "SPPPPP",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3196,6 +3200,7 @@
         "name_en": "Rose",
         "planId": "10ARS6",
         "statPlan": "TSSSSS",
+        "confirmed": 1,
         "matchFever": [
             4042
         ],
@@ -3321,6 +3326,7 @@
         "name_en": "Jedah",
         "planId": "10ART6",
         "statPlan": "PTTTTT",
+        "confirmed": 1,
         "matchFever": [
             4081
         ],
@@ -3572,6 +3578,7 @@
         "monster_id": 4043,
         "name_en": "Mike",
         "planId": "10BRS6",
+        "requiredMemento": -1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
