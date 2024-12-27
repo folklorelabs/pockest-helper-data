@@ -1336,7 +1336,9 @@
         "name_en": "Mike"
     },
     {
-        "type": "memento"
+        "id": "4043-SiprOram",
+        "type": "memento",
+        "name_en": "Local Burger"
     },
     {
         "id": "4081-ewfrbGQA",
