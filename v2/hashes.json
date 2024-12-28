@@ -1361,11 +1361,14 @@
         "name_en": "Demon Prayer Beads"
     },
     {
+        "id": "4111-uYqKhLKC",
         "type": "char",
         "name_en": "Pyron"
     },
     {
-        "type": "memento"
+        "id": "4111-gqaRlmKY",
+        "type": "memento",
+        "name_en": "Hellstorm Spark"
     },
     {
         "id": "4123-ufSeiFfH",
