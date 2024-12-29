@@ -2678,7 +2678,9 @@
         "planId": "10ALT6",
         "statPlan": "PPTTTT",
         "confirmed": 1,
-        "matchFever": [],
+        "matchFever": [
+            4047
+        ],
         "matchSusFever": [],
         "matchSusNormal": [
             4116,
@@ -2761,7 +2763,6 @@
             4028,
             4066,
             4071,
-            4047,
             4104,
             4109,
             4025,
