@@ -2778,7 +2778,9 @@
         "planId": "10ALS6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
-        "matchFever": [],
+        "matchFever": [
+            4027
+        ],
         "matchSusFever": [],
         "matchSusNormal": [
             4116,
@@ -2856,7 +2858,6 @@
             4019,
             4093,
             4122,
-            4027,
             4061,
             4114,
             4028,
