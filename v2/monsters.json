@@ -3263,7 +3263,8 @@
         "monster_id": 4043,
         "name_en": "Mike",
         "planId": "10BRS6",
-        "requiredMemento": -1,
+        "requiredMemento": 4012,
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
