@@ -3456,7 +3456,8 @@
         "name_en": "Pyron",
         "planId": "10CRT6",
         "statPlan": "PPPTTT",
-        "requiredMemento": -1,
+        "requiredMemento": 4027,
+        "confirmed": 1,
         "matchFever": [
             4104
         ],
