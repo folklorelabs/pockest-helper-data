@@ -995,10 +995,14 @@
         "name_en": "Hidden Weapon"
     },
     {
-        "type": "char"
+        "id": "4019-nbzfOAUH",
+        "type": "char",
+        "name_en": "Dan"
     },
     {
-        "type": "memento"
+        "id": "4019-KVjGtvsF",
+        "type": "memento",
+        "name_en": "Valuable Autograph"
     },
     {
         "id": "4093-rpoiAkgE",
