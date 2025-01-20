@@ -1362,7 +1362,8 @@
         "monster_id": 4019,
         "name_en": "Dan",
         "planId": "7CRP6",
-        "requiredMemento": -1,
+        "statPlan": "TXSXPX",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [
             4080
