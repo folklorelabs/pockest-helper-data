@@ -2948,6 +2948,7 @@
         "requiredMemento": 4012,
         "confirmed": 1,
         "matchFever": [
+            4004,
             4111
         ],
         "matchSusFever": [],
@@ -2969,7 +2970,6 @@
             4085,
             4000,
             4003,
-            4004,
             4044,
             4065,
             4086,
