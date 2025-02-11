@@ -2523,11 +2523,10 @@
         "confirmed": 1,
         "matchFever": [
             4027,
-            4108
-        ],
-        "matchSusFever": [
+            4108,
             4043
         ],
+        "matchSusFever": [],
         "matchSusNormal": [
             4006,
             4030,
