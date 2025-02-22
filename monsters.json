@@ -3122,5 +3122,101 @@
             4113
         ],
         "matchUnknown": []
+    },
+    {
+        "monster_id": 4069,
+        "name_en": "Seth, The Puppet Master",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4130,
+        "name_en": "Shoma Sawamura",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4131,
+        "name_en": "Ran Hibiki",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4078,
+        "name_en": "Ed",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4097,
+        "name_en": "Baby Head",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4125,
+        "name_en": "Batsu Ichimonji",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4100,
+        "name_en": "Demitri",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4126,
+        "name_en": "Hinata Wakaba",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4127,
+        "name_en": "Kyosuke Kagami",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4055,
+        "name_en": "Necro",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4128,
+        "name_en": "Chairperson",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
+    },
+    {
+        "monster_id": 4129,
+        "name_en": "Hayato Nekketsu",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
     }
 ]
