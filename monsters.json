@@ -3268,8 +3268,8 @@
     {
         "monster_id": 4130,
         "name_en": "Shoma Sawamura",
-        "planId": "11ALS6",
-        "statPlan": "TTSSSS",
+        "planId": "11ALT6",
+        "statPlan": "PPTTTT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -3410,8 +3410,8 @@
     {
         "monster_id": 4131,
         "name_en": "Ran Hibiki",
-        "planId": "11ALT6",
-        "statPlan": "PPTTTT",
+        "planId": "11ALS6",
+        "statPlan": "TTSSSS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
