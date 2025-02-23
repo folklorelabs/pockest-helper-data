@@ -50,6 +50,11 @@
         "name_en": "Yellow Egg"
     },
     {
+        "id": "0011-fdPXivcr",
+        "type": "egg",
+        "name_en": "Pink Egg"
+    },
+    {
         "id": "0001-TGxvUOrV",
         "type": "char",
         "name_en": "Squidge"
@@ -1392,18 +1397,24 @@
         "type": "memento"
     },
     {
+        "id": "4130-mlQunXLt",
         "type": "char",
         "name_en": "Shoma Sawamura"
     },
     {
-        "type": "memento"
+        "id": "4130-WHFrQlWB",
+        "type": "memento",
+        "name_en": "Big Metal Bat"
     },
     {
+        "id": "4131-XzMoVuoD",
         "type": "char",
         "name_en": "Ran Hibiki"
     },
     {
-        "type": "memento"
+        "id": "4131-dsfBslGu",
+        "type": "memento",
+        "name_en": "Camera"
     },
     {
         "type": "char",
@@ -1427,25 +1438,34 @@
         "type": "memento"
     },
     {
+        "id": "4100-kdjfTEfo",
         "type": "char",
         "name_en": "Demitri"
     },
     {
-        "type": "memento"
+        "id": "4100-JGuPcIAv",
+        "type": "memento",
+        "name_en": "A Vampire's Jabot"
     },
     {
+        "id": "4126-IQOCLQyH",
         "type": "char",
         "name_en": "Hinata Wakaba"
     },
     {
-        "type": "memento"
+        "id": "4126-vFllBcdo",
+        "type": "memento",
+        "name_en": "School Bag"
     },
     {
+        "id": "4127-nZkiTSkb",
         "type": "char",
         "name_en": "Kyosuke Kagami"
     },
     {
-        "type": "memento"
+        "id": "4127-VWHBFNgR",
+        "type": "memento",
+        "name_en": "Chess Piece"
     },
     {
         "type": "char",
