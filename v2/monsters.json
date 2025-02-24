@@ -3052,7 +3052,9 @@
         "planId": "11ALP6",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3175,7 +3177,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -3195,7 +3196,9 @@
         "statPlan": "PPTTTT",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3317,7 +3320,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -3338,7 +3340,9 @@
         "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3458,7 +3462,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -3476,7 +3479,9 @@
         "name_en": "Ed",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3599,7 +3604,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -3617,7 +3621,9 @@
         "name_en": "Baby Head",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3740,7 +3746,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -3758,7 +3763,9 @@
         "name_en": "Batsu Ichimonji",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -3881,7 +3888,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -3900,7 +3906,9 @@
         "planId": "11BRP6",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4021,7 +4029,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -4183,7 +4190,9 @@
         "planId": "11BRT6",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4303,7 +4312,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -4321,7 +4329,9 @@
         "name_en": "Necro",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4444,7 +4454,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -4462,7 +4471,9 @@
         "name_en": "Chairperson",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4585,7 +4596,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
@@ -4603,7 +4613,9 @@
         "name_en": "Hayato Nekketsu",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4130
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4726,7 +4738,6 @@
             4111,
             4123,
             4069,
-            4130,
             4131,
             4078,
             4097,
