@@ -2077,7 +2077,6 @@
             4073,
             4118,
             4105,
-            4031,
             4091,
             4038,
             4098
@@ -3477,6 +3476,8 @@
     {
         "monster_id": 4078,
         "name_en": "Ed",
+        "planId": "11ARP6",
+        "statPlan": "TTPPPP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4272,7 +4273,6 @@
             4052,
             4053,
             4080,
-            4106,
             4112,
             4019,
             4093,
