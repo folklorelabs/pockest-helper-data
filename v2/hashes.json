@@ -1422,7 +1422,9 @@
         "name_en": "Ed"
     },
     {
-        "type": "memento"
+        "id": "4078-NGaPCnQF",
+        "type": "memento",
+        "name_en": "Neo Shadaloo Hat"
     },
     {
         "type": "char",
@@ -1476,17 +1478,23 @@
         "type": "memento"
     },
     {
+        "id": "4128-LVJPtKAH",
         "type": "char",
         "name_en": "Chairperson"
     },
     {
-        "type": "memento"
+        "id": "4128-MqDviMAp",
+        "type": "memento",
+        "name_en": "Sweatsuit"
     },
     {
+        "id": "4129-UHyCvtff",
         "type": "char",
         "name_en": "Hayato Nekketsu"
     },
     {
-        "type": "memento"
+        "id": "4129-tJYJoydJ",
+        "type": "memento",
+        "name_en": "Nekketsu Bamboo Sword"
     }
 ]
