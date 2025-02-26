@@ -4365,6 +4365,7 @@
     {
         "monster_id": 4055,
         "name_en": "Necro",
+        "planId": "11CRT6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4507,6 +4508,8 @@
     {
         "monster_id": 4128,
         "name_en": "Chairperson",
+        "planId": "11CRS6",
+        "statPlan": "PPSSSS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4649,6 +4652,8 @@
     {
         "monster_id": 4129,
         "name_en": "Hayato Nekketsu",
+        "planId": "11CRP6",
+        "statPlan": "TTPPPP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
