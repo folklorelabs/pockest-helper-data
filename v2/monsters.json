@@ -3589,6 +3589,8 @@
     {
         "monster_id": 4097,
         "name_en": "Baby Head",
+        "planId": "11ART6",
+        "statPlan": "SSTTTT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3731,6 +3733,7 @@
     {
         "monster_id": 4125,
         "name_en": "Batsu Ichimonji",
+        "planId": "11ARS6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
