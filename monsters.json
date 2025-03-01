@@ -3789,6 +3789,7 @@
         "monster_id": 4125,
         "name_en": "Batsu Ichimonji",
         "planId": "11ARS6",
+        "statPlan": "PPSSSS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4336,6 +4337,7 @@
         "monster_id": 4055,
         "name_en": "Necro",
         "planId": "11CRT6",
+        "statPlan": "SSTTTT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [

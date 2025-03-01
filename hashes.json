@@ -1432,14 +1432,19 @@
         "name_en": "Baby Head"
     },
     {
-        "type": "memento"
+        "id": "4097-KtJbyBdk",
+        "type": "memento",
+        "name_en": "Pacifier of a Genius"
     },
     {
+        "id": " 4125-mVQiVKAv",
         "type": "char",
         "name_en": "Batsu Ichimonji"
     },
     {
-        "type": "memento"
+        "id": "4125-rIuPBnSU",
+        "type": "memento",
+        "name_en": "Chain Mail"
     },
     {
         "id": "4100-kdjfTEfo",
@@ -1472,11 +1477,14 @@
         "name_en": "Chess Piece"
     },
     {
+        "id": "4055-TOirreTR",
         "type": "char",
         "name_en": "Necro"
     },
     {
-        "type": "memento"
+        "id": "4055-shxpHyHv",
+        "type": "memento",
+        "name_en": "Bolt of the Illuminati"
     },
     {
         "id": "4128-LVJPtKAH",
