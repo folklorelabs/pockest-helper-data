@@ -3083,8 +3083,9 @@
     },
     {
         "monster_id": 4069,
-        "name_en": "Seth, The Puppet Master",
+        "name_en": "Puppetmaster Seth",
         "planId": "11ALP6",
+        "statPlan": "TTSSPP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [

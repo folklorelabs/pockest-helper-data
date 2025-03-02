@@ -1390,11 +1390,14 @@
         "name_en": "Kernel of Darkness"
     },
     {
+        "id": "4069-QfKazNae",
         "type": "char",
-        "name_en": "Seth, The Puppet Master"
+        "name_en": "Puppetmaster Seth"
     },
     {
-        "type": "memento"
+        "id": "4069-FtlqNXmF",
+        "type": "memento",
+        "name_en": "Puppetmaster's Tanden Engine"
     },
     {
         "id": "4130-mlQunXLt",
