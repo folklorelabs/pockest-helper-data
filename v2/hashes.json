@@ -1,57 +1,57 @@
 [
     {
         "id": "0001-oJLAyLHQ",
-        "type": "egg",
+        "type": "char",
         "name_en": "White Egg"
     },
     {
         "id": "0002-BtHCsOeH",
-        "type": "egg",
+        "type": "char",
         "name_en": "Green Polka-dot Egg"
     },
     {
         "id": "0003-qYaoQCHI",
-        "type": "egg",
+        "type": "char",
         "name_en": "Yellow Polka-dot Egg"
     },
     {
         "id": "0004-qBnvCOdR",
-        "type": "egg",
+        "type": "char",
         "name_en": "Blue Polka-dot Egg"
     },
     {
         "id": "0005-qbyMIwmm",
-        "type": "egg",
+        "type": "char",
         "name_en": "Red Polka-dot Egg"
     },
     {
         "id": "0006-mjDwuAKH",
-        "type": "egg",
+        "type": "char",
         "name_en": "Orange Egg"
     },
     {
         "id": "0007-CoZOXAWW",
-        "type": "egg",
+        "type": "char",
         "name_en": "Light Blue Egg"
     },
     {
         "id": "0008-iusDJFDZ",
-        "type": "egg",
+        "type": "char",
         "name_en": "Green Egg"
     },
     {
         "id": "0009-oUmZvkzr",
-        "type": "egg",
+        "type": "char",
         "name_en": "Purple Egg"
     },
     {
         "id": "0010-QssFHmxr",
-        "type": "egg",
+        "type": "char",
         "name_en": "Yellow Egg"
     },
     {
         "id": "0011-fdPXivcr",
-        "type": "egg",
+        "type": "char",
         "name_en": "Pink Egg"
     },
     {
