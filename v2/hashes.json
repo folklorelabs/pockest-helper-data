@@ -1,5 +1,60 @@
 [
     {
+        "id": "0001-oJLAyLHQ",
+        "type": "egg",
+        "name_en": "White Egg"
+    },
+    {
+        "id": "0002-BtHCsOeH",
+        "type": "egg",
+        "name_en": "Green Polka-dot Egg"
+    },
+    {
+        "id": "0003-qYaoQCHI",
+        "type": "egg",
+        "name_en": "Yellow Polka-dot Egg"
+    },
+    {
+        "id": "0004-qBnvCOdR",
+        "type": "egg",
+        "name_en": "Blue Polka-dot Egg"
+    },
+    {
+        "id": "0005-qbyMIwmm",
+        "type": "egg",
+        "name_en": "Red Polka-dot Egg"
+    },
+    {
+        "id": "0006-mjDwuAKH",
+        "type": "egg",
+        "name_en": "Orange Egg"
+    },
+    {
+        "id": "0007-CoZOXAWW",
+        "type": "egg",
+        "name_en": "Light Blue Egg"
+    },
+    {
+        "id": "0008-iusDJFDZ",
+        "type": "egg",
+        "name_en": "Green Egg"
+    },
+    {
+        "id": "0009-oUmZvkzr",
+        "type": "egg",
+        "name_en": "Purple Egg"
+    },
+    {
+        "id": "0010-QssFHmxr",
+        "type": "egg",
+        "name_en": "Yellow Egg"
+    },
+    {
+        "id": "0011-fdPXivcr",
+        "type": "egg",
+        "name_en": "Pink Egg"
+    },
+    {
         "id": "0001-TGxvUOrV",
         "type": "char",
         "name_en": "Squidge"
