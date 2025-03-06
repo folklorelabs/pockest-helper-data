@@ -4348,7 +4348,9 @@
         "name_en": "Chairperson",
         "planId": "11CRS6",
         "statPlan": "PPSSSS",
-        "matchFever": [],
+        "matchFever": [
+            4012
+        ],
         "matchSusFever": [],
         "matchSusNormal": [
             4130,
@@ -4371,7 +4373,6 @@
             4026,
             4040,
             4087,
-            4012,
             4074,
             4089,
             4005,
