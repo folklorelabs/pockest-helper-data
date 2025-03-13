@@ -4000,6 +4000,7 @@
         "monster_id": 4127,
         "name_en": "Kyosuke Kagami",
         "planId": "11BRT6",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
