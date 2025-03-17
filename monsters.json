@@ -3139,6 +3139,8 @@
         "name_en": "Shoma Sawamura",
         "planId": "11ALT6",
         "statPlan": "PPTTTT",
+        "requiredMemento": 4111,
+        "confirmed": 1,
         "matchFever": [
             4001,
             4100
