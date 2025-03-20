@@ -3001,6 +3001,7 @@
         "name_en": "Puppetmaster Seth",
         "planId": "11ALP6",
         "statPlan": "TTSSPP",
+        "confirmed": 1,
         "matchFever": [
             4131
         ],
@@ -3474,6 +3475,7 @@
         "name_en": "Baby Head",
         "planId": "11ART6",
         "statPlan": "SSTTTT",
+        "confirmed": 1,
         "matchFever": [
             4033
         ],
