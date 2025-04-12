@@ -55,6 +55,9 @@
         "name_en": "Pink Egg"
     },
     {
+        "type": "egg"
+    },
+    {
         "id": "0001-TGxvUOrV",
         "type": "char",
         "name_en": "Squidge"
@@ -1508,5 +1511,89 @@
         "id": "4129-tJYJoydJ",
         "type": "memento",
         "name_en": "Nekketsu Bamboo Sword"
+    },
+    {
+        "type": "char",
+        "name_en": "Natsu Ayuhara"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Tiffany Lords"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "June"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Roberto Miura"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Hideo Shimazu"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Gamof"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Nagare Namikawa"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Roy Bromwell"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Hayato"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Momo Karuizawa"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Boman Delgado"
+    },
+    {
+        "type": "memento"
+    },
+    {
+        "type": "char",
+        "name_en": "Gerelt"
+    },
+    {
+        "type": "memento"
     }
 ]
