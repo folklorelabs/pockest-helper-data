@@ -4811,6 +4811,8 @@
     {
         "monster_id": 4134,
         "name_en": "Nagare Namikawa",
+        "planId": "12BRS6",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -4964,6 +4966,8 @@
     {
         "monster_id": 4136,
         "name_en": "Roy Bromwell",
+        "planId": "12BRT6",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],
@@ -5117,6 +5121,8 @@
     {
         "monster_id": 4149,
         "name_en": "Hayato",
+        "planId": "12BRP6",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],

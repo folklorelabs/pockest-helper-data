@@ -55,7 +55,9 @@
         "name_en": "Pink Egg"
     },
     {
-        "type": "egg"
+        "id": "0012-SiCuhQOc",
+        "type": "egg",
+        "name_en": "Gray Egg"
     },
     {
         "id": "0001-TGxvUOrV",
@@ -1555,25 +1557,34 @@
         "type": "memento"
     },
     {
+        "id": "4134-gAoFnhFV",
         "type": "char",
         "name_en": "Nagare Namikawa"
     },
     {
-        "type": "memento"
+        "id": "4134-xXMZsZmY",
+        "type": "memento",
+        "name_en": "Swim Fin"
     },
     {
+        "id": "4136-tcTmADTf",
         "type": "char",
         "name_en": "Roy Bromwell"
     },
     {
-        "type": "memento"
+        "id": "4136-zNCVrCgl",
+        "type": "memento",
+        "name_en": "Necktie"
     },
     {
+        "id": "4149-FYihFwAz",
         "type": "char",
         "name_en": "Hayato"
     },
     {
-        "type": "memento"
+        "id": "4149-PokMxNXM",
+        "type": "memento",
+        "name_en": "Plasma Blade"
     },
     {
         "type": "char",
