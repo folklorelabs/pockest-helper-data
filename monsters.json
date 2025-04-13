@@ -4271,6 +4271,8 @@
     {
         "monster_id": 4150,
         "name_en": "June",
+        "planId": "12ALS6",
+        "statPlan": "PPSSSS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [],

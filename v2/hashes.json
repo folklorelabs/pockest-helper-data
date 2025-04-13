@@ -1529,11 +1529,14 @@
         "type": "memento"
     },
     {
+        "id": "4150-irzWUHpC",
         "type": "char",
         "name_en": "June"
     },
     {
-        "type": "memento"
+        "id": "4150-YbhUcRcF",
+        "type": "memento",
+        "name_en": "Plasma Circle"
     },
     {
         "type": "char",
