@@ -963,9 +963,7 @@
             4041
         ],
         "matchSusFever": [],
-        "matchSusNormal": [
-            4094
-        ],
+        "matchSusNormal": [],
         "matchUnknown": []
     },
     {
@@ -1337,7 +1335,6 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [
-            4044,
             4087,
             4049,
             4035,
@@ -2863,7 +2860,6 @@
             4072,
             4110,
             4020,
-            4075,
             4070,
             4095,
             4045,
@@ -3187,7 +3183,6 @@
             4035,
             4115,
             4057,
-            4067,
             4051,
             4088,
             4002,
@@ -3874,7 +3869,9 @@
         "name_en": "Natsu Ayuhara",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4018,8 +4015,7 @@
             4136,
             4149,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
@@ -4027,7 +4023,9 @@
         "name_en": "Tiffany Lords",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4171,8 +4169,7 @@
             4136,
             4149,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
@@ -4182,7 +4179,9 @@
         "statPlan": "PPSSSS",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4325,8 +4324,7 @@
             4136,
             4149,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
@@ -4334,7 +4332,9 @@
         "name_en": "Roberto Miura",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4478,8 +4478,7 @@
             4136,
             4149,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
@@ -4487,7 +4486,9 @@
         "name_en": "Hideo Shimazu",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4631,8 +4632,7 @@
             4136,
             4149,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
@@ -4640,7 +4640,9 @@
         "name_en": "Gamof",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4784,8 +4786,7 @@
             4136,
             4149,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
@@ -4795,7 +4796,9 @@
         "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -4860,7 +4863,6 @@
             4068,
             4072,
             4110,
-            4020,
             4046,
             4059,
             4037,
@@ -4938,8 +4940,7 @@
             4134,
             4136,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
@@ -4947,11 +4948,24 @@
         "name_en": "Roy Bromwell",
         "planId": "12BRT6",
         "confirmed": 1,
-        "matchFever": [],
+        "matchFever": [
+            4152
+        ],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4132,
+            4137,
+            4150,
+            4133,
+            4139,
+            4151,
+            4134,
+            4136,
+            4149,
+            4135,
+            4138
+        ],
         "matchUnknown": [
-            4006,
             4079,
             4124,
             4015,
@@ -5081,19 +5095,7 @@
             4126,
             4055,
             4128,
-            4129,
-            4132,
-            4137,
-            4150,
-            4133,
-            4139,
-            4151,
-            4134,
-            4136,
-            4149,
-            4135,
-            4138,
-            4152
+            4129
         ]
     },
     {
@@ -5103,7 +5105,9 @@
         "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -5246,8 +5250,7 @@
             4134,
             4136,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
@@ -5255,7 +5258,9 @@
         "name_en": "Momo Karuizawa",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -5399,8 +5404,7 @@
             4136,
             4149,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
@@ -5408,7 +5412,9 @@
         "name_en": "Boman Delgado",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -5552,16 +5558,19 @@
             4136,
             4149,
             4135,
-            4138,
-            4152
+            4138
         ]
     },
     {
         "monster_id": 4152,
         "name_en": "Gerelt",
+        "planId": "12CRS6",
+        "statPlan": "TTSSSS",
         "matchFever": [],
         "matchSusFever": [],
-        "matchSusNormal": [],
+        "matchSusNormal": [
+            4152
+        ],
         "matchUnknown": [
             4006,
             4079,
@@ -5705,8 +5714,7 @@
             4136,
             4149,
             4135,
-            4138,
-            4152
+            4138
         ]
     }
 ]
