@@ -1515,18 +1515,24 @@
         "name_en": "Nekketsu Bamboo Sword"
     },
     {
+        "id": "4132-UZnqYLsr",
         "type": "char",
         "name_en": "Natsu Ayuhara"
     },
     {
-        "type": "memento"
+        "id": "4132-UbMOMLbm",
+        "type": "memento",
+        "name_en": "Volleyball"
     },
     {
+        "id": "4137-YRBdsVzS",
         "type": "char",
         "name_en": "Tiffany Lords"
     },
     {
-        "type": "memento"
+        "id": "4137-KSdiLqKl",
+        "type": "memento",
+        "name_en": "Star Boxing Gloves"
     },
     {
         "id": "4150-irzWUHpC",
@@ -1539,18 +1545,24 @@
         "name_en": "Plasma Circle"
     },
     {
+        "id": "4133-IwLAeuAj",
         "type": "char",
         "name_en": "Roberto Miura"
     },
     {
-        "type": "memento"
+        "id": "4133-TRfxbflw",
+        "type": "memento",
+        "name_en": "Soccer Ball"
     },
     {
+        "id": "4139-WMJMFjtB",
         "type": "char",
         "name_en": "Hideo Shimazu"
     },
     {
-        "type": "memento"
+        "id": "4139-EGpSEmyJ",
+        "type": "memento",
+        "name_en": "Shoulder Pads"
     },
     {
         "type": "char",
@@ -1590,18 +1602,24 @@
         "name_en": "Plasma Blade"
     },
     {
+        "id": "4135-xtcAIGbU",
         "type": "char",
         "name_en": "Momo Karuizawa"
     },
     {
-        "type": "memento"
+        "id": "4135-EUPKOLZK",
+        "type": "memento",
+        "name_en": "Tennis Ball"
     },
     {
+        "id": "4138-DcIiHJZO",
         "type": "char",
         "name_en": "Boman Delgado"
     },
     {
-        "type": "memento"
+        "id": "4138-qnadMumY",
+        "type": "memento",
+        "name_en": "Holy Bible"
     },
     {
         "id": "4152-uRPSZMXl",
@@ -1609,6 +1627,8 @@
         "name_en": "Gerelt"
     },
     {
-        "type": "memento"
+        "id": "4152-QMVBGmjg",
+        "type": "memento",
+        "name_en": "Plasma Saber"
     }
 ]

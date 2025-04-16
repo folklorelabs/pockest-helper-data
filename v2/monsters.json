@@ -3859,6 +3859,8 @@
     {
         "monster_id": 4132,
         "name_en": "Natsu Ayuhara",
+        "planId": "12ALP6",
+        "statPlan": "TTPPPP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4013,6 +4015,8 @@
     {
         "monster_id": 4137,
         "name_en": "Tiffany Lords",
+        "planId": "12ALT6",
+        "statPlan": "SSTTTT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4322,6 +4326,8 @@
     {
         "monster_id": 4133,
         "name_en": "Roberto Miura",
+        "planId": "12ARP6",
+        "statPlan": "SSPPPP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4476,6 +4482,8 @@
     {
         "monster_id": 4139,
         "name_en": "Hideo Shimazu",
+        "planId": "12ARS6",
+        "statPlan": "TTSSSS",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4630,6 +4638,7 @@
     {
         "monster_id": 4151,
         "name_en": "Gamof",
+        "planId": "12ART6",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5244,6 +5253,8 @@
     {
         "monster_id": 4135,
         "name_en": "Momo Karuizawa",
+        "planId": "12CRT6",
+        "statPlan": "PPTTTT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5398,6 +5409,8 @@
     {
         "monster_id": 4138,
         "name_en": "Boman Delgado",
+        "planId": "12CRP6",
+        "statPlan": "SSPPPP",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
