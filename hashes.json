@@ -1565,11 +1565,14 @@
         "name_en": "Shoulder Pads"
     },
     {
+        "id": "4151-xLoZJLVk",
         "type": "char",
         "name_en": "Gamof"
     },
     {
-        "type": "memento"
+        "id": "4151-foOFmSSc",
+        "type": "memento",
+        "name_en": "Plasma Axe"
     },
     {
         "id": "4134-gAoFnhFV",
