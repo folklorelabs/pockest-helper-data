@@ -1371,7 +1371,6 @@
         "matchSusNormal": [
             4119,
             4045,
-            4017,
             4122
         ],
         "matchUnknown": []
@@ -4700,6 +4699,7 @@
         "monster_id": 4151,
         "name_en": "Gamof",
         "planId": "12ART6",
+        "statPlan": "PPTTTT",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4844,7 +4844,6 @@
             4133,
             4139,
             4151,
-            4134,
             4136,
             4149,
             4135,
@@ -5021,7 +5020,6 @@
             4151,
             4134,
             4136,
-            4149,
             4135,
             4138
         ],
