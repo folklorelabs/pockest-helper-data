@@ -4443,6 +4443,7 @@
         "name_en": "Hideo Shimazu",
         "planId": "12ARS6",
         "statPlan": "TTSSSS",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4595,6 +4596,7 @@
         "name_en": "Gamof",
         "planId": "12ART6",
         "statPlan": "PPTTTT",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5347,6 +5349,7 @@
         "name_en": "Boman Delgado",
         "planId": "12CRP6",
         "statPlan": "SSPPPP",
+        "confirmed": 1,
         "matchFever": [
             4134
         ],
