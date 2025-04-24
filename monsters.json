@@ -3071,7 +3071,6 @@
         "matchUnknown": [
             4044,
             4040,
-            4087,
             4074,
             4007,
             4014,
@@ -5174,7 +5173,9 @@
         "name_en": "Momo Karuizawa",
         "planId": "12CRT6",
         "statPlan": "PPTTTT",
-        "matchFever": [],
+        "matchFever": [
+            4064
+        ],
         "matchSusFever": [],
         "matchSusNormal": [
             4134,
@@ -5279,7 +5280,6 @@
             4091,
             4108,
             4038,
-            4064,
             4098,
             4063,
             4116,
