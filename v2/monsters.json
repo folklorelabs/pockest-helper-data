@@ -4946,7 +4946,9 @@
         "name_en": "Hayato",
         "planId": "12BRP6",
         "confirmed": 1,
-        "matchFever": [],
+        "matchFever": [
+            4126
+        ],
         "matchSusFever": [],
         "matchSusNormal": [
             4134,
@@ -5073,7 +5075,6 @@
             4097,
             4125,
             4100,
-            4126,
             4127,
             4055,
             4128,
