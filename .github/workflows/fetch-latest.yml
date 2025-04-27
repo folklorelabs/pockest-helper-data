@@ -6,7 +6,12 @@ on:
       - gh-pages
   schedule:
     - cron:  '0 * * * *'
-  workflow_dispatch
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to run tests against'
+        type: environment
+        required: true
 
 permissions:
   contents: write
