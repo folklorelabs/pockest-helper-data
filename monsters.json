@@ -2225,8 +2225,8 @@
         "name_en": "Hugo",
         "planId": "9CRS6",
         "statPlan": "PPPPPP",
-        "confirmed": 1,
         "show": 1,
+        "showMsg": "Memento Unconfirmed",
         "matchFever": [
             4015,
             4068,
@@ -2306,8 +2306,6 @@
         "name_en": "Mack the Knife",
         "planId": "9CRT6",
         "statPlan": "PPTTTT",
-        "confirmed": 1,
-        "show": 1,
         "matchFever": [
             4033,
             4101,
@@ -2464,7 +2462,6 @@
         "name_en": "Q-Bee",
         "planId": "10ALS6",
         "statPlan": "TTSSSS",
-        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4027,
