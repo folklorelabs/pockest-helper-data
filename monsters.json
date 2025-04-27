@@ -4001,6 +4001,7 @@
         "name_en": "Tiffany Lords",
         "planId": "12ALT6",
         "statPlan": "SSTTTT",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4137,6 +4138,7 @@
         "name_en": "June",
         "planId": "12ALS6",
         "statPlan": "PPSSSS",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4278,6 +4280,7 @@
         "name_en": "Roberto Miura",
         "planId": "12ARP6",
         "statPlan": "SSPPPP",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5126,6 +5129,7 @@
         "name_en": "Momo Karuizawa",
         "planId": "12CRT6",
         "statPlan": "PPTTTT",
+        "confirmed": 1,
         "matchFever": [
             4064
         ],
@@ -5399,6 +5403,7 @@
         "name_en": "Gerelt",
         "planId": "12CRS6",
         "statPlan": "TTSSSS",
+        "confirmed": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
