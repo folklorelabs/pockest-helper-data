@@ -5547,6 +5547,7 @@
         "planId": "12CRS6",
         "statPlan": "TTSSSS",
         "show": 1,
+        "showMsg": "Memento Unconfirmed",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
