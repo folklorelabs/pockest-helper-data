@@ -1,6 +1,7 @@
 name: fetch-latest
 
 on:
+  workflow_dispatch
   push:
     branches:
       - gh-pages
