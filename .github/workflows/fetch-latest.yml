@@ -1,12 +1,12 @@
 name: fetch-latest
 
 on:
-  workflow_dispatch
   push:
     branches:
       - gh-pages
   schedule:
     - cron:  '0 * * * *'
+  workflow_dispatch
 
 permissions:
   contents: write
