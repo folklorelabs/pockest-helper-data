@@ -5944,6 +5944,7 @@
         "monster_id": 9999,
         "name_en": "Test",
         "planId": "13ALP6",
+        "show": 1,
         "showMsg": "Memento Unconfirmed",
         "matchFever": [],
         "matchSusFever": [],
