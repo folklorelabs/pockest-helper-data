@@ -4,6 +4,7 @@
         "name_en": "Guile",
         "planId": "1ALT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4085,
             4083,
@@ -11,7 +12,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6ALT"
     },
     {
@@ -19,6 +22,7 @@
         "name_en": "Necalli",
         "planId": "1ALP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4015,
             4074,
@@ -26,7 +30,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6ALP"
     },
     {
@@ -34,6 +40,7 @@
         "name_en": "Carlos Miyamoto",
         "planId": "1ALS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4006,
             4089,
@@ -41,7 +48,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6ALS"
     },
     {
@@ -49,6 +58,7 @@
         "name_en": "M. Bison",
         "planId": "1ART6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4065,
             4096,
@@ -56,7 +66,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6ART"
     },
     {
@@ -64,6 +76,7 @@
         "name_en": "Sodom",
         "planId": "1ARP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4044,
             4040,
@@ -73,7 +86,9 @@
         "matchSusNormal": [
             4121
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6ARP"
     },
     {
@@ -81,6 +96,7 @@
         "name_en": "Kimberly",
         "planId": "1ARS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4003,
             4007,
@@ -88,7 +104,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6ARS"
     },
     {
@@ -96,6 +114,7 @@
         "name_en": "Ryu",
         "planId": "1BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4030,
             4016,
@@ -103,7 +122,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6BRP"
     },
     {
@@ -111,6 +132,7 @@
         "name_en": "Ken",
         "planId": "1BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4004,
             4026,
@@ -118,7 +140,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6BRT"
     },
     {
@@ -126,6 +150,7 @@
         "name_en": "Chun-Li",
         "planId": "1BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4086,
             4014,
@@ -133,7 +158,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6BRS"
     },
     {
@@ -141,6 +168,7 @@
         "name_en": "Retsu",
         "planId": "1CRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4079,
             4005,
@@ -148,7 +176,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6CRP"
     },
     {
@@ -156,6 +186,7 @@
         "name_en": "Juri",
         "planId": "1CRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4000,
             4012,
@@ -163,7 +194,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6CRT"
     },
     {
@@ -171,6 +204,7 @@
         "name_en": "Manon",
         "planId": "1CRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4124,
             4087,
@@ -178,7 +212,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "W6CRS"
     },
     {
@@ -186,6 +222,7 @@
         "name_en": "Juli",
         "planId": "2ALS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4030,
             4087,
@@ -193,7 +230,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6ALS"
     },
     {
@@ -201,6 +240,7 @@
         "name_en": "Edi. E",
         "planId": "2ALP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4000,
             4012,
@@ -210,7 +250,9 @@
         "matchSusNormal": [
             4092
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6ALP"
     },
     {
@@ -218,6 +260,7 @@
         "name_en": "Marisa",
         "planId": "2ALT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4006,
             4014,
@@ -225,7 +268,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6ALT"
     },
     {
@@ -233,6 +278,7 @@
         "name_en": "Balrog",
         "planId": "2ARP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4004,
             4083,
@@ -240,7 +286,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6ARP"
     },
     {
@@ -249,6 +297,7 @@
         "planId": "2ART6",
         "statPlan": "PPSSTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4085,
             4089,
@@ -256,7 +305,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6ART"
     },
     {
@@ -264,6 +315,7 @@
         "name_en": "Lily",
         "planId": "2ARS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4015,
             4007,
@@ -271,7 +323,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6ARS"
     },
     {
@@ -279,6 +333,7 @@
         "name_en": "Cammy",
         "planId": "2BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4086,
             4016,
@@ -286,7 +341,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6BRS"
     },
     {
@@ -294,6 +351,7 @@
         "name_en": "Dee Jay",
         "planId": "2BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4124,
             4005,
@@ -301,7 +359,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6BRT"
     },
     {
@@ -309,6 +369,7 @@
         "name_en": "Luke",
         "planId": "2BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4044,
             4040,
@@ -316,7 +377,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6BRP"
     },
     {
@@ -324,6 +387,7 @@
         "name_en": "Blanka",
         "planId": "2CRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4065,
             4026,
@@ -331,7 +395,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6CRS"
     },
     {
@@ -339,6 +405,7 @@
         "name_en": "Sagat",
         "planId": "2CRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4079,
             4074,
@@ -346,7 +413,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6CRP"
     },
     {
@@ -354,6 +423,7 @@
         "name_en": "Captain Commando",
         "planId": "2CRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4003,
             4096,
@@ -361,7 +431,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "G6CRT"
     },
     {
@@ -369,6 +441,7 @@
         "name_en": "Zangief",
         "planId": "3ALP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4044,
             4007,
@@ -376,7 +449,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6ALP"
     },
     {
@@ -384,6 +459,7 @@
         "name_en": "E. Honda",
         "planId": "3ALT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4030,
             4005,
@@ -391,7 +467,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6ALT"
     },
     {
@@ -400,6 +478,7 @@
         "planId": "3ALS6",
         "requiredMemento": 4040,
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4065,
             4074,
@@ -409,7 +488,9 @@
         "matchSusNormal": [
             4121
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6ALS"
     },
     {
@@ -417,6 +498,7 @@
         "name_en": "Dhalsim",
         "planId": "3ARS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4000,
             4014,
@@ -424,7 +506,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6ARS"
     },
     {
@@ -432,6 +516,7 @@
         "name_en": "Vega",
         "planId": "3ART6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4124,
             4096,
@@ -439,7 +524,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6ART"
     },
     {
@@ -448,6 +535,7 @@
         "planId": "3ARP6",
         "requiredMemento": 4015,
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4085,
             4087
@@ -456,7 +544,9 @@
             4092
         ],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6ARP"
     },
     {
@@ -464,6 +554,7 @@
         "name_en": "Fei Long",
         "planId": "3BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4086,
             4089,
@@ -471,7 +562,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6BRS"
     },
     {
@@ -479,6 +572,7 @@
         "name_en": "R. Mika",
         "planId": "3BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4015,
             4026,
@@ -488,7 +582,9 @@
         "matchSusNormal": [
             4096
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6BRP"
     },
     {
@@ -496,6 +592,7 @@
         "name_en": "Jamie",
         "planId": "3BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4004,
             4040,
@@ -503,7 +600,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6BRT"
     },
     {
@@ -511,6 +610,7 @@
         "name_en": "Dudley",
         "planId": "3CRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4006,
             4083,
@@ -520,7 +620,9 @@
         "matchSusNormal": [
             4092
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6CRP"
     },
     {
@@ -528,6 +630,7 @@
         "name_en": "JP",
         "planId": "3CRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4003,
             4016,
@@ -535,7 +638,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6CRS"
     },
     {
@@ -545,6 +650,7 @@
         "statPlan": "PSTTTT",
         "requiredMemento": 4006,
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4079,
             4012,
@@ -552,7 +658,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "Y6CRT"
     },
     {
@@ -560,6 +668,7 @@
         "name_en": "Guy",
         "planId": "4ALT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4014,
             4084,
@@ -567,7 +676,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6ALT"
     },
     {
@@ -575,6 +686,7 @@
         "name_en": "Lilith",
         "planId": "4ALS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4086,
             4090,
@@ -582,7 +694,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6ALS"
     },
     {
@@ -590,6 +704,7 @@
         "name_en": "Mai-Ling",
         "planId": "4ALP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4026,
             4005,
@@ -597,7 +712,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6ALP"
     },
     {
@@ -605,6 +722,7 @@
         "name_en": "Cody",
         "planId": "4ARP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4015,
             4008,
@@ -612,7 +730,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6ARP"
     },
     {
@@ -620,6 +740,7 @@
         "name_en": "Urien",
         "planId": "4ARS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4083,
             4014,
@@ -629,7 +750,9 @@
         "matchSusNormal": [
             4121
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6ARS"
     },
     {
@@ -637,6 +760,7 @@
         "name_en": "Kolin",
         "planId": "4ART6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4016,
             4049,
@@ -644,7 +768,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6ART"
     },
     {
@@ -652,6 +778,7 @@
         "name_en": "Yang",
         "planId": "4BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4124,
             4012,
@@ -659,7 +786,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6BRS"
     },
     {
@@ -667,6 +796,7 @@
         "name_en": "Akira Kazama",
         "planId": "4BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4044,
             4121,
@@ -674,7 +804,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6BRT"
     },
     {
@@ -682,6 +814,7 @@
         "name_en": "Rashid",
         "planId": "4BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4004,
             4013,
@@ -689,7 +822,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6BRP"
     },
     {
@@ -697,6 +832,7 @@
         "name_en": "Violent Ken",
         "planId": "4CRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4029,
             4049,
@@ -706,7 +842,9 @@
         "matchSusNormal": [
             4119
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6CRT"
     },
     {
@@ -714,6 +852,7 @@
         "name_en": "Joe",
         "planId": "4CRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4079,
             4007,
@@ -724,7 +863,9 @@
             4121,
             4092
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6CRP"
     },
     {
@@ -732,6 +873,7 @@
         "name_en": "Kenji",
         "planId": "4CRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4089,
             4016,
@@ -741,7 +883,9 @@
         "matchSusNormal": [
             4044
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "B6CRS"
     },
     {
@@ -749,6 +893,7 @@
         "name_en": "Haggar",
         "planId": "5ALT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4000,
             4057,
@@ -760,7 +905,9 @@
             4009,
             4034
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6ALT"
     },
     {
@@ -769,6 +916,7 @@
         "planId": "5ALS6",
         "statPlan": "PPPSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4007,
             4090,
@@ -780,7 +928,9 @@
             4121,
             4042
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6ALS"
     },
     {
@@ -788,6 +938,7 @@
         "name_en": "Morrigan",
         "planId": "5ALP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4018,
             4090,
@@ -795,7 +946,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6ALP"
     },
     {
@@ -803,6 +956,7 @@
         "name_en": "Maki",
         "planId": "5ARP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4124,
             4121,
@@ -810,7 +964,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6ARP"
     },
     {
@@ -818,6 +974,7 @@
         "name_en": "Menat",
         "planId": "5ARS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4026,
             4096,
@@ -827,7 +984,9 @@
         "matchSusNormal": [
             4119
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6ARS"
     },
     {
@@ -835,6 +994,7 @@
         "name_en": "Ginzu",
         "planId": "5ART6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4015,
             4119,
@@ -846,7 +1006,9 @@
             4042,
             4054
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6ART"
     },
     {
@@ -854,6 +1016,7 @@
         "name_en": "Alex",
         "planId": "5BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4065,
             4002,
@@ -863,7 +1026,9 @@
         "matchSusNormal": [
             4094
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6BRP"
     },
     {
@@ -871,6 +1036,7 @@
         "name_en": "Abel",
         "planId": "5BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4033,
             4042,
@@ -881,7 +1047,9 @@
             4119,
             4094
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6BRS"
     },
     {
@@ -889,6 +1057,7 @@
         "name_en": "Victor",
         "planId": "5BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4085,
             4067,
@@ -898,7 +1067,9 @@
         "matchSusNormal": [
             4094
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6BRT"
     },
     {
@@ -906,6 +1077,7 @@
         "name_en": "Damnd",
         "planId": "5CRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4006,
             4087,
@@ -916,7 +1088,9 @@
             4007,
             4056
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6CRP"
     },
     {
@@ -924,6 +1098,7 @@
         "name_en": "Oro",
         "planId": "5CRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4115,
             4120,
@@ -931,7 +1106,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6CRS"
     },
     {
@@ -940,6 +1117,7 @@
         "planId": "5CRT6",
         "statPlan": "PPSSTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4016,
             4042,
@@ -952,7 +1130,9 @@
             4054,
             4094
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "R6CRT"
     },
     {
@@ -960,6 +1140,7 @@
         "name_en": "Lucia",
         "planId": "6ALT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4026,
             4089,
@@ -969,7 +1150,9 @@
         "matchSusNormal": [
             4120
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6ALT"
     },
     {
@@ -977,6 +1160,7 @@
         "name_en": "Gouken",
         "planId": "6ALP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4012,
             4115,
@@ -989,7 +1173,9 @@
             4056,
             4095
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6ALP"
     },
     {
@@ -997,6 +1183,7 @@
         "name_en": "Huitzil",
         "planId": "6ALS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4085,
             4000,
@@ -1010,7 +1197,9 @@
             4068,
             4095
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6ALS"
     },
     {
@@ -1018,6 +1207,7 @@
         "name_en": "Sakura",
         "planId": "6ARP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4084,
             4049,
@@ -1025,7 +1215,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6ARP"
     },
     {
@@ -1033,6 +1225,7 @@
         "name_en": "Lee",
         "planId": "6ARS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4030,
             4096,
@@ -1043,7 +1236,9 @@
             4072,
             4095
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6ARS"
     },
     {
@@ -1051,6 +1246,7 @@
         "name_en": "Sean",
         "planId": "6ART6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4121,
             4008,
@@ -1062,7 +1258,9 @@
             4042,
             4039
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6ART"
     },
     {
@@ -1070,6 +1268,7 @@
         "name_en": "Poison",
         "planId": "6BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4051,
             4119,
@@ -1079,7 +1278,9 @@
         "matchSusNormal": [
             4092
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6BRP"
     },
     {
@@ -1087,6 +1288,7 @@
         "name_en": "Abigail",
         "planId": "6BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4015,
             4026,
@@ -1094,7 +1296,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6BRS"
     },
     {
@@ -1102,6 +1306,7 @@
         "name_en": "Rufus",
         "planId": "6BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4082,
             4034,
@@ -1113,7 +1318,9 @@
             4039,
             4070
         ],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6BRT"
     },
     {
@@ -1121,6 +1328,7 @@
         "name_en": "Evil Ryu",
         "planId": "6CRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4044,
             4119,
@@ -1128,7 +1336,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6CRP"
     },
     {
@@ -1136,6 +1346,7 @@
         "name_en": "Seth",
         "planId": "6CRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4121,
             4029,
@@ -1143,7 +1354,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6CRS"
     },
     {
@@ -1151,6 +1364,7 @@
         "name_en": "Cyborg",
         "planId": "6CRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4016,
             4056,
@@ -1158,7 +1372,9 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": [],
+        "matchUnknown": [
+            9999
+        ],
         "plan": "L6CRT"
     },
     {
@@ -1167,6 +1383,7 @@
         "planId": "7ALT6",
         "requiredMemento": 4119,
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4010,
             4057,
@@ -1200,13 +1417,16 @@
             4017,
             4052
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4062,
         "name_en": "Twelve",
         "planId": "7ALP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4088,
             4034,
@@ -1221,13 +1441,16 @@
             4068,
             4045
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4102,
         "name_en": "Felicia",
         "planId": "7ALS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4030,
             4046,
@@ -1239,13 +1462,16 @@
             4056,
             4093
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4017,
         "name_en": "T. Hawk",
         "planId": "7ARP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4092,
             4039
@@ -1262,13 +1488,16 @@
             4095,
             4019
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4052,
         "name_en": "Elena",
         "planId": "7ARS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4004,
             4096,
@@ -1276,13 +1505,16 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4053,
         "name_en": "Ibuki",
         "planId": "7ART6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4003,
             4042,
@@ -1293,13 +1525,16 @@
             4056,
             4094
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4080,
         "name_en": "Laura",
         "planId": "7BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4000,
             4065
@@ -1312,13 +1547,16 @@
             4119,
             4093
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4106,
         "name_en": "Bishamon",
         "planId": "7BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4087,
             4119,
@@ -1329,13 +1567,16 @@
             4035,
             4056
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4112,
         "name_en": "Hsien-Ko",
         "planId": "7BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4086,
             4002,
@@ -1350,7 +1591,9 @@
             4019,
             4122
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4019,
@@ -1358,6 +1601,7 @@
         "planId": "7CRP6",
         "statPlan": "XXTSPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4000,
             4049,
@@ -1369,13 +1613,16 @@
             4045,
             4122
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4093,
         "name_en": "Shadaloo Soldier",
         "planId": "7CRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4048,
             4076,
@@ -1387,7 +1634,9 @@
             4119,
             4019
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4122,
@@ -1395,6 +1644,7 @@
         "planId": "7CRT6",
         "requiredMemento": 4001,
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4012,
             4005,
@@ -1412,7 +1662,9 @@
             4062,
             4019
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4027,
@@ -1420,6 +1672,7 @@
         "planId": "8ALP6",
         "statPlan": "SSPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4090,
             4001,
@@ -1434,7 +1687,9 @@
             4093,
             4103
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4061,
@@ -1442,6 +1697,7 @@
         "planId": "8ALS6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4000,
             4010,
@@ -1468,7 +1724,9 @@
             4114,
             4028
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4114,
@@ -1476,6 +1734,7 @@
         "planId": "8ALT6",
         "statPlan": "PPPTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4083,
             4061
@@ -1483,7 +1742,8 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [
-            4045
+            4045,
+            9999
         ]
     },
     {
@@ -1492,6 +1752,7 @@
         "planId": "8ARP6",
         "statPlan": "SPPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4065,
             4018,
@@ -1513,7 +1774,9 @@
             4061,
             4058
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4066,
@@ -1521,6 +1784,7 @@
         "planId": "8ART6",
         "statPlan": "PTTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4056,
             4093,
@@ -1535,7 +1799,9 @@
             4028,
             4066
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4071,
@@ -1543,6 +1809,7 @@
         "planId": "8ARS6",
         "statPlan": "TSSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4057,
             4037,
@@ -1561,13 +1828,16 @@
             4061,
             4028
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4047,
         "name_en": "Gen",
         "planId": "8BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4054,
             4106,
@@ -1588,13 +1858,16 @@
             4058,
             4103
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4104,
         "name_en": "Jon Talbain",
         "planId": "8BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4008,
             4101,
@@ -1617,13 +1890,16 @@
             4058,
             4103
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4109,
         "name_en": "Sasquatch",
         "planId": "8BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4084,
             4115,
@@ -1642,7 +1918,9 @@
             4058,
             4103
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4025,
@@ -1650,6 +1928,7 @@
         "planId": "8CRT6",
         "statPlan": "PPTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4018,
             4057,
@@ -1668,7 +1947,9 @@
             4019,
             4114
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4058,
@@ -1676,6 +1957,7 @@
         "planId": "8CRS6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4003,
             4070,
@@ -1692,7 +1974,9 @@
             4122,
             4058
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4103,
@@ -1700,6 +1984,7 @@
         "planId": "8CRP6",
         "statPlan": "SSPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4007,
             4017,
@@ -1728,7 +2013,9 @@
             4025,
             4058
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4060,
@@ -1736,6 +2023,7 @@
         "planId": "9ALP6",
         "statPlan": "TTSSPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4015,
             4086,
@@ -1763,7 +2051,9 @@
             4064,
             4098
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4073,
@@ -1771,6 +2061,7 @@
         "planId": "9ALT6",
         "statPlan": "PPTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4124,
             4040,
@@ -1804,7 +2095,9 @@
             4105,
             4064
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4118,
@@ -1812,6 +2105,7 @@
         "planId": "9ALS6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4050
         ],
@@ -1842,7 +2136,8 @@
             4028,
             4066,
             4071,
-            4047
+            4047,
+            9999
         ]
     },
     {
@@ -1851,6 +2146,7 @@
         "planId": "9ARP6",
         "statPlan": "SPPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4014,
             4075,
@@ -1905,7 +2201,9 @@
             4064,
             4098
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4050,
@@ -1913,6 +2211,7 @@
         "planId": "9ARS6",
         "statPlan": "TSSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4096,
             4119,
@@ -1949,7 +2248,9 @@
             4105,
             4098
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4105,
@@ -1957,6 +2258,7 @@
         "planId": "9ART6",
         "statPlan": "PTTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4077,
             4108
@@ -1982,7 +2284,8 @@
             4027,
             4028,
             4071,
-            4058
+            4058,
+            9999
         ]
     },
     {
@@ -1991,6 +2294,7 @@
         "planId": "9BRS6",
         "statPlan": "PPPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4002,
             4061,
@@ -2034,7 +2338,9 @@
             4038,
             4098
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4091,
@@ -2042,6 +2348,7 @@
         "planId": "9BRP6",
         "statPlan": "TTTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4070,
             4031
@@ -2060,7 +2367,8 @@
             4093,
             4114,
             4028,
-            4058
+            4058,
+            9999
         ]
     },
     {
@@ -2069,6 +2377,7 @@
         "planId": "9BRT6",
         "statPlan": "SSSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4005,
             4088,
@@ -2113,7 +2422,9 @@
             4118,
             4023
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4038,
@@ -2121,6 +2432,7 @@
         "planId": "9CRS6",
         "statPlan": "PPPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4015,
             4068,
@@ -2151,7 +2463,9 @@
             4105,
             4064
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4064,
@@ -2159,6 +2473,7 @@
         "planId": "9CRP6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4092,
             4060
@@ -2191,7 +2506,8 @@
             4114,
             4104,
             4058,
-            4103
+            4103,
+            9999
         ]
     },
     {
@@ -2200,6 +2516,7 @@
         "planId": "9CRT6",
         "statPlan": "PPTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4033,
             4101,
@@ -2253,7 +2570,9 @@
             4038,
             4064
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4063,
@@ -2261,6 +2580,7 @@
         "planId": "10ALT6",
         "statPlan": "PPTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4041,
             4047,
@@ -2317,7 +2637,9 @@
             4024,
             4111
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4116,
@@ -2325,6 +2647,7 @@
         "planId": "10ALP6",
         "statPlan": "SSPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4006,
             4018,
@@ -2347,7 +2670,9 @@
             4064,
             4098
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4117,
@@ -2355,6 +2680,7 @@
         "planId": "10ALS6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4027,
             4108,
@@ -2395,7 +2721,9 @@
             4116,
             4113
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4021,
@@ -2403,6 +2731,7 @@
         "planId": "10ARP6",
         "statPlan": "SPPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4083,
             4035,
@@ -2426,7 +2755,9 @@
             4064,
             4098
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4024,
@@ -2434,6 +2765,7 @@
         "planId": "10ARS6",
         "statPlan": "TSSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4002,
             4042,
@@ -2460,7 +2792,9 @@
             4073,
             4098
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4113,
@@ -2468,6 +2802,7 @@
         "planId": "10ART6",
         "statPlan": "PTTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4016,
             4081
@@ -2506,7 +2841,8 @@
             4050,
             4105,
             4064,
-            4098
+            4098,
+            9999
         ]
     },
     {
@@ -2514,6 +2850,7 @@
         "name_en": "Birdie",
         "planId": "10BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4060,
             4063
@@ -2549,7 +2886,8 @@
             4050,
             4105,
             4064,
-            4098
+            4098,
+            9999
         ]
     },
     {
@@ -2558,6 +2896,7 @@
         "planId": "10BRS6",
         "requiredMemento": 4012,
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4004,
             4111
@@ -2634,7 +2973,8 @@
             4108,
             4038,
             4064,
-            4098
+            4098,
+            9999
         ]
     },
     {
@@ -2642,6 +2982,7 @@
         "name_en": "Zeku",
         "planId": "10BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4115,
             4112,
@@ -2678,7 +3019,9 @@
             4116,
             4111
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4011,
@@ -2686,6 +3029,7 @@
         "planId": "10CRP6",
         "statPlan": "SSPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4080,
             4023,
@@ -2711,7 +3055,9 @@
             4098,
             4123
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4111,
@@ -2720,6 +3066,7 @@
         "statPlan": "PPPTTT",
         "requiredMemento": 4027,
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4104,
             4032
@@ -2778,7 +3125,8 @@
             4105,
             4038,
             4064,
-            4098
+            4098,
+            9999
         ]
     },
     {
@@ -2787,6 +3135,7 @@
         "planId": "10CRS6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4074,
             4017,
@@ -2826,7 +3175,9 @@
             4098,
             4113
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4069,
@@ -2834,6 +3185,7 @@
         "planId": "11ALP6",
         "statPlan": "TTSSPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4109,
             4123,
@@ -2922,7 +3274,9 @@
             4128,
             4129
         ],
-        "matchUnknown": []
+        "matchUnknown": [
+            9999
+        ]
     },
     {
         "monster_id": 4130,
@@ -2931,6 +3285,7 @@
         "statPlan": "PPTTTT",
         "requiredMemento": 4111,
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4001,
             4100
@@ -3039,7 +3394,8 @@
             4032,
             4043,
             4081,
-            4011
+            4011,
+            9999
         ]
     },
     {
@@ -3048,6 +3404,7 @@
         "planId": "11ALS6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4126
         ],
@@ -3104,7 +3461,8 @@
             4116,
             4113,
             4043,
-            4123
+            4123,
+            9999
         ]
     },
     {
@@ -3113,6 +3471,7 @@
         "planId": "11ARP6",
         "statPlan": "TTPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4026,
             4127
@@ -3161,7 +3520,8 @@
             4117,
             4021,
             4113,
-            4032
+            4032,
+            9999
         ]
     },
     {
@@ -3170,6 +3530,7 @@
         "planId": "11ART6",
         "statPlan": "SSTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4033,
             4023
@@ -3262,7 +3623,8 @@
         ],
         "matchUnknown": [
             4055,
-            4129
+            4129,
+            9999
         ]
     },
     {
@@ -3271,6 +3633,7 @@
         "planId": "11ARS6",
         "statPlan": "PPSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4043
         ],
@@ -3344,7 +3707,8 @@
             4113,
             4032,
             4011,
-            4111
+            4111,
+            9999
         ]
     },
     {
@@ -3352,6 +3716,7 @@
         "name_en": "Demitri",
         "planId": "11BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4049,
             4069
@@ -3415,7 +3780,8 @@
             4063,
             4116,
             4117,
-            4123
+            4123,
+            9999
         ]
     },
     {
@@ -3423,6 +3789,7 @@
         "name_en": "Hinata Wakaba",
         "planId": "11BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4047,
             4130
@@ -3479,7 +3846,8 @@
             4024,
             4113,
             4043,
-            4111
+            4111,
+            9999
         ]
     },
     {
@@ -3487,6 +3855,7 @@
         "name_en": "Kyosuke Kagami",
         "planId": "11BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [],
         "matchSusFever": [
             4125
@@ -3558,7 +3927,8 @@
             4024,
             4113,
             4043,
-            4123
+            4123,
+            9999
         ]
     },
     {
@@ -3567,6 +3937,7 @@
         "planId": "11CRT6",
         "statPlan": "SSTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4091,
             4078
@@ -3651,7 +4022,8 @@
             4043,
             4081,
             4011,
-            4111
+            4111,
+            9999
         ]
     },
     {
@@ -3660,6 +4032,7 @@
         "planId": "11CRS6",
         "statPlan": "PPSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4012,
             4097
@@ -3740,7 +4113,8 @@
             4113,
             4032,
             4081,
-            4123
+            4123,
+            9999
         ]
     },
     {
@@ -3750,6 +4124,7 @@
         "statPlan": "TTPPPP",
         "requiredMemento": 4060,
         "confirmed": 1,
+        "show": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -3854,7 +4229,8 @@
             4111,
             4123,
             4055,
-            4129
+            4129,
+            9999
         ]
     },
     {
@@ -3863,6 +4239,7 @@
         "planId": "12ALP6",
         "statPlan": "TTPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4138
         ],
@@ -3993,7 +4370,8 @@
             4127,
             4055,
             4128,
-            4129
+            4129,
+            9999
         ]
     },
     {
@@ -4002,6 +4380,7 @@
         "planId": "12ALT6",
         "statPlan": "SSTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4130,7 +4509,8 @@
             4132,
             4137,
             4139,
-            4135
+            4135,
+            9999
         ]
     },
     {
@@ -4139,6 +4519,7 @@
         "planId": "12ALS6",
         "statPlan": "PPSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4272,7 +4653,8 @@
             4150,
             4139,
             4151,
-            4135
+            4135,
+            9999
         ]
     },
     {
@@ -4281,6 +4663,7 @@
         "planId": "12ARP6",
         "statPlan": "SSPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4411,7 +4794,8 @@
             4151,
             4136,
             4149,
-            4135
+            4135,
+            9999
         ]
     },
     {
@@ -4420,6 +4804,7 @@
         "planId": "12ARS6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4552,7 +4937,8 @@
             4139,
             4136,
             4149,
-            4135
+            4135,
+            9999
         ]
     },
     {
@@ -4561,6 +4947,7 @@
         "planId": "12ART6",
         "statPlan": "PPTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4133
         ],
@@ -4696,7 +5083,8 @@
             4128,
             4129,
             4149,
-            4135
+            4135,
+            9999
         ]
     },
     {
@@ -4704,6 +5092,7 @@
         "name_en": "Nagare Namikawa",
         "planId": "12BRS6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4833,7 +5222,8 @@
             4132,
             4150,
             4139,
-            4136
+            4136,
+            9999
         ]
     },
     {
@@ -4841,6 +5231,7 @@
         "name_en": "Roy Bromwell",
         "planId": "12BRT6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4152
         ],
@@ -4975,7 +5366,8 @@
             4126,
             4055,
             4128,
-            4129
+            4129,
+            9999
         ]
     },
     {
@@ -4983,6 +5375,7 @@
         "name_en": "Hayato",
         "planId": "12BRP6",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4126
         ],
@@ -5121,7 +5514,8 @@
             4139,
             4151,
             4136,
-            4135
+            4135,
+            9999
         ]
     },
     {
@@ -5130,6 +5524,7 @@
         "planId": "12CRT6",
         "statPlan": "PPTTTT",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4064
         ],
@@ -5261,7 +5656,8 @@
             4150,
             4139,
             4151,
-            4135
+            4135,
+            9999
         ]
     },
     {
@@ -5270,6 +5666,7 @@
         "planId": "12CRP6",
         "statPlan": "SSPPPP",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [
             4134
         ],
@@ -5395,7 +5792,8 @@
             4126,
             4127,
             4055,
-            4129
+            4129,
+            9999
         ]
     },
     {
@@ -5404,6 +5802,7 @@
         "planId": "12CRS6",
         "statPlan": "TTSSSS",
         "confirmed": 1,
+        "show": 1,
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5537,7 +5936,18 @@
             4151,
             4136,
             4149,
-            4135
+            4135,
+            9999
         ]
+    },
+    {
+        "monster_id": 9999,
+        "name_en": "Test",
+        "planId": "13ALP6",
+        "showMsg": "Memento Unconfirmed",
+        "matchFever": [],
+        "matchSusFever": [],
+        "matchSusNormal": [],
+        "matchUnknown": []
     }
 ]
