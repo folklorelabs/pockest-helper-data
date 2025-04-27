@@ -5546,8 +5546,8 @@
         "name_en": "Gerelt",
         "planId": "12CRS6",
         "statPlan": "TTSSSS",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
