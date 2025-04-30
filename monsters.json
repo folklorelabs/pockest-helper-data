@@ -2188,7 +2188,6 @@
             4035,
             4033,
             4051,
-            4082,
             4042,
             4119,
             4056,
@@ -3973,7 +3972,7 @@
         "statPlan": "TTPPPP",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [
             4138
         ],
@@ -4108,7 +4107,7 @@
         "statPlan": "SSTTTT",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [
             4139
         ],
@@ -4243,7 +4242,7 @@
         "statPlan": "PPSSSS",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4380,7 +4379,7 @@
         "statPlan": "SSPPPP",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4518,7 +4517,7 @@
         "statPlan": "TTSSSS",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4655,7 +4654,7 @@
         "statPlan": "PPTTTT",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [
             4133
         ],
@@ -4797,7 +4796,7 @@
         "planId": "12BRS6",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [
             4136
         ],
@@ -4928,7 +4927,7 @@
         "planId": "12BRT6",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [
             4152
         ],
@@ -5069,7 +5068,7 @@
         "planId": "12BRP6",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [
             4126
         ],
@@ -5215,7 +5214,7 @@
         "statPlan": "PPTTTT",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [
             4064
         ],
@@ -5350,7 +5349,7 @@
         "statPlan": "SSPPPP",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [
             4134
         ],
@@ -5480,7 +5479,7 @@
         "statPlan": "TTSSSS",
         "confirmed": 1,
         "show": 1,
-        "showMsg": "New!",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
