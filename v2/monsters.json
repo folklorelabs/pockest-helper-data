@@ -1057,7 +1057,6 @@
         "matchSusFever": [],
         "matchSusNormal": [
             4092,
-            4042,
             4039
         ],
         "matchUnknown": []
@@ -1490,11 +1489,11 @@
             4083,
             4061
         ],
-        "matchSusFever": [],
-        "matchSusNormal": [],
-        "matchUnknown": [
+        "matchSusFever": [
             4045
-        ]
+        ],
+        "matchSusNormal": [],
+        "matchUnknown": []
     },
     {
         "monster_id": 4028,
