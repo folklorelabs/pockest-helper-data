@@ -60,6 +60,11 @@
         "name_en": "Gray Egg"
     },
     {
+        "id": "0013-fVpmEiJq",
+        "type": "egg",
+        "name_en": "Ominous Egg"
+    },
+    {
         "id": "0001-TGxvUOrV",
         "type": "char",
         "name_en": "Squidge"
@@ -1633,5 +1638,143 @@
         "id": "4152-QMVBGmjg",
         "type": "memento",
         "name_en": "Plasma Saber"
+    },
+    {
+        "id": "4140-UstevMuM",
+        "type": "char",
+        "name_en": "Kyoko Minazuki"
+    },
+    {
+        "id": "4140-vVXgVpCO",
+        "type": "memento",
+        "name_en": "Sake"
+    },
+    {
+        "id": 4143,
+        "type": "char",
+        "name_en": "Daigo Kazama"
+    },
+    {
+        "id": 4143,
+        "type": "memento"
+    },
+    {
+        "id": "4146-jVimNBui",
+        "type": "char",
+        "name_en": "Hyo Imawano"
+    },
+    {
+        "id": "4146-AlNwyZHI",
+        "type": "memento",
+        "name_en": "Despicable Katana"
+    },
+    {
+        "id": "4148-WybJMdjX",
+        "type": "char",
+        "name_en": "Yurika Kirishima"
+    },
+    {
+        "id": "4148-sbJGIZKy",
+        "type": "memento",
+        "name_en": "Emboldening Violin"
+    },
+    {
+        "id": "4142-eaCjZluT",
+        "type": "char",
+        "name_en": "Gan Isurugi"
+    },
+    {
+        "id": "4142-dDXajmqb",
+        "type": "memento",
+        "name_en": "Onigiri"
+    },
+    {
+        "id": "4145-NONsPRgg",
+        "type": "char",
+        "name_en": "Raizo Imawano"
+    },
+    {
+        "id": "4145-iOEpxcOk",
+        "type": "memento",
+        "name_en": "Monocle"
+    },
+    {
+        "id": "4156-KgVBsVUU",
+        "type": "char",
+        "name_en": "Zelkin"
+    },
+    {
+        "id": "4156-ifgFmdUJ",
+        "type": "memento",
+        "name_en": "Plasma Claw"
+    },
+    {
+        "id": "4153-tGnDDtKY",
+        "type": "char",
+        "name_en": "Rimgal"
+    },
+    {
+        "id": "4153-aGyWxXZg",
+        "type": "memento",
+        "name_en": "Deadly Bone Club"
+    },
+    {
+        "id": "4154-sTFiNawc",
+        "type": "char",
+        "name_en": "Saturn"
+    },
+    {
+        "id": "4154-AIDVEzuG",
+        "type": "memento",
+        "name_en": "Plasma Yoyo"
+    },
+    {
+        "id": "4157-ZrKVDrQO",
+        "type": "char",
+        "name_en": "Dean"
+    },
+    {
+        "id": "4157-JHLFVPqe",
+        "type": "memento",
+        "name_en": "Mystery Man's Bandana"
+    },
+    {
+        "id": "4141-GDbEERrv",
+        "type": "char",
+        "name_en": "Edge"
+    },
+    {
+        "id": "4141-qYZbMKvc",
+        "type": "memento",
+        "name_en": "Edge's Knife"
+    },
+    {
+        "id": "4144-XHIEqlLK",
+        "type": "char",
+        "name_en": "Zaki"
+    },
+    {
+        "id": "4144-ogBUlYqq",
+        "type": "memento",
+        "name_en": "Chains of Blasphemy"
+    },
+    {
+        "id": "4147-ENMFIiys",
+        "type": "char",
+        "name_en": "Kurow Kirishima"
+    },
+    {
+        "id": "4147-QMVMtlaF",
+        "type": "memento",
+        "name_en": "Flute"
+    },
+    {
+        "id": 4155,
+        "type": "char",
+        "name_en": "Bilstein"
+    },
+    {
+        "id": 4155,
+        "type": "memento"
     }
 ]
