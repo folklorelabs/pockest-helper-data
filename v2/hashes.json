@@ -1650,12 +1650,10 @@
         "name_en": "Sake"
     },
     {
-        "id": 4143,
         "type": "char",
         "name_en": "Daigo Kazama"
     },
     {
-        "id": 4143,
         "type": "memento"
     },
     {
@@ -1769,12 +1767,10 @@
         "name_en": "Flute"
     },
     {
-        "id": 4155,
         "type": "char",
         "name_en": "Bilstein"
     },
     {
-        "id": 4155,
         "type": "memento"
     }
 ]
