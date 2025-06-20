@@ -4703,8 +4703,9 @@
         "name_en": "Kyoko Minazuki",
         "planId": "13ALS6",
         "statPlan": "PPSSSS",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5040,8 +5041,9 @@
         "name_en": "Hyo Imawano",
         "planId": "13ALT6",
         "statPlan": "PPTTTT",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5208,8 +5210,9 @@
         "name_en": "Yurika Kirishima",
         "planId": "13ALS6",
         "statPlan": "TTSSSS",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5376,8 +5379,9 @@
         "name_en": "Gan Isurugi",
         "planId": "13ARP6",
         "statPlan": "TTPPPP",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5544,8 +5548,9 @@
         "name_en": "Raizo Imawano",
         "planId": "13ARS6",
         "statPlan": "PPSSSS",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5712,8 +5717,9 @@
         "name_en": "Zelkin",
         "planId": "13ART6",
         "statPlan": "SSTTTT",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -5879,8 +5885,9 @@
         "monster_id": 4153,
         "name_en": "Rimgal",
         "planId": "13BRP6",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [
             4157
         ],
@@ -6047,8 +6054,9 @@
         "monster_id": 4154,
         "name_en": "Saturn",
         "planId": "13BRT6",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [
             4062
         ],
@@ -6216,8 +6224,9 @@
         "monster_id": 4157,
         "name_en": "Dean",
         "planId": "13BRS6",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -6384,8 +6393,9 @@
         "name_en": "Edge",
         "planId": "13CRP6",
         "statPlan": "TTPPPP",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [
             4144
         ],
@@ -6554,8 +6564,9 @@
         "name_en": "Zaki",
         "planId": "13CRS6",
         "statPlan": "TTSSSS",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -6722,8 +6733,9 @@
         "name_en": "Kurow Kirishima",
         "planId": "13CRS6",
         "statPlan": "PPSSSS",
+        "confirmed": 1,
         "show": 1,
-        "showMsg": "Memento Unconfirmed",
+        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -6889,6 +6901,9 @@
         "monster_id": 4155,
         "name_en": "Bilstein",
         "planId": "13CRT6",
+        "statPlan": "SSTTTT",
+        "show": 1,
+        "showMsg": "Memento Unconfirmed",
         "matchFever": [
             4153
         ],
