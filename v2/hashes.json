@@ -1650,11 +1650,14 @@
         "name_en": "Sake"
     },
     {
+        "id": "4143-ygrJHebf",
         "type": "char",
         "name_en": "Daigo Kazama"
     },
     {
-        "type": "memento"
+        "id": "4143-fdchOctR",
+        "type": "memento",
+        "name_en": "Badge of Manhood"
     },
     {
         "id": "4146-jVimNBui",
@@ -1772,6 +1775,8 @@
         "name_en": "Bilstein"
     },
     {
-        "type": "memento"
+        "id": "4155-WXIkGtYS",
+        "type": "memento",
+        "name_en": "Emperor Sword"
     }
 ]

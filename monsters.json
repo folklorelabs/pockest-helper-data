@@ -4848,6 +4848,9 @@
         "monster_id": 4143,
         "name_en": "Daigo Kazama",
         "planId": "13ALP6",
+        "statPlan": "SSPPPP",
+        "show": 1,
+        "showMsg": "Memento Unconfirmed",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
