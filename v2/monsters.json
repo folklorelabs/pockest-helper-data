@@ -2345,6 +2345,7 @@
         "matchSusFever": [],
         "matchSusNormal": [
             4049,
+            4090,
             4034,
             4099,
             4094,
@@ -2365,9 +2366,7 @@
             4111,
             4123
         ],
-        "matchUnknown": [
-            4090
-        ]
+        "matchUnknown": []
     },
     {
         "monster_id": 4032,
@@ -4541,7 +4540,6 @@
         "name_en": "Kyoko Minazuki",
         "planId": "13ALS6",
         "statPlan": "PPSSSS",
-        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [],
@@ -4555,7 +4553,6 @@
             4124,
             4015,
             4030,
-            4085,
             4000,
             4003,
             4004,
@@ -4860,7 +4857,6 @@
         "name_en": "Hyo Imawano",
         "planId": "13ALT6",
         "statPlan": "PPTTTT",
-        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [],
@@ -5021,7 +5017,6 @@
         "name_en": "Yurika Kirishima",
         "planId": "13ALS6",
         "statPlan": "TTSSSS",
-        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [],
@@ -5058,7 +5053,6 @@
             4013,
             4029,
             4018,
-            4022,
             4084,
             4049,
             4090,
@@ -5181,7 +5175,6 @@
         "name_en": "Gan Isurugi",
         "planId": "13ARP6",
         "statPlan": "TTPPPP",
-        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [],
@@ -5346,7 +5339,6 @@
         "name_en": "Raizo Imawano",
         "planId": "13ARS6",
         "statPlan": "PPSSSS",
-        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [],
@@ -5505,7 +5497,6 @@
         "name_en": "Zelkin",
         "planId": "13ART6",
         "statPlan": "SSTTTT",
-        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [],
@@ -6145,7 +6136,6 @@
         "name_en": "Edge",
         "planId": "13CRP6",
         "statPlan": "TTPPPP",
-        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [
@@ -6312,7 +6302,6 @@
         "name_en": "Zaki",
         "planId": "13CRS6",
         "statPlan": "TTSSSS",
-        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [
@@ -6352,7 +6341,6 @@
             4007,
             4014,
             4096,
-            4009,
             4010,
             4121,
             4008,
@@ -6470,7 +6458,6 @@
         "name_en": "Kurow Kirishima",
         "planId": "13CRS6",
         "statPlan": "PPSSSS",
-        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [],
