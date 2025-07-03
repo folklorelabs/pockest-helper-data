@@ -31,6 +31,7 @@
         "monster_id": 4124,
         "name_en": "Carlos Miyamoto",
         "planId": "1ALS6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4006,
@@ -103,6 +104,7 @@
         "monster_id": 4003,
         "name_en": "Ken",
         "planId": "1BRT6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4004,
@@ -117,6 +119,7 @@
         "monster_id": 4004,
         "name_en": "Chun-Li",
         "planId": "1BRS6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4086,
@@ -260,6 +263,7 @@
         "monster_id": 4005,
         "name_en": "Cammy",
         "planId": "2BRS6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4086,
@@ -274,6 +278,7 @@
         "monster_id": 4016,
         "name_en": "Dee Jay",
         "planId": "2BRT6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4124,
@@ -288,6 +293,7 @@
         "monster_id": 4083,
         "name_en": "Luke",
         "planId": "2BRP6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4044,
@@ -433,6 +439,7 @@
         "monster_id": 4018,
         "name_en": "Fei Long",
         "planId": "3BRS6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4086,
@@ -447,6 +454,7 @@
         "monster_id": 4022,
         "name_en": "R. Mika",
         "planId": "3BRP6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4015,
@@ -461,6 +469,7 @@
         "monster_id": 4084,
         "name_en": "Jamie",
         "planId": "3BRT6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4004,
@@ -507,6 +516,7 @@
         "planId": "3CRT6",
         "statPlan": "PSTTTT",
         "requiredMemento": 4006,
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4079,
@@ -621,6 +631,7 @@
         "monster_id": 4082,
         "name_en": "Akira Kazama",
         "planId": "4BRT6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4044,
@@ -808,6 +819,7 @@
         "monster_id": 4076,
         "name_en": "Abel",
         "planId": "5BRS6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4033,
@@ -825,6 +837,7 @@
         "monster_id": 4107,
         "name_en": "Victor",
         "planId": "5BRT6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4085,
@@ -1005,6 +1018,7 @@
         "monster_id": 4041,
         "name_en": "Abigail",
         "planId": "6BRS6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4015,
@@ -1019,6 +1033,7 @@
         "monster_id": 4075,
         "name_en": "Rufus",
         "planId": "6BRT6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4082,
@@ -1252,6 +1267,7 @@
         "name_en": "Dan",
         "planId": "7CRP6",
         "statPlan": "XXTSPP",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4000,
@@ -1469,6 +1485,7 @@
         "monster_id": 4104,
         "name_en": "Jon Talbain",
         "planId": "8BRS6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4008,
@@ -1497,6 +1514,7 @@
         "monster_id": 4109,
         "name_en": "Sasquatch",
         "planId": "8BRT6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4084,
@@ -1847,6 +1865,7 @@
         "name_en": "A.K.I.",
         "planId": "9BRP6",
         "statPlan": "TTTTTT",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4070,
@@ -3029,6 +3048,7 @@
         "monster_id": 4127,
         "name_en": "Kyosuke Kagami",
         "planId": "11BRT6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4007,
@@ -3822,6 +3842,7 @@
         "monster_id": 4134,
         "name_en": "Nagare Namikawa",
         "planId": "12BRS6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4104,
@@ -3899,6 +3920,7 @@
         "monster_id": 4136,
         "name_en": "Roy Bromwell",
         "planId": "12BRT6",
+        "confirmed": 1,
         "show": 1,
         "matchFever": [
             4118,
@@ -5631,6 +5653,7 @@
         "monster_id": 4154,
         "name_en": "Saturn",
         "planId": "13BRT6",
+        "confirmed": 1,
         "show": 1,
         "showMsg": "New",
         "matchFever": [
