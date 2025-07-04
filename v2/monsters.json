@@ -3231,7 +3231,9 @@
         "statPlan": "TTPPPP",
         "requiredMemento": 4060,
         "show": 1,
-        "matchFever": [],
+        "matchFever": [
+            4000
+        ],
         "matchSusFever": [],
         "matchSusNormal": [
             4069,
@@ -3245,7 +3247,6 @@
             4079,
             4030,
             4085,
-            4000,
             4026,
             4040,
             4012,
@@ -5811,7 +5812,6 @@
             4065,
             4086,
             4026,
-            4040,
             4087,
             4012,
             4074,
