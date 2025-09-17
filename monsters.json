@@ -3,6 +3,7 @@
         "monster_id": 4006,
         "name_en": "Guile",
         "planId": "1ALT6",
+        "statPlan": "TTTTPPT",
         "show": 1,
         "matchFever": [
             4085,
@@ -33,6 +34,7 @@
         "monster_id": 4124,
         "name_en": "Carlos Miyamoto",
         "planId": "1ALS6",
+        "statPlan": "SSSSPPS",
         "show": 1,
         "matchFever": [
             4006,
