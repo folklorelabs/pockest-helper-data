@@ -299,6 +299,7 @@
         "monster_id": 4016,
         "name_en": "Dee Jay",
         "planId": "2BRT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4124,
@@ -883,6 +884,7 @@
         "monster_id": 4107,
         "name_en": "Victor",
         "planId": "5BRT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4085,
@@ -1529,6 +1531,7 @@
         "monster_id": 4109,
         "name_en": "Sasquatch",
         "planId": "8BRT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4084,
@@ -2823,6 +2826,7 @@
         "monster_id": 4127,
         "name_en": "Kyosuke Kagami",
         "planId": "11BRT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4007,
