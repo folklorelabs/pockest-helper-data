@@ -161,6 +161,7 @@
         "monster_id": 4065,
         "name_en": "Juri",
         "planId": "1CRT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4000,
@@ -269,6 +270,7 @@
         "monster_id": 4089,
         "name_en": "Lily",
         "planId": "2ARS6",
+        "statPlan": "SSSSSSS",
         "show": 1,
         "matchFever": [
             4015,
@@ -330,6 +332,7 @@
         "monster_id": 4007,
         "name_en": "Blanka",
         "planId": "2CRS6",
+        "statPlan": "SSSSSSS",
         "show": 1,
         "matchFever": [
             4065,
@@ -345,6 +348,7 @@
         "monster_id": 4014,
         "name_en": "Sagat",
         "planId": "2CRP6",
+        "statPlan": "PPPPPPP",
         "show": 1,
         "matchFever": [
             4079,
@@ -423,6 +427,7 @@
         "monster_id": 4008,
         "name_en": "Dhalsim",
         "planId": "3ARS6",
+        "statPlan": "SSSSSSS",
         "show": 1,
         "matchFever": [
             4000,
@@ -594,6 +599,7 @@
         "monster_id": 4120,
         "name_en": "Mai-Ling",
         "planId": "4ALP6",
+        "statPlan": "PPPPPPP",
         "show": 1,
         "matchFever": [
             4026,
@@ -701,6 +707,7 @@
         "monster_id": 4002,
         "name_en": "Violent Ken",
         "planId": "4CRT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4029,
@@ -816,6 +823,7 @@
         "monster_id": 4077,
         "name_en": "Menat",
         "planId": "5ARS6",
+        "statPlan": "SSSSSSS",
         "show": 1,
         "matchFever": [
             4026,
@@ -902,6 +910,7 @@
         "monster_id": 4039,
         "name_en": "Damnd",
         "planId": "5CRP6",
+        "statPlan": "PPPPPPP",
         "show": 1,
         "matchFever": [
             4006,
@@ -919,6 +928,7 @@
         "monster_id": 4054,
         "name_en": "Oro",
         "planId": "5CRS6",
+        "statPlan": "SSSSSSS",
         "show": 1,
         "matchFever": [
             4115,
@@ -934,7 +944,7 @@
         "monster_id": 4094,
         "name_en": "Belger",
         "planId": "5CRT6",
-        "statPlan": "PPSSTT",
+        "statPlan": "PPSSTTT",
         "show": 1,
         "matchFever": [
             4016,
@@ -1022,6 +1032,7 @@
         "monster_id": 4046,
         "name_en": "Lee",
         "planId": "6ARS6",
+        "statPlan": "SSSSSSS",
         "show": 1,
         "matchFever": [
             4030,
@@ -1135,6 +1146,7 @@
         "monster_id": 4095,
         "name_en": "Cyborg",
         "planId": "6CRT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4016,
@@ -1175,6 +1187,7 @@
         "monster_id": 4062,
         "name_en": "Twelve",
         "planId": "7ALP6",
+        "statPlan": "PPPPPPP",
         "show": 1,
         "matchFever": [
             4088,
@@ -1182,9 +1195,7 @@
             4112
         ],
         "matchSusFever": [],
-        "matchSusNormal": [
-            4094
-        ],
+        "matchSusNormal": [],
         "matchUnknown": []
     },
     {
@@ -1340,6 +1351,7 @@
         "monster_id": 4122,
         "name_en": "Oni",
         "planId": "7CRT6",
+        "statPlan": "TTTTTTT",
         "requiredMemento": 4001,
         "show": 1,
         "matchFever": [
@@ -1463,7 +1475,7 @@
         "monster_id": 4071,
         "name_en": "G",
         "planId": "8ARS6",
-        "statPlan": "TSSSSS",
+        "statPlan": "TSSSSSS",
         "show": 1,
         "matchFever": [
             4057,
@@ -1728,7 +1740,7 @@
         "monster_id": 4050,
         "name_en": "Yun",
         "planId": "9ARS6",
-        "statPlan": "TSSSSS",
+        "statPlan": "TSSSSSS",
         "show": 1,
         "matchFever": [
             4096,
@@ -2256,7 +2268,6 @@
             4044,
             4086,
             4074,
-            4121,
             4013,
             4049,
             4034,
@@ -3425,7 +3436,6 @@
             4152
         ],
         "matchUnknown": [
-            4015,
             4044,
             4086,
             4009,
@@ -4249,7 +4259,6 @@
             4054,
             4068,
             4110,
-            4059,
             4037,
             4001,
             4095,
@@ -4324,7 +4333,6 @@
             4147
         ],
         "matchUnknown": [
-            4086,
             4014,
             4029,
             4049,
@@ -4396,7 +4404,6 @@
             4035,
             4115,
             4120,
-            4033,
             4057,
             4056,
             4099,
@@ -4489,7 +4496,6 @@
             4049,
             4092,
             4115,
-            4120,
             4057,
             4051,
             4002,
