@@ -50,7 +50,8 @@
     {
         "monster_id": 4015,
         "name_en": "M. Bison",
-        "planId": "1ART6",
+        "planId": "1BLT6",
+        "statPlan": "TTTTSST",
         "show": 1,
         "matchFever": [
             4065,
@@ -60,7 +61,7 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "W6ART"
+        "plan": "W6BLT"
     },
     {
         "monster_id": 4030,
@@ -1492,6 +1493,7 @@
         "monster_id": 4047,
         "name_en": "Gen",
         "planId": "8BRP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4054,
@@ -1515,7 +1517,8 @@
     {
         "monster_id": 4104,
         "name_en": "Jon Talbain",
-        "planId": "8BRS6",
+        "planId": "8CLS6",
+        "statPlan": "SSSSTTS",
         "show": 1,
         "matchFever": [
             4008,
@@ -1788,7 +1791,7 @@
         "monster_id": 4031,
         "name_en": "Eagle",
         "planId": "9BRS6",
-        "statPlan": "PPPPPPS",
+        "statPlan": "PPPPTTS",
         "show": 1,
         "matchFever": [
             4002,
@@ -1823,7 +1826,7 @@
     {
         "monster_id": 4091,
         "name_en": "A.K.I.",
-        "planId": "9BRP6",
+        "planId": "9CLP6",
         "statPlan": "TTTTTTP",
         "show": 1,
         "matchFever": [
@@ -1845,7 +1848,7 @@
         "monster_id": 4108,
         "name_en": "Rikuo",
         "planId": "9BRT6",
-        "statPlan": "SSSSSST",
+        "statPlan": "SPPSSTT",
         "show": 1,
         "matchFever": [
             4005,
@@ -2202,6 +2205,7 @@
         "monster_id": 4043,
         "name_en": "Mike",
         "planId": "10BRS6",
+        "statPlan": "SSSSTTS",
         "requiredMemento": 4012,
         "show": 1,
         "matchFever": [
@@ -2249,7 +2253,8 @@
     {
         "monster_id": 4081,
         "name_en": "Zeku",
-        "planId": "10BRP6",
+        "planId": "10CLP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4115,
@@ -2728,6 +2733,7 @@
         "monster_id": 4100,
         "name_en": "Demitri",
         "planId": "11BRP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4049,
@@ -2778,7 +2784,8 @@
     {
         "monster_id": 4126,
         "name_en": "Hinata Wakaba",
-        "planId": "11BRS6",
+        "planId": "11CLS6",
+        "statPlan": "SSSSTTS",
         "show": 1,
         "matchFever": [
             4121,
@@ -2938,7 +2945,7 @@
         "monster_id": 4128,
         "name_en": "Chairperson",
         "planId": "11CRS6",
-        "statPlan": "PPSSSS",
+        "statPlan": "PPSSSSS",
         "show": 1,
         "matchFever": [
             4012,
@@ -3477,6 +3484,7 @@
         "monster_id": 4134,
         "name_en": "Nagare Namikawa",
         "planId": "12BRS6",
+        "statPlan": "SPPSSTS",
         "show": 1,
         "matchFever": [
             4042,
@@ -3546,7 +3554,8 @@
     {
         "monster_id": 4136,
         "name_en": "Roy Bromwell",
-        "planId": "12BRT6",
+        "planId": "12CLT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4118,
@@ -3627,6 +3636,7 @@
         "monster_id": 4149,
         "name_en": "Hayato",
         "planId": "12BRP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4007,
@@ -4537,7 +4547,8 @@
     {
         "monster_id": 4153,
         "name_en": "Rimgal",
-        "planId": "13BRP6",
+        "planId": "13CLP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "showMsg": "New",
         "matchFever": [
@@ -4728,6 +4739,7 @@
         "monster_id": 4157,
         "name_en": "Dean",
         "planId": "13BRS6",
+        "statPlan": "SSSSTTS",
         "show": 1,
         "showMsg": "New",
         "matchFever": [
