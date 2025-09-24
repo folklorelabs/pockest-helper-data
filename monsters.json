@@ -286,7 +286,8 @@
     {
         "monster_id": 4005,
         "name_en": "Cammy",
-        "planId": "2BRS6",
+        "planId": "2CLS6",
+        "statPlan": "SSSSTTS",
         "show": 1,
         "matchFever": [
             4086,
@@ -296,7 +297,7 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "G6BRS"
+        "plan": "G6CLS"
     },
     {
         "monster_id": 4016,
@@ -318,6 +319,7 @@
         "monster_id": 4083,
         "name_en": "Luke",
         "planId": "2BRP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4044,
@@ -476,6 +478,7 @@
         "monster_id": 4018,
         "name_en": "Fei Long",
         "planId": "3BRS6",
+        "statPlan": "SPPSSTS",
         "show": 1,
         "matchFever": [
             4086,
@@ -491,6 +494,7 @@
         "monster_id": 4022,
         "name_en": "R. Mika",
         "planId": "3BRP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4015,
@@ -505,7 +509,8 @@
     {
         "monster_id": 4084,
         "name_en": "Jamie",
-        "planId": "3BRT6",
+        "planId": "3CLT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4004,
@@ -515,7 +520,7 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "Y6BRT"
+        "plan": "Y6CLT"
     },
     {
         "monster_id": 4049,
@@ -663,6 +668,7 @@
         "monster_id": 4051,
         "name_en": "Yang",
         "planId": "4BRS6",
+        "statPlan": "SSSSTTS",
         "show": 1,
         "matchFever": [
             4124,
@@ -692,7 +698,8 @@
     {
         "monster_id": 4088,
         "name_en": "Rashid",
-        "planId": "4BRP6",
+        "planId": "4CLP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4004,
@@ -702,7 +709,7 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "B6BRP"
+        "plan": "B6CLP"
     },
     {
         "monster_id": 4002,
@@ -860,6 +867,7 @@
         "monster_id": 4048,
         "name_en": "Alex",
         "planId": "5BRP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4065,
@@ -874,7 +882,8 @@
     {
         "monster_id": 4076,
         "name_en": "Abel",
-        "planId": "5BRS6",
+        "planId": "5CLS6",
+        "statPlan": "SSSSTTS",
         "show": 1,
         "matchFever": [
             4033,
@@ -884,7 +893,7 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "R6BRS"
+        "plan": "R6CLS"
     },
     {
         "monster_id": 4107,
@@ -1067,6 +1076,7 @@
         "monster_id": 4037,
         "name_en": "Poison",
         "planId": "6BRP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4051,
@@ -1082,6 +1092,7 @@
         "monster_id": 4041,
         "name_en": "Abigail",
         "planId": "6BRS6",
+        "statPlan": "SPPSSTS",
         "show": 1,
         "matchFever": [
             4015,
@@ -1096,7 +1107,8 @@
     {
         "monster_id": 4075,
         "name_en": "Rufus",
-        "planId": "6BRT6",
+        "planId": "6CLT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4082,
@@ -1108,7 +1120,7 @@
             4039
         ],
         "matchUnknown": [],
-        "plan": "L6BRT"
+        "plan": "L6CLT"
     },
     {
         "monster_id": 4001,
@@ -1267,6 +1279,7 @@
         "monster_id": 4080,
         "name_en": "Laura",
         "planId": "7BRP6",
+        "statPlan": "PPPPTT",
         "show": 1,
         "matchFever": [
             4000,
@@ -1284,6 +1297,7 @@
         "monster_id": 4106,
         "name_en": "Bishamon",
         "planId": "7BRS6",
+        "statPlan": "SSSSTT",
         "show": 1,
         "matchFever": [
             4087,
