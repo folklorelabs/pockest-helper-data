@@ -1206,8 +1206,8 @@
     {
         "monster_id": 4080,
         "name_en": "Laura",
-        "planId": "7BRP6",
-        "statPlan": "PPPPTT",
+        "planId": "7CLP6",
+        "statPlan": "PPPPTTP",
         "show": 1,
         "matchFever": [
             4000,
@@ -1225,7 +1225,7 @@
         "monster_id": 4106,
         "name_en": "Bishamon",
         "planId": "7BRS6",
-        "statPlan": "SSSSTT",
+        "statPlan": "SSSSTTS",
         "show": 1,
         "matchFever": [
             4087,
@@ -1546,7 +1546,7 @@
         "monster_id": 4103,
         "name_en": "Lord Raptor",
         "planId": "8CRP6",
-        "statPlan": "SSPPPP",
+        "statPlan": "SSPPPPP",
         "show": 1,
         "matchFever": [
             4007,
