@@ -114,8 +114,8 @@
     {
         "monster_id": 4003,
         "name_en": "Ken",
-        "planId": "1BRT6",
-        "statPlan": "SSSTTTT",
+        "planId": "1CLT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4004,
@@ -125,7 +125,7 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "W6BRT"
+        "plan": "W6CLT"
     },
     {
         "monster_id": 4004,
@@ -683,7 +683,8 @@
     {
         "monster_id": 4082,
         "name_en": "Akira Kazama",
-        "planId": "4BRT6",
+        "planId": "4CLT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4044,
@@ -693,7 +694,7 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "B6BRT"
+        "plan": "B6CLT"
     },
     {
         "monster_id": 4088,
@@ -1313,7 +1314,8 @@
     {
         "monster_id": 4112,
         "name_en": "Hsien-Ko",
-        "planId": "7BRT6",
+        "planId": "7CLT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
         "matchFever": [
             4086,
@@ -1730,7 +1732,6 @@
             4086,
             4010,
             4049,
-            4120,
             4042,
             4094,
             4068,
@@ -2323,7 +2324,7 @@
         "monster_id": 4111,
         "name_en": "Pyron",
         "planId": "10CRT6",
-        "statPlan": "PPPTTT",
+        "statPlan": "TTTTPPT",
         "requiredMemento": 4027,
         "show": 1,
         "matchFever": [
@@ -2369,7 +2370,7 @@
         "monster_id": 4123,
         "name_en": "Kage",
         "planId": "10CRS6",
-        "statPlan": "TTSSSS",
+        "statPlan": "STTSSSS",
         "show": 1,
         "matchFever": [
             4074,
@@ -2881,7 +2882,6 @@
             4021,
             4024,
             4113,
-            4043,
             4123,
             4130,
             4131,
@@ -3897,7 +3897,6 @@
             4044,
             4065,
             4086,
-            4016,
             4083,
             4014,
             4009,
@@ -3963,7 +3962,6 @@
         "planId": "13ALS6",
         "statPlan": "PPSSSS",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4156
         ],
@@ -4045,7 +4043,6 @@
         "statPlan": "SSPPPP",
         "requiredMemento": 4130,
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4018,
             4088
@@ -4139,7 +4136,6 @@
         "planId": "13ALT6",
         "statPlan": "PPTTTT",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4126
         ],
@@ -4230,7 +4226,6 @@
         "planId": "13ALS6",
         "statPlan": "TTSSSS",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4005,
             4119
@@ -4322,7 +4317,6 @@
         "planId": "13ARP6",
         "statPlan": "TTPPPP",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4380,7 +4374,6 @@
         "planId": "13ARS6",
         "statPlan": "PPSSSS",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [],
         "matchSusFever": [],
         "matchSusNormal": [
@@ -4455,7 +4448,6 @@
         "planId": "13ART6",
         "statPlan": "SSTTTT",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4154
         ],
@@ -4553,7 +4545,6 @@
         "planId": "13CLP6",
         "statPlan": "PPPPTTP",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4006,
             4052,
@@ -4647,9 +4638,9 @@
     {
         "monster_id": 4154,
         "name_en": "Saturn",
-        "planId": "13BRT6",
+        "planId": "13CLT6",
+        "statPlan": "TTTTTTT",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4062
         ],
@@ -4744,7 +4735,6 @@
         "planId": "13BRS6",
         "statPlan": "SSSSTTS",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4043
         ],
@@ -4825,7 +4815,6 @@
         "planId": "13CRP6",
         "statPlan": "TTPPPP",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4144
         ],
@@ -4928,7 +4917,6 @@
         "planId": "13CRS6",
         "statPlan": "TTSSSS",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4107,
             4080,
@@ -5015,7 +5003,6 @@
         "planId": "13CRS6",
         "statPlan": "PPSSSS",
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4087
         ],
@@ -5090,7 +5077,6 @@
         "statPlan": "SSTTTT",
         "requiredMemento": 4129,
         "show": 1,
-        "showMsg": "New",
         "matchFever": [
             4018,
             4153
