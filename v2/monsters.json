@@ -4737,7 +4737,7 @@
         "monster_id": 4141,
         "name_en": "Edge",
         "planId": "13CRP6",
-        "statPlan": "TTPPPP",
+        "statPlan": "PTTPPPP",
         "show": 1,
         "matchFever": [
             4144
@@ -4839,7 +4839,7 @@
         "monster_id": 4144,
         "name_en": "Zaki",
         "planId": "13CRS6",
-        "statPlan": "TTSSSS",
+        "statPlan": "STTSSSS",
         "show": 1,
         "matchFever": [
             4107,
@@ -4998,7 +4998,7 @@
         "monster_id": 4155,
         "name_en": "Bilstein",
         "planId": "13CRT6",
-        "statPlan": "SSTTTT",
+        "statPlan": "STTTTST",
         "requiredMemento": 4129,
         "show": 1,
         "matchFever": [
