@@ -2632,7 +2632,7 @@
         "monster_id": 4097,
         "name_en": "Baby Head",
         "planId": "11ART6",
-        "statPlan": "SSTTTT",
+        "statPlan": "TTTTSST",
         "show": 1,
         "matchFever": [
             4033,
@@ -2694,8 +2694,8 @@
     {
         "monster_id": 4125,
         "name_en": "Batsu Ichimonji",
-        "planId": "11ARS6",
-        "statPlan": "PPSSSS",
+        "planId": "11BLS6",
+        "statPlan": "SPPSSSS",
         "show": 1,
         "matchFever": [
             4028,
@@ -2892,7 +2892,7 @@
         "monster_id": 4055,
         "name_en": "Necro",
         "planId": "11CRT6",
-        "statPlan": "SSTTTT",
+        "statPlan": "TSSTTTT",
         "show": 1,
         "matchFever": [
             4091,
@@ -2992,7 +2992,7 @@
         "monster_id": 4129,
         "name_en": "Hayato Nekketsu",
         "planId": "11CRP6",
-        "statPlan": "TTPPPP",
+        "statPlan": "PPPPPTP",
         "requiredMemento": 4060,
         "show": 1,
         "matchFever": [
@@ -3182,7 +3182,7 @@
         "monster_id": 4150,
         "name_en": "June",
         "planId": "12ALS6",
-        "statPlan": "PPSSSS",
+        "statPlan": "SSSSPPS",
         "show": 1,
         "matchFever": [
             4003,
@@ -3234,8 +3234,8 @@
     {
         "monster_id": 4133,
         "name_en": "Roberto Miura",
-        "planId": "12ARP6",
-        "statPlan": "SSPPPP",
+        "planId": "12BLP6",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4067,
@@ -3414,8 +3414,8 @@
     {
         "monster_id": 4151,
         "name_en": "Gamof",
-        "planId": "12ART6",
-        "statPlan": "PPTTTT",
+        "planId": "12BLT6",
+        "statPlan": "TPPTTST",
         "show": 1,
         "matchFever": [
             4006,
@@ -3729,7 +3729,7 @@
         "monster_id": 4135,
         "name_en": "Momo Karuizawa",
         "planId": "12CRT6",
-        "statPlan": "PPTTTT",
+        "statPlan": "TTTTTPT",
         "show": 1,
         "matchFever": [
             4028,
@@ -3869,7 +3869,7 @@
         "monster_id": 4152,
         "name_en": "Gerelt",
         "planId": "12CRS6",
-        "statPlan": "TTSSSS",
+        "statPlan": "STTSSSS",
         "show": 1,
         "matchFever": [
             4057,
@@ -4368,7 +4368,7 @@
         "monster_id": 4145,
         "name_en": "Raizo Imawano",
         "planId": "13ARS6",
-        "statPlan": "PPSSSS",
+        "statPlan": "SPPSSSS",
         "show": 1,
         "matchFever": [],
         "matchSusFever": [],
@@ -4441,8 +4441,8 @@
     {
         "monster_id": 4156,
         "name_en": "Zelkin",
-        "planId": "13ART6",
-        "statPlan": "SSTTTT",
+        "planId": "13BLT6",
+        "statPlan": "TTTTSST",
         "show": 1,
         "matchFever": [
             4154
