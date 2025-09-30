@@ -1527,7 +1527,7 @@
         "monster_id": 4058,
         "name_en": "Remy",
         "planId": "8CRS6",
-        "statPlan": "TTSSSS",
+        "statPlan": "SSSSSTS",
         "show": 1,
         "matchFever": [
             4003,
@@ -1595,7 +1595,7 @@
         "monster_id": 4073,
         "name_en": "El Fuerte",
         "planId": "9ALT6",
-        "statPlan": "PPTTTT",
+        "statPlan": "TSSTTPT",
         "show": 1,
         "matchFever": [
             4124,
@@ -1645,8 +1645,8 @@
     {
         "monster_id": 4023,
         "name_en": "Charlie",
-        "planId": "9ARP6",
-        "statPlan": "SPPPPP",
+        "planId": "9BLP6",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4014,
@@ -1705,8 +1705,8 @@
     {
         "monster_id": 4105,
         "name_en": "Anakaris",
-        "planId": "9ART6",
-        "statPlan": "PTTTTT",
+        "planId": "9BLT6",
+        "statPlan": "TPPTTST",
         "show": 1,
         "matchFever": [
             4077,
@@ -1855,7 +1855,7 @@
         "monster_id": 4064,
         "name_en": "F.A.N.G",
         "planId": "9CRP6",
-        "statPlan": "TTSSSSP",
+        "statPlan": "STTSSSP",
         "show": 1,
         "matchFever": [
             4014,
@@ -1877,7 +1877,7 @@
         "monster_id": 4098,
         "name_en": "Mack the Knife",
         "planId": "9CRT6",
-        "statPlan": "PPTTTT",
+        "statPlan": "TTTTTPT",
         "show": 1,
         "matchFever": [
             4033,
@@ -2028,7 +2028,7 @@
         "monster_id": 4021,
         "name_en": "Karin",
         "planId": "10ARP6",
-        "statPlan": "SPPPPP",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4083,
@@ -2052,8 +2052,8 @@
     {
         "monster_id": 4024,
         "name_en": "Rose",
-        "planId": "10ARS6",
-        "statPlan": "TSSSSS",
+        "planId": "10BLS6",
+        "statPlan": "TSSSSSS",
         "show": 1,
         "matchFever": [
             4002,
