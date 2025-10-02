@@ -1432,7 +1432,7 @@
         "monster_id": 4114,
         "name_en": "Donovan",
         "planId": "8ALT6",
-        "statPlan": "PPPTTT",
+        "statPlan": "TTTTPPT",
         "show": 1,
         "matchFever": [
             4083,
@@ -1447,8 +1447,8 @@
     {
         "monster_id": 4028,
         "name_en": "Adon",
-        "planId": "8ARP6",
-        "statPlan": "SPPPPP",
+        "planId": "8BLP6",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4065,
@@ -1468,7 +1468,7 @@
         "monster_id": 4066,
         "name_en": "Falke",
         "planId": "8ART6",
-        "statPlan": "PTTTTT",
+        "statPlan": "PTTTSST",
         "show": 1,
         "matchFever": [
             4056,
