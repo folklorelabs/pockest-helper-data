@@ -1230,6 +1230,7 @@
         "monster_id": 4017,
         "name_en": "T. Hawk",
         "planId": "7ARP6",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4092,
@@ -1248,7 +1249,8 @@
     {
         "monster_id": 4052,
         "name_en": "Elena",
-        "planId": "7ARS6",
+        "planId": "7BLS6",
+        "statPlan": "SSSSSSS",
         "show": 1,
         "matchFever": [
             4004,
@@ -1262,7 +1264,8 @@
     {
         "monster_id": 4053,
         "name_en": "Ibuki",
-        "planId": "7ART6",
+        "planId": "7BLT6",
+        "statPlan": "TTTTSST",
         "show": 1,
         "matchFever": [
             4003,
@@ -1388,7 +1391,7 @@
         "monster_id": 4027,
         "name_en": "Ingrid",
         "planId": "8ALP6",
-        "statPlan": "SSPPPP",
+        "statPlan": "PSSPPPP",
         "show": 1,
         "matchFever": [
             4090,
