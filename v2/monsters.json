@@ -582,6 +582,7 @@
         "monster_id": 4033,
         "name_en": "Cody",
         "planId": "4ARP6",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4015,
@@ -595,7 +596,8 @@
     {
         "monster_id": 4057,
         "name_en": "Urien",
-        "planId": "4ARS6",
+        "planId": "4BLS6",
+        "statPlan": "SSSSSSS",
         "show": 1,
         "matchFever": [
             4083,
@@ -611,7 +613,8 @@
     {
         "monster_id": 4067,
         "name_en": "Kolin",
-        "planId": "4ART6",
+        "planId": "4BLT6",
+        "statPlan": "TTTTSST",
         "show": 1,
         "matchFever": [
             4016,
@@ -688,6 +691,7 @@
         "monster_id": 4042,
         "name_en": "Joe",
         "planId": "4CRP6",
+        "statPlan": "PTTPPPP",
         "show": 1,
         "matchFever": [
             4079,
@@ -704,6 +708,7 @@
         "monster_id": 4119,
         "name_en": "Kenji",
         "planId": "4CRS6",
+        "statPlan": "STTSSSS",
         "show": 1,
         "matchFever": [
             4089,
@@ -735,7 +740,7 @@
         "monster_id": 4056,
         "name_en": "Gill",
         "planId": "5ALS6",
-        "statPlan": "PPPSSS",
+        "statPlan": "SSSSPPS",
         "show": 1,
         "matchFever": [
             4007,
@@ -752,6 +757,7 @@
         "monster_id": 4101,
         "name_en": "Morrigan",
         "planId": "5ALP6",
+        "statPlan": "PSSPPPP",
         "show": 1,
         "matchFever": [
             4018,
@@ -765,7 +771,8 @@
     {
         "monster_id": 4036,
         "name_en": "Maki",
-        "planId": "5ARP6",
+        "planId": "5BLP6",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4124,
@@ -797,6 +804,7 @@
         "monster_id": 4099,
         "name_en": "Ginzu",
         "planId": "5ART6",
+        "statPlan": "TTTTSST",
         "show": 1,
         "matchFever": [
             4015,
@@ -927,6 +935,7 @@
         "monster_id": 4072,
         "name_en": "Gouken",
         "planId": "6ALP6",
+        "statPlan": "PSSPPPP",
         "show": 1,
         "matchFever": [
             4012,
@@ -944,6 +953,7 @@
         "monster_id": 4110,
         "name_en": "Huitzil",
         "planId": "6ALS6",
+        "statPlan": "SSSSPPS",
         "show": 1,
         "matchFever": [
             4085,
@@ -961,7 +971,8 @@
     {
         "monster_id": 4020,
         "name_en": "Sakura",
-        "planId": "6ARP6",
+        "planId": "6BLP6",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4084,
@@ -993,7 +1004,8 @@
     {
         "monster_id": 4059,
         "name_en": "Sean",
-        "planId": "6ART6",
+        "planId": "6BLT6",
+        "statPlan": "TPPTTST",
         "show": 1,
         "matchFever": [
             4121,
@@ -1058,6 +1070,7 @@
         "monster_id": 4001,
         "name_en": "Evil Ryu",
         "planId": "6CRP6",
+        "statPlan": "PTTPPPP",
         "show": 1,
         "matchFever": [
             4044,
@@ -1072,6 +1085,7 @@
         "monster_id": 4070,
         "name_en": "Seth",
         "planId": "6CRS6",
+        "statPlan": "STTSSSS",
         "show": 1,
         "matchFever": [
             4121,
