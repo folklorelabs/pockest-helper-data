@@ -493,6 +493,7 @@
         "monster_id": 4049,
         "name_en": "Dudley",
         "planId": "3CRP6",
+        "statPlan": "PTTPPPP",
         "show": 1,
         "matchFever": [
             4006,
@@ -509,6 +510,7 @@
         "monster_id": 4090,
         "name_en": "JP",
         "planId": "3CRS6",
+        "statPlan": "STTSSSS",
         "show": 1,
         "matchFever": [
             4003,
