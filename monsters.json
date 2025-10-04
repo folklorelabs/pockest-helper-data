@@ -446,7 +446,8 @@
     {
         "monster_id": 4013,
         "name_en": "Vega",
-        "planId": "3ART6",
+        "planId": "3BLT6",
+        "statPlan": "TPPTTST",
         "show": 1,
         "matchFever": [
             4124,
@@ -456,12 +457,13 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "Y6ART"
+        "plan": "Y6BLT"
     },
     {
         "monster_id": 4029,
         "name_en": "Rolento",
-        "planId": "3ARP6",
+        "planId": "3BLP6",
+        "statPlan": "PPPPSSP",
         "requiredMemento": 4015,
         "show": 1,
         "matchFever": [
@@ -473,7 +475,7 @@
         ],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "Y6ARP"
+        "plan": "Y6BLP"
     },
     {
         "monster_id": 4018,
