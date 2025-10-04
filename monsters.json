@@ -412,6 +412,7 @@
         "monster_id": 4121,
         "name_en": "Tessa",
         "planId": "3ALS6",
+        "statPlan": "SSSSPPS",
         "requiredMemento": 4040,
         "show": 1,
         "matchFever": [
