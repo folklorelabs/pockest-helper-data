@@ -211,6 +211,7 @@
         "monster_id": 4087,
         "name_en": "Marisa",
         "planId": "2ALT6",
+        "statPlan": "TTTTPPT",
         "show": 1,
         "matchFever": [
             4006,
@@ -224,7 +225,8 @@
     {
         "monster_id": 4012,
         "name_en": "Balrog",
-        "planId": "2ARP6",
+        "planId": "2BLP6",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4004,
@@ -344,6 +346,7 @@
         "monster_id": 4096,
         "name_en": "Captain Commando",
         "planId": "2CRT6",
+        "statPlan": "TPPTTTT",
         "show": 1,
         "matchFever": [
             4003,
@@ -358,6 +361,7 @@
         "monster_id": 4009,
         "name_en": "Zangief",
         "planId": "3ALP6",
+        "statPlan": "PSSPPPP",
         "show": 1,
         "matchFever": [
             4044,
