@@ -208,6 +208,7 @@
         "monster_id": 4040,
         "name_en": "Edi. E",
         "planId": "2ALP6",
+        "statPlan": "PSSPPPP",
         "show": 1,
         "matchFever": [
             4000,
