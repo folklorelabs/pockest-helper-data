@@ -67,6 +67,7 @@
         "monster_id": 4030,
         "name_en": "Sodom",
         "planId": "1ARP6",
+        "statPlan": "PPPPSSP",
         "show": 1,
         "matchFever": [
             4044,
@@ -83,7 +84,8 @@
     {
         "monster_id": 4085,
         "name_en": "Kimberly",
-        "planId": "1ARS6",
+        "planId": "1BLS6",
+        "statPlan": "SSSSSSS",
         "show": 1,
         "matchFever": [
             4003,
@@ -93,7 +95,7 @@
         "matchSusFever": [],
         "matchSusNormal": [],
         "matchUnknown": [],
-        "plan": "W6ARS"
+        "plan": "W6BLS"
     },
     {
         "monster_id": 4000,
@@ -147,6 +149,7 @@
         "monster_id": 4044,
         "name_en": "Retsu",
         "planId": "1CRP6",
+        "statPlan": "PTTPPP",
         "show": 1,
         "matchFever": [
             4079,
@@ -4445,6 +4448,7 @@
         "statPlan": "TTTTSST",
         "show": 1,
         "matchFever": [
+            4051,
             4154
         ],
         "matchSusFever": [],
@@ -4477,7 +4481,6 @@
             4092,
             4115,
             4057,
-            4051,
             4002,
             4042,
             4101,
