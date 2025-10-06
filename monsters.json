@@ -149,7 +149,7 @@
         "monster_id": 4044,
         "name_en": "Retsu",
         "planId": "1CRP6",
-        "statPlan": "PTTPPP",
+        "statPlan": "PTTPPPP",
         "show": 1,
         "matchFever": [
             4079,
@@ -181,6 +181,7 @@
         "monster_id": 4086,
         "name_en": "Manon",
         "planId": "1CRS6",
+        "statPlan": "STTSSSS",
         "show": 1,
         "matchFever": [
             4124,
@@ -196,6 +197,7 @@
         "monster_id": 4026,
         "name_en": "Juli",
         "planId": "2ALS6",
+        "statPlan": "SSSSPPS",
         "show": 1,
         "matchFever": [
             4030,
