@@ -2484,7 +2484,7 @@
         "monster_id": 4078,
         "name_en": "Ed",
         "planId": "11ARP6",
-        "statPlan": "TTPPPP",
+        "statPlan": "PPPPSTP",
         "show": 1,
         "matchFever": [
             4026,
@@ -3902,7 +3902,7 @@
         "monster_id": 4146,
         "name_en": "Hyo Imawano",
         "planId": "13ALT6",
-        "statPlan": "PPTTTT",
+        "statPlan": "TTTTTPT",
         "show": 1,
         "matchFever": [
             4126
@@ -3982,7 +3982,7 @@
         "monster_id": 4148,
         "name_en": "Yurika Kirishima",
         "planId": "13ALS6",
-        "statPlan": "TTSSSS",
+        "statPlan": "TTSSSSS",
         "show": 1,
         "matchFever": [
             4005,
@@ -4062,7 +4062,7 @@
         "monster_id": 4142,
         "name_en": "Gan Isurugi",
         "planId": "13ARP6",
-        "statPlan": "TTPPPP",
+        "statPlan": "PPPPSTP",
         "show": 1,
         "matchFever": [],
         "matchSusFever": [],
@@ -4687,7 +4687,7 @@
         "monster_id": 4147,
         "name_en": "Kurow Kirishima",
         "planId": "13CRS6",
-        "statPlan": "PPSSSS",
+        "statPlan": "SPPSSSS",
         "show": 1,
         "matchFever": [
             4087
