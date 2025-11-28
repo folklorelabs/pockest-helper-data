@@ -1984,7 +1984,7 @@
         "monster_id": 4117,
         "name_en": "Q-Bee",
         "planId": "10ALS6",
-        "statPlan": "TTSSSS",
+        "statPlan": "TTSSSPS",
         "show": 1,
         "matchFever": [
             4027,
@@ -2180,7 +2180,6 @@
             4074,
             4049,
             4001,
-            4045,
             4114,
             4028,
             4118,
@@ -2195,7 +2194,7 @@
         "monster_id": 4011,
         "name_en": "Akuma",
         "planId": "10CRP6",
-        "statPlan": "SSPPPP",
+        "statPlan": "STPSPPP",
         "show": 1,
         "matchFever": [
             4080,
@@ -2356,7 +2355,7 @@
         "monster_id": 4130,
         "name_en": "Shoma Sawamura",
         "planId": "11ALT6",
-        "statPlan": "PPTTTT",
+        "statPlan": "TTTTTPT",
         "requiredMemento": 4111,
         "show": 1,
         "matchFever": [
@@ -2886,7 +2885,7 @@
         "monster_id": 4132,
         "name_en": "Natsu Ayuhara",
         "planId": "12ALP6",
-        "statPlan": "TTPPPP",
+        "statPlan": "TTSPPPP",
         "show": 1,
         "matchFever": [
             4035,
@@ -2950,7 +2949,7 @@
         "monster_id": 4137,
         "name_en": "Tiffany Lords",
         "planId": "12ALT6",
-        "statPlan": "SSTTTT",
+        "statPlan": "SSSTTTT",
         "show": 1,
         "matchFever": [
             4072,
@@ -2974,7 +2973,6 @@
             4114,
             4058,
             4073,
-            4023,
             4063,
             4117,
             4024,
@@ -3124,7 +3122,7 @@
         "monster_id": 4139,
         "name_en": "Hideo Shimazu",
         "planId": "12ARS6",
-        "statPlan": "TTSSSS",
+        "statPlan": "SSSTSSS",
         "show": 1,
         "matchFever": [
             4004,
@@ -4755,7 +4753,6 @@
             4096,
             4009,
             4121,
-            4022,
             4090,
             4115,
             4051,
