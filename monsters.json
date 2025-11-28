@@ -990,6 +990,7 @@
         "monster_id": 4068,
         "name_en": "Lucia",
         "planId": "6ALT6",
+        "statPlan": "SSSTTTT",
         "show": 1,
         "matchFever": [
             4026,
