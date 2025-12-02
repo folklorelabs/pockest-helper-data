@@ -1712,7 +1712,7 @@
         "monster_id": 4118,
         "name_en": "Leo",
         "planId": "9ALS6",
-        "statPlan": "TTSSSS",
+        "statPlan": "SSSSTPS",
         "show": 1,
         "matchFever": [
             4090,
@@ -1901,7 +1901,7 @@
         "monster_id": 4038,
         "name_en": "Hugo",
         "planId": "9CRS6",
-        "statPlan": "PPPPPPS",
+        "statPlan": "PPTPPPS",
         "show": 1,
         "matchFever": [
             4015,
@@ -3785,7 +3785,7 @@
         "monster_id": 4140,
         "name_en": "Kyoko Minazuki",
         "planId": "13ALS6",
-        "statPlan": "PPSSSS",
+        "statPlan": "SSPSSPS",
         "show": 1,
         "matchFever": [
             4156
