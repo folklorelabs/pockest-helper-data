@@ -568,6 +568,7 @@
         "monster_id": 4115,
         "name_en": "Lilith",
         "planId": "4ALS6",
+        "statPlan": "SSPSSPS",
         "show": 1,
         "matchFever": [
             4086,
@@ -738,6 +739,7 @@
         "monster_id": 4034,
         "name_en": "Haggar",
         "planId": "5ALT6",
+        "statPlan": "TTTTTPT",
         "show": 1,
         "matchFever": [
             4000,
