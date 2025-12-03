@@ -1164,6 +1164,7 @@
         "monster_id": 4102,
         "name_en": "Felicia",
         "planId": "7ALS6",
+        "statPlan": "SSSSSPS",
         "show": 1,
         "matchFever": [
             4030,
@@ -1303,6 +1304,7 @@
         "monster_id": 4093,
         "name_en": "Shadaloo Soldier",
         "planId": "7CRS6",
+        "statPlan": "SSTSSSS",
         "show": 1,
         "matchFever": [
             4048,
@@ -1358,7 +1360,7 @@
         "monster_id": 4061,
         "name_en": "Makoto",
         "planId": "8ALS6",
-        "statPlan": "TTSSSS",
+        "statPlan": "TTSSSPS",
         "show": 1,
         "matchFever": [
             4000,
