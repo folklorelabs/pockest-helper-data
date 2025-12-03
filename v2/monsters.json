@@ -538,7 +538,7 @@
         "monster_id": 4092,
         "name_en": "Captain Sawada",
         "planId": "3CRT6",
-        "statPlan": "PSTTTT",
+        "statPlan": "PSTTTTT",
         "requiredMemento": 4006,
         "show": 1,
         "matchFever": [
@@ -1127,6 +1127,7 @@
         "monster_id": 4045,
         "name_en": "Geki",
         "planId": "7ALT6",
+        "statPlan": "TTPTTTT",
         "requiredMemento": 4119,
         "show": 1,
         "matchFever": [
