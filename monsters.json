@@ -823,7 +823,7 @@
         "monster_id": 4101,
         "name_en": "Morrigan",
         "planId": "5ALP6",
-        "statPlan": "PSSPPPP",
+        "statPlan": "SSSPPPP",
         "show": 1,
         "matchFever": [
             4018,
@@ -2336,7 +2336,7 @@
         "monster_id": 4123,
         "name_en": "Kage",
         "planId": "10CRS6",
-        "statPlan": "STTSSSS",
+        "statPlan": "TTTSSSS",
         "show": 1,
         "matchFever": [
             4074,
