@@ -590,6 +590,7 @@
         "monster_id": 4035,
         "name_en": "Guy",
         "planId": "4ALT6",
+        "statPlan": "TTTTTPT",
         "show": 1,
         "matchFever": [
             4014,
@@ -1667,7 +1668,7 @@
         "monster_id": 4060,
         "name_en": "Q",
         "planId": "9ALP6",
-        "statPlan": "TTSSPP",
+        "statPlan": "TSSTPPP",
         "show": 1,
         "matchFever": [
             4015,
@@ -2714,7 +2715,6 @@
             4053,
             4122,
             4028,
-            4066,
             4050,
             4038,
             4064,
@@ -3620,7 +3620,7 @@
         "monster_id": 4138,
         "name_en": "Boman Delgado",
         "planId": "12CRP6",
-        "statPlan": "SSPPPP",
+        "statPlan": "SSTPPPP",
         "show": 1,
         "matchFever": [
             4102,
@@ -4811,7 +4811,6 @@
             4094,
             4072,
             4020,
-            4046,
             4037,
             4001,
             4070,
