@@ -1570,7 +1570,7 @@
         "monster_id": 4103,
         "name_en": "Lord Raptor",
         "planId": "8CRP6",
-        "statPlan": "SSPPPPP",
+        "statPlan": "PPPPPSP",
         "show": 1,
         "matchFever": [
             4007,
@@ -2765,7 +2765,7 @@
         "monster_id": 4128,
         "name_en": "Chairperson",
         "planId": "11CRS6",
-        "statPlan": "PPSSSSS",
+        "statPlan": "SSSSSPS",
         "show": 1,
         "matchFever": [
             4012,
