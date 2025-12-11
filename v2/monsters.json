@@ -367,7 +367,7 @@
         "monster_id": 4009,
         "name_en": "Zangief",
         "planId": "3ALP6",
-        "statPlan": "PSSPPPP",
+        "statPlan": "SSSPPPP",
         "show": 1,
         "matchFever": [
             4044,
@@ -382,6 +382,7 @@
         "monster_id": 4010,
         "name_en": "E. Honda",
         "planId": "3ALT6",
+        "statPlan": "SSSTTTT",
         "show": 1,
         "matchFever": [
             4030,
@@ -506,7 +507,7 @@
         "monster_id": 4049,
         "name_en": "Dudley",
         "planId": "3CRP6",
-        "statPlan": "PTTPPPP",
+        "statPlan": "TTTPPPP",
         "show": 1,
         "matchFever": [
             4006,
@@ -523,7 +524,7 @@
         "monster_id": 4090,
         "name_en": "JP",
         "planId": "3CRS6",
-        "statPlan": "STTSSSS",
+        "statPlan": "TTTSSSS",
         "show": 1,
         "matchFever": [
             4003,
@@ -1083,7 +1084,7 @@
         "monster_id": 4001,
         "name_en": "Evil Ryu",
         "planId": "6CRP6",
-        "statPlan": "PTTPPPP",
+        "statPlan": "TTTPPPP",
         "show": 1,
         "matchFever": [
             4044,
@@ -1098,7 +1099,7 @@
         "monster_id": 4070,
         "name_en": "Seth",
         "planId": "6CRS6",
-        "statPlan": "STTSSSS",
+        "statPlan": "TTTSSSS",
         "show": 1,
         "matchFever": [
             4121,
@@ -1347,7 +1348,7 @@
         "monster_id": 4027,
         "name_en": "Ingrid",
         "planId": "8ALP6",
-        "statPlan": "PSSPPPP",
+        "statPlan": "SSSPPPP",
         "show": 1,
         "matchFever": [
             4090,
@@ -1529,7 +1530,7 @@
         "monster_id": 4025,
         "name_en": "Juni",
         "planId": "8CRT6",
-        "statPlan": "TPPTTTT",
+        "statPlan": "PPPTTTT",
         "show": 1,
         "matchFever": [
             4018,
@@ -2062,7 +2063,7 @@
         "monster_id": 4113,
         "name_en": "Jedah",
         "planId": "10ART6",
-        "statPlan": "PTTTTT",
+        "statPlan": "PTTSSTT",
         "show": 1,
         "matchFever": [
             4040,
