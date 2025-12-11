@@ -1178,7 +1178,6 @@
         ],
         "matchSusFever": [],
         "matchSusNormal": [
-            4092,
             4056
         ],
         "matchUnknown": []
@@ -1294,7 +1293,7 @@
         "monster_id": 4019,
         "name_en": "Dan",
         "planId": "7CRP6",
-        "statPlan": "XXTSPP",
+        "statPlan": "XXSTPPP",
         "show": 1,
         "matchFever": [
             4000,
