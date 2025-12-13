@@ -247,7 +247,7 @@
         "monster_id": 4074,
         "name_en": "Crimson Viper",
         "planId": "2ART6",
-        "statPlan": "PPSSTT",
+        "statPlan": "PPTTTST",
         "show": 1,
         "matchFever": [
             4085,
@@ -2281,7 +2281,7 @@
         "monster_id": 4069,
         "name_en": "Puppetmaster Seth",
         "planId": "11ALP6",
-        "statPlan": "TTSSPP",
+        "statPlan": "TTSSPPP",
         "show": 1,
         "matchFever": [
             4109,
@@ -2537,7 +2537,7 @@
         "monster_id": 4125,
         "name_en": "Batsu Ichimonji",
         "planId": "11BLS6",
-        "statPlan": "SPPSSSS",
+        "statPlan": "PPPSSSS",
         "show": 1,
         "matchFever": [
             4028,
@@ -3595,7 +3595,7 @@
         "monster_id": 4152,
         "name_en": "Gerelt",
         "planId": "12CRS6",
-        "statPlan": "STTSSSS",
+        "statPlan": "TTTSSSS",
         "show": 1,
         "matchFever": [
             4057,
