@@ -1010,7 +1010,7 @@
         "monster_id": 4072,
         "name_en": "Gouken",
         "planId": "6ALP6",
-        "statPlan": "PSSPPPP",
+        "statPlan": "SSSPPPP",
         "show": 1,
         "matchFever": [
             4012,
@@ -2123,7 +2123,7 @@
     {
         "monster_id": 4113,
         "name_en": "Jedah",
-        "planId": "10ART6",
+        "planId": "10BLT6",
         "statPlan": "PTTSSTT",
         "show": 1,
         "matchFever": [
@@ -2509,7 +2509,7 @@
     {
         "monster_id": 4078,
         "name_en": "Ed",
-        "planId": "11ARP6",
+        "planId": "11BLP6",
         "statPlan": "PPPPSTP",
         "show": 1,
         "matchFever": [
@@ -2764,7 +2764,7 @@
         "monster_id": 4055,
         "name_en": "Necro",
         "planId": "11CRT6",
-        "statPlan": "TSSTTTT",
+        "statPlan": "SSSTTTT",
         "show": 1,
         "matchFever": [
             4091,
