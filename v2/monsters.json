@@ -1643,16 +1643,16 @@
             4090,
             4050
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4045,
+            4093
+        ],
         "matchSusNormal": [
             4038,
             4064,
             4098
         ],
-        "matchUnknown": [
-            4045,
-            4093
-        ]
+        "matchUnknown": []
     },
     {
         "monster_id": 4023,
@@ -3703,7 +3703,12 @@
             4018,
             4088
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4146,
+            4148,
+            4145,
+            4155
+        ],
         "matchSusNormal": [
             4079,
             4044,
@@ -3773,12 +3778,7 @@
             4144,
             4147
         ],
-        "matchUnknown": [
-            4146,
-            4148,
-            4145,
-            4155
-        ]
+        "matchUnknown": []
     },
     {
         "monster_id": 4146,
@@ -3868,7 +3868,10 @@
             4005,
             4119
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4148,
+            4142
+        ],
         "matchSusNormal": [
             4006,
             4026,
@@ -3922,10 +3925,7 @@
             4144,
             4147
         ],
-        "matchUnknown": [
-            4148,
-            4142
-        ]
+        "matchUnknown": []
     },
     {
         "monster_id": 4142,
@@ -3934,7 +3934,10 @@
         "statPlan": "PPPPSTP",
         "show": 1,
         "matchFever": [],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4140,
+            4141
+        ],
         "matchSusNormal": [
             4156,
             4144,
@@ -3976,9 +3979,7 @@
             4150,
             4133,
             4135,
-            4138,
-            4140,
-            4141
+            4138
         ]
     },
     {
@@ -3988,7 +3989,12 @@
         "statPlan": "PPPSSSS",
         "show": 1,
         "matchFever": [],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4146,
+            4148,
+            4142,
+            4155
+        ],
         "matchSusNormal": [
             4156,
             4153,
@@ -4044,11 +4050,7 @@
             4139,
             4149,
             4138,
-            4152,
-            4146,
-            4148,
-            4142,
-            4155
+            4152
         ]
     },
     {
@@ -4231,7 +4233,12 @@
         "matchFever": [
             4062
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4148,
+            4142,
+            4145,
+            4141
+        ],
         "matchSusNormal": [
             4143,
             4144
@@ -4288,11 +4295,7 @@
             4133,
             4139,
             4151,
-            4152,
-            4148,
-            4142,
-            4145,
-            4141
+            4152
         ]
     },
     {
@@ -4305,7 +4308,12 @@
             4029,
             4043
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4140,
+            4148,
+            4141,
+            4155
+        ],
         "matchSusNormal": [
             4007,
             4096,
@@ -4362,12 +4370,7 @@
             4144,
             4147
         ],
-        "matchUnknown": [
-            4140,
-            4148,
-            4141,
-            4155
-        ]
+        "matchUnknown": []
     },
     {
         "monster_id": 4141,
@@ -4534,7 +4537,11 @@
         "matchFever": [
             4087
         ],
-        "matchSusFever": [],
+        "matchSusFever": [
+            4146,
+            4142,
+            4141
+        ],
         "matchSusNormal": [
             4156,
             4157,
@@ -4584,10 +4591,7 @@
             4133,
             4139,
             4151,
-            4152,
-            4146,
-            4142,
-            4141
+            4152
         ]
     },
     {
