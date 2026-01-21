@@ -1710,13 +1710,12 @@
         "show": 1,
         "matchFever": [
             4090,
+            4093,
             4050
         ],
-        "matchSusFever": [
-            4045,
-            4093
-        ],
+        "matchSusFever": [],
         "matchSusNormal": [
+            4045,
             4098
         ],
         "matchUnknown": []
