@@ -10139,15 +10139,14 @@
         "show": 1,
         "matchFever": [
             4110,
+            4045,
             4146
         ],
         "matchSusFever": [],
-        "matchSusNormal": [],
-        "matchUnknown": [
+        "matchSusNormal": [
             4096,
             4121,
             4115,
-            4045,
             4103,
             4073,
             4118,
@@ -10163,7 +10162,8 @@
             4156,
             4144,
             4155
-        ]
+        ],
+        "matchUnknown": []
     },
     {
         "monster_id": 4156,
