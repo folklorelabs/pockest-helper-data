@@ -6249,11 +6249,10 @@
         "show": 1,
         "matchFever": [
             4083,
+            4035,
             4011
         ],
-        "matchSusFever": [
-            4035
-        ],
+        "matchSusFever": [],
         "matchSusNormal": [
             4045,
             4066,
