@@ -7745,11 +7745,10 @@
         "show": 1,
         "matchFever": [
             4028,
-            4064
-        ],
-        "matchSusFever": [
+            4064,
             4151
         ],
+        "matchSusFever": [],
         "matchSusNormal": [
             4121,
             4120,
