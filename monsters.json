@@ -875,11 +875,10 @@
         "show": 1,
         "matchFever": [
             4006,
+            4014,
             4022
         ],
-        "matchSusFever": [
-            4014
-        ],
+        "matchSusFever": [],
         "matchSusNormal": [
             4016,
             4009,
