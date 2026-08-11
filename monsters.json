@@ -3838,11 +3838,10 @@
         "show": 1,
         "matchFever": [
             4015,
+            4026,
             4046
         ],
-        "matchSusFever": [
-            4026
-        ],
+        "matchSusFever": [],
         "matchSusNormal": [
             4030,
             4013,
